@@ -10,7 +10,7 @@ There are no required texts for this course. The readings are either available o
 
 Software:
 We will be using some very basic software packages all of which are open-source (no license fee). You will need to install the following programs on your computer.
- ●	Open refine (previously google refine) - http://openrefine.org/ 
+ ●	Open refine (previously google refine) - http://openrefine.org/
  ●	Git Bash – see: https://software-carpentry.org/v5/setup.html
  ●	Text editor (choose one) – any OS: Gedit; Windows: Notepad++; Mac: TextWrangler
 
