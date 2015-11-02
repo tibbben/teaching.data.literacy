@@ -1,18 +1,18 @@
 #####Data Management in the Research Environment - Syllabus 
 
-Instructors: 	Dr. Timothy Norris – Postdoctoral Fellow Miami University Libraries
+**Instructors**: 	Dr. Timothy Norris – Postdoctoral Fellow Miami University Libraries
 Angela Clark – Librarian Associate Professor RSMAS Library
 
 2 Credits: 	600 level course
 
-Texts and Materials:
+**Texts and Materials:**
 There are no required texts for this course. The readings are either available online or will be made available through the course website.
 
-Software:
+**Software:**
 We will be using some very basic software packages all of which are open-source (no license fee). You will need to install the following programs on your computer.
- ●	Open refine (previously google refine) - http://openrefine.org/
- ●	Git Bash – see: https://software-carpentry.org/v5/setup.html
- ●	Text editor (choose one) – any OS: Gedit; Windows: Notepad++; Mac: TextWrangler
+* Open refine (previously google refine) - http://openrefine.org/
+* Git Bash – see: https://software-carpentry.org/v5/setup.html
+* Text editor (choose one) – any OS: Gedit; Windows: Notepad++; Mac: TextWrangler
 
 Course Description:
 The purpose of the course is to develop understandings of research data in broader spatial and temporal contexts--known as the research data lifecycle, to introduce several practical tools for digital scholarship, and to encourage early adoption of best practices in research data management. The course will provide students with strategies to increase productivity (efficiency), enable proper data stewardship (security), and help the student exceed data management expectations/requirements in the research environment (compliance). This is a practical course: students are required to produce a data management plan for their specific research endeavor, OR to prepare and deposit data into a discipline specific repository (other projects subject to instructor approval will be considered). The class is open to all graduate students in all disciplines.
