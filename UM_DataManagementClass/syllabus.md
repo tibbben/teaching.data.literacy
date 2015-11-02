@@ -22,6 +22,7 @@ The purpose of the course is to develop understandings of research data in broad
 Students should have a good idea of what their MS/PhD research will be. If no project is identified at time of enrollment admission will be based upon instructor approval.
 
 **Measureable Learning Outcomes:**
+
 1. Describe data lifecycle models and how they inform data management planning 
 2. Identify file formats, data types, data levels and relevant software and understand how they inform data management and preservation.
 3. Design best practices for file system organization and file naming conventions to serve sound data storage, backup, and preservation strategies.
@@ -61,9 +62,11 @@ Introduction to the course, the instructors and to each other as students. Share
 * Explain what data in the academic research environment are
 * Show the value of data management in the research context
 * Understand the federal policy context for data management and sharing  
+
 Assigned Reading:
 * Holdren, J (2013). Increasing Access to the Results of Federally Funded Scientific Research. Office of Science and Technology Policy, Executive Office of the President. https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf 
 * National Science Foundation. Dissemination and Sharing of Research Results. http://www.nsf.gov/bfa/dias/policy/dmp.jsp (see both the sharing and data management sections).
+
 Optional Reading:
 * Posner, (2013). “Embarrassments of riches: managing research assets.” http://miriamposner.com/blog/?p=982. 
 * Karasti, H., Baker, K. S., & Halkola, E. (2006). Enriching the Notion of Data Curation in E-Science: Data Managing and Information Infrastructuring in the Long Term Ecological Research (LTER) Network. Computer Supported Cooperative Work (CSCW), 15(4), 321-358. https://dx.doi.org/10.1007/s10606-006-9023-2.
