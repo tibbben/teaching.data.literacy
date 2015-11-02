@@ -1,8 +1,7 @@
 Data Management in the Research Environment - Syllabus 
 
 Instructors: 	Dr. Timothy Norris – Postdoctoral Fellow Miami University Libraries
-
-Angela Clark – Librarian Associate Professor RSMAS Library
+               Angela Clark – Librarian Associate Professor RSMAS Library
 
 2 Credits: 	600 level course
 
