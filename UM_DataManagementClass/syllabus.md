@@ -22,13 +22,13 @@ The purpose of the course is to develop understandings of research data in broad
 Students should have a good idea of what their MS/PhD research will be. If no project is identified at time of enrollment admission will be based upon instructor approval.
 
 **Measureable Learning Outcomes:**
-1.	Describe data lifecycle models and how they inform data management planning 
-2.	Identify file formats, data types, data levels and relevant software and understand how they inform data management and preservation.
-3.	Design best practices for file system organization and file naming conventions to serve sound data storage, backup, and preservation strategies.
-4.	Gain practical experience in discovering, acquiring, and cleaning data.
-5.	Produce documentation and metadata for research data to facilitate discovery and re-use.
-6.	Evaluate legal and ethical implications for data access and sharing strategies.
-7.	Identify discipline specific or institutional data repositories and prepare data for deposit.
+1. Describe data lifecycle models and how they inform data management planning 
+2. Identify file formats, data types, data levels and relevant software and understand how they inform data management and preservation.
+3. Design best practices for file system organization and file naming conventions to serve sound data storage, backup, and preservation strategies.
+4. Gain practical experience in discovering, acquiring, and cleaning data.
+5. Produce documentation and metadata for research data to facilitate discovery and re-use.
+6. Evaluate legal and ethical implications for data access and sharing strategies.
+7. Identify discipline specific or institutional data repositories and prepare data for deposit.
 
 **Methods of Instruction:** 
 Lecture-discussion, demonstration, and practical out-of-class and in-class assignments. Students are expected to participate in the lectures, discussions, and in-class projects. We expect that students have little or no prior data management experience/training, but students with previous data management experience will also benefit from the course.
@@ -58,9 +58,9 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 **Week 1:** Course Introduction and Overview: What is data and why are we here? 
 Introduction to the course, the instructors and to each other as students. Share out the students’ research contexts and ideas about the data they will use in the course.
- •	Explain what data in the academic research environment are
- •	Show the value of data management in the research context
- •	Understand the federal policy context for data management and sharing
+* Explain what data in the academic research environment are
+* Show the value of data management in the research context
+* Understand the federal policy context for data management and sharing
 Assigned Reading:
  ➢	Holdren, J (2013). Increasing Access to the Results of Federally Funded Scientific Research. Office of Science and Technology Policy, Executive Office of the President. https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf 
  ➢	National Science Foundation. Dissemination and Sharing of Research Results. http://www.nsf.gov/bfa/dias/policy/dmp.jsp (see both the sharing and data management sections).
