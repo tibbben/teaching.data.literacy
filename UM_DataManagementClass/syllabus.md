@@ -21,8 +21,7 @@ The purpose of the course is to develop understandings of research data in broad
 **Prerequisites:**
 Students should have a good idea of what their MS/PhD research will be. If no project is identified at time of enrollment admission will be based upon instructor approval.
 
-**Measureable Learning Outcomes:**
-
+**Measureable Learning Outcomes:**  
 1. Describe data lifecycle models and how they inform data management planning 
 2. Identify file formats, data types, data levels and relevant software and understand how they inform data management and preservation.
 3. Design best practices for file system organization and file naming conventions to serve sound data storage, backup, and preservation strategies.
