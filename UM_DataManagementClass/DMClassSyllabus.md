@@ -38,13 +38,12 @@ deposit data into a discipline specific repository (other projects
 subject to instructor approval will be considered). The class is open to
 all graduate students in all disciplines.
 
-**Prerequisites: **   
+**Prerequisites:**   
 Students should have a good idea of what their MS/PhD research will
 be. If no project is identified at time of enrollment admission will
 be based upon instructor approval.
 
-**Measureable Learning Outcomes:**
-
+**Measureable Learning Outcomes:**  
 1.  Describe data lifecycle models and how they inform data management
     planning
 2.  Identify file formats, data types, data levels and relevant software
