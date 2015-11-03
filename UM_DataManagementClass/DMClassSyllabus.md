@@ -1,22 +1,19 @@
 **Data Management in the Research Environment - Syllabus**
 
-**Instructors**: 
-Dr. Timothy Norris – Postdoctoral Fellow Miami University Libraries
+**Instructors**:  
+Dr. Timothy Norris – Postdoctoral Fellow Miami University Libraries  
 Angela Clark – Librarian Associate Professor RSMAS Library
 
 **2 Credits:** 600 level course
 
-**Texts and Materials:**
-
+**Texts and Materials:**  
 There are no required texts for this course. The readings are either
 available online or will be made available through the course website.
 
-**Software:**
-
+**Software:**  
 We will be using some very basic software packages all of which are
 open-source (no license fee). You will need to install the following
-programs on your computer.
-
+programs on your computer.  
 -   Open refine (previously google refine) -
     [*http://openrefine.org/*](http://openrefine.org/)
 -   Git Bash – see:
@@ -26,8 +23,7 @@ programs on your computer.
     [*Notepad++*](https://notepad-plus-plus.org/); Mac:
     [*TextWrangler*](http://www.barebones.com/products/textwrangler/)
 
-**Course Description:**
-
+**Course Description:**  
 The purpose of the course is to develop understandings of research data
 in broader spatial and temporal contexts--known as the research data
 lifecycle, to introduce several practical tools for digital scholarship,
@@ -42,8 +38,7 @@ deposit data into a discipline specific repository (other projects
 subject to instructor approval will be considered). The class is open to
 all graduate students in all disciplines.
 
-**Prerequisites: **
-
+**Prerequisites: **   
 Students should have a good idea of what their MS/PhD research will
 be. If no project is identified at time of enrollment admission will
 be based upon instructor approval.
@@ -66,8 +61,7 @@ be based upon instructor approval.
 7.  Identify discipline specific or institutional data repositories and
     prepare data for deposit.
 
-**Methods of Instruction:**
-
+**Methods of Instruction:**  
 Lecture-discussion, demonstration, and practical out-of-class and
 in-class assignments. Students are expected to participate in the
 lectures, discussions, and in-class projects. We expect that students
@@ -75,8 +69,7 @@ have little or no prior data management experience/training, but
 students with previous data management experience will also benefit from
 the course.
 
-**Evaluation of Student Performance:**
-
+**Evaluation of Student Performance:**  
 Students will be assigned a letter grade (A-F) based on the following:
 
 <table>
@@ -104,48 +97,40 @@ Students will be assigned a letter grade (A-F) based on the following:
 </tbody>
 </table>
 
-**Assignments**
-
+**Assignments**  
 There will be several homework assignments throughout the semester. This
 will include reading and writing assignments, online tutorial
 assignments, and data wrangling assignments.
 
-**Class Participation**
-
+**Class Participation**  
 Engagement in class activities through speaking, contributing comments
 to the class web-page, or participating in group projects is an
 important aspect of this class
 
-**Midterm Project**
-
+**Midterm Project**  
 Create a data curation profile of your or your laboratories research.
 This includes thinking through and responding to your choice of three
 questions from the data curation profile toolkit (Purdue Universities,
 see links in schedule below).
 
-**Final Project**
-
+**Final Project**  
 Create a data management plan for your research project OR
 prepare/curate data for deposit into a discipline specific repository.
 
 
-**Weekly Schedule:**
-
+**Weekly Schedule:**  
 All topics/dates/assignments are subject to revision/change based on
 instructor decisions and any other *force majeur* that may take place
 during the quarter.
 
 *Week 1: Course Introduction and Overview: What is data and why are we
 here?*
-
 > Introduction to the course, the instructors and to each other as
 > students. Share out the students’ research contexts and ideas about
 > the data they will use in the course.
 
 -   Explain what data in the academic research environment are
-
 -   Show the value of data management in the research context
-
 -   Understand the federal policy context for data management and
     sharing
 
