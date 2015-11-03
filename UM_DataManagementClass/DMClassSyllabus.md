@@ -44,7 +44,7 @@ be. If no project is identified at time of enrollment admission will
 be based upon instructor approval.
 
 **Measureable Learning Outcomes:**  
-By the end of the course the student will be able to do the following:  
+ 
 1.  Describe data lifecycle models and how they inform data management
     planning
 2.  Identify file formats, data types, data levels and relevant software
@@ -123,7 +123,7 @@ All topics/dates/assignments are subject to revision/change based on
 instructor decisions and any other *force majeur* that may take place
 during the quarter.
 
-*Week 1: Course Introduction and Overview: What is data and why are we
+*__Week 1:__ Course Introduction and Overview: What is data and why are we
 here?*
 > Introduction to the course, the instructors and to each other as
 > students. Share out the students’ research contexts and ideas about
