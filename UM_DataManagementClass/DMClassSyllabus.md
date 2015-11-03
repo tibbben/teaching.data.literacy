@@ -157,53 +157,45 @@ here?*
     Cooperative Work (CSCW), 15(4), 321-358.
     [*https://dx.doi.org/10.1007/s10606-006-9023-2*](https://dx.doi.org/10.1007/s10606-006-9023-2).
 
-*Week 2: The Research Data Lifecycle*
+*__Week 2:__ The Research Data Lifecycle*
 
 > Describe several data lifecycle models and how they inform data
 > management planning.
 
 -   Explain the data lifecycle with attention to understanding “data”
     and “management”
-
 -   Show the variety of approaches to data management planning
-
 -   Critically evaluate existing Data Management Plans
 
 > Assigned Reading:
 
 -   Open Data Policy—Managing Information as an Asset.
     [*https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf*](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)[](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
-
 -   Committee on Ensuring the Utility and Integrity of Research Data in
     a Digital Age (2009). “Promoting the Stewardship of Research Data”
     (Chap 4) in *Ensuring the Integrity, Accessibility, and Stewardship
     of Research Data in the Digital Age*. National Academies Press,
     Washington D.C.
     [*http://www.nap.edu/catalog/12615/ensuring-the-integrity-accessibility-and-stewardship-of-research-data-in-the-digital-age*](http://www.nap.edu/catalog/12615/ensuring-the-integrity-accessibility-and-stewardship-of-research-data-in-the-digital-age)
-
 -   Choose a DMP to read from
     [*https://dmptool.org/public\_dmps*](https://dmptool.org/public_dmps).
     NOTE: “They are not vetted for quality, completeness, or adherence
     to funder guidelines.”
-
 -   If your research lab has an existing DMP bring it to class
 
 > Assignment \#1: write a one-page evaluation of the strengths and
 > weaknesses of a DMP (can be from your research lab)
 
-*Week 3: Data Types, Stages, and Formats* \[ TURN IN ASSIGNMENT \#1 \]
+*__Week 3:__ Data Types, Stages, and Formats* \[ TURN IN ASSIGNMENT \#1 \]
 
 > Describe the difference between data types, data stages, and data
 > formats and then relate these concepts in the research environment.
 
 -   Recognize different data types and structures and their related
     software and/or scripts
-
 -   Categorize data by its stage in the research cycle
-
 -   Identify file formats and their related software and/or scripts for
     different kinds of media
-
 -   Plan file format practices/choices for both research workflows and
     for preservation.
 
@@ -212,23 +204,20 @@ here?*
 -   Kitchin, R (2014). “Conceptualizing Data” in Kitchin, R *The
     Data Revolution.* Washington DC: Sage.
     [*http://uk.sagepub.com/sites/default/files/upm-binaries/63923\_Kitchin\_CH1.pdf*](http://uk.sagepub.com/sites/default/files/upm-binaries/63923_Kitchin_CH1.pdf)
-
 -   UK Data Archive (2015). Create and Manage Data: formatting Your
     Data: File Formats and Software.
     [*http://www.data-archive.ac.uk/create-manage/format/formats*](http://www.data-archive.ac.uk/create-manage/format/formats).
     (follow “Recommended File Formats” link as well).
-
 -   Library of Congress (2015). Recommended Formats Statement 2015-2016.
     [*https://www.loc.gov/preservation/resources/rfs/RFS%202015-2016.pdf*](https://www.loc.gov/preservation/resources/rfs/RFS%202015-2016.pdf).
 
-*Week 4: Data Organization (software carpentry: BASH shell)*
+*__Week 4:__ Data Organization (software carpentry: BASH shell)*
 
 > Design best practices for file system organization and file naming
 > conventions.
 
 -   Manipulate file system structure and organization through the
     BASH command-line.
-
 -   Write a shell script to rename all files in a folder.
 
 > Assigned Reading:
@@ -236,7 +225,6 @@ here?*
 -   Frazer, Meghan (2013). An Elevator Pitch for File
     Naming Conventions.
     [*http://acrl.ala.org/techconnect/post/an-elevator-pitch-for-file-naming-conventions*](http://acrl.ala.org/techconnect/post/an-elevator-pitch-for-file-naming-conventions).
-
 -   Alexandra Simperler, Greg Wilson (2015). Software Carpentry get more
     done in less time.
     [*http://arxiv.org/abs/1506.02575*](http://arxiv.org/abs/1506.02575).
@@ -245,44 +233,38 @@ here?*
 > MUCH AS YOU CAN BEFORE COMING TO CLASS ON THIS DAY \]
 > [*http://swcarpentry.github.io/shell-novice/*](http://swcarpentry.github.io/shell-novice/).
 
-*Week 5: Data Storage, Backup and Security*
+*__Week 5:__ Data Storage, Backup and Security*
 
 > Design data storage and backup strategies for the stages of your
 > research project.
 
 -   Identify different hardware solutions
-
 -   Identify online solutions
-
 -   Describe advantages and disadvantages of different strategies
 
 > Assigned Reading:
 
 -   Backing Up Data (UK Data Archive):[
     ](http://www.data-archive.ac.uk/create-manage/storage/back-up)[*http://www.data-archive.ac.uk/create-manage/storage/back-up*](http://www.data-archive.ac.uk/create-manage/storage/back-up)
-
 -   Ruggiero and Heckathorn (2012). Data Backup Options. United States
     Computer Emergency Readiness Team.
     [*https://www.us-cert.gov/sites/default/files/publications/data\_backup\_options.pdf*](https://www.us-cert.gov/sites/default/files/publications/data_backup_options.pdf).
-
 -   Version Control and Authenticity (UK Data Archive):[
     ](http://www.data-archive.ac.uk/create-manage/format/versions)[*http://www.data-archive.ac.uk/create-manage/format/versions*](http://www.data-archive.ac.uk/create-manage/format/versions)
 
-Optional Reading:
+> Optional Reading:
 
 -   Gallagher. “The great disk drive in the sky: how web giants store
     big -- and we mean big -- data.”
     [*http://bit.ly/1Ll8gl7*](http://bit.ly/1Ll8gl7).
-
 -   Rosenthal, “Estimating storage costs.”
     [*http://blog.dshr.org/2013/11/estimating-storage-costs.html\#more*](http://blog.dshr.org/2013/11/estimating-storage-costs.html#more).
 
-*Week 6: Data Curation Profiles*
+*__Week 6:__ Data Curation Profiles*
 
 > Introduce the data curation profile.
 
 -   Maintain cross-disciplinary conversations about data management
-
 -   Critical analysis of current practices in data management
 
 > Assigned Reading:
@@ -290,10 +272,8 @@ Optional Reading:
 -   Download the Data Curation Profiles Toolkit from
     [*http://docs.lib.purdue.edu/dcptoolkit/*](http://docs.lib.purdue.edu/dcptoolkit/).
     Read the introduction and skim the rest.
-
 -   Download and use/modify the interview guide template from
     [*http://bit.ly/1Ll8gl7*](http://bit.ly/1Ll8gl7).
-
 -   Choose one data curation profile to read from
     [*http://docs.lib.purdue.edu/dcp/*](http://docs.lib.purdue.edu/dcp/).
 
@@ -301,19 +281,18 @@ Optional Reading:
 > curation profile toolkit relevant to your work. Write responses to the
 > questions (1-3 paragraphs each response).
 
-*Week 7: Open Lab*
+*__Week 7:__ Open Lab*
 
 > Perform data curation interviews and follow-up. Begin drafting data
 > curation profiles for midterm project.
 
-*Week 8: Metadata and Contextual Details* \[ TURN IN MIDTERM PROJECT \]
+*__Week 8:__ Metadata and Contextual Details* \[ TURN IN MIDTERM PROJECT \]
 
 > Understand the importance of quality descriptions of data and
 > associated software and/or scripts, especially across temporal scales
 > and disciplinary boundaries.
 
 -   Document data throughout the research endeavor.
-
 -   Produce metadata that facilitates discovery and re-use.
 
 > Assigned Reading:
@@ -321,39 +300,33 @@ Optional Reading:
 -   Riley, “Seeing Standards.”
     [*http://www.dlib.indiana.edu/~jenlrile/metadatamap/*](http://www.dlib.indiana.edu/~jenlrile/metadatamap/).
     Download and study this poster in depth.
-
 -   Star, Castro, *et al* (2015)*.* Achieving human and machine
     accessibility of cited data in scholarly publications. *PeerJ
     Computer Science* 1:e1[
     ](https://dx.doi.org/10.7717/peerj-cs.1)[*https://dx.doi.org/10.7717/peerj-cs.1*](https://dx.doi.org/10.7717/peerj-cs.1).
 
-Optional Reading:
+> Optional Reading:
 
 -   Curdt, Constanze, Dirk Hoffmeister, Guido Waldhoff, Christian Jekel,
     and Georg Bareth. "Scientific Research Data Management for
     Soil-Vegetation-Atmosphere Data—The TR32DB." *International Journal
     of Digital Curation* 7, no. 2 (2012): 68-80.[
     ](http://www.ijdc.net/index.php/ijdc/article/view/220/295)[*http://www.ijdc.net/index.php/ijdc/article/view/220/295*](http://www.ijdc.net/index.php/ijdc/article/view/220/295)
-
 -   \[ for ecology: read the introduction through to 2.3.4 \] KNB
     (no date). “Ecological Metadata Language (EML) Specification.” The
     Knowledge Network,
     [*https://knb.ecoinformatics.org/\#external//emlparser/docs/eml-2.1.1/index.html*](https://knb.ecoinformatics.org/#external//emlparser/docs/eml-2.1.1/index.html).
-
 -   \[ for marine biology \] Neiswender (2010). "Introduction to
     Metadata." In *The MMI Guides: Navigating the World of Marine
     Metadata*.
     [*http://marinemetadata.org/guides/mdataintro*](http://marinemetadata.org/guides/mdataintro).
-
 -   \[ for atmospheric science: read the introduction through 2.6.2 \]
     Eaton, *et al* (2011). NetCDF Climate and Forecast (CF)
     Metadata Conventions.
     [*http://cfconventions.org/Data/cf-conventions/cf-conventions-1.6/build/cf-conventions.pdf*](http://cfconventions.org/Data/cf-conventions/cf-conventions-1.6/build/cf-conventions.pdf).
-
 -   \[ for marine geology: read the introduction through chapter 6 \]
     SEG (2015). SEG Y rev 2 Data Exchange Format.
     [*http://www.seg.org/documents/51956/6062543/SEG-Y+rev+2+Draft+Jan+2015*](http://www.seg.org/documents/51956/6062543/SEG-Y+rev+2+Draft+Jan+2015)
-
 -   \[ for geographic data: read the introduction through page 31 \]
     FGDC (2000). Content Standard for Digital Geospatial Metadata
     Workbook, Version 2.0.
@@ -361,7 +334,7 @@ Optional Reading:
 
 > Assignment \#3: Create metadata for your research data
 
-*Weeks 9 and 10: (software carpentry)* \[ TURN IN ASSIGNMENT \#3 \]
+*__Weeks 9 and 10:__ (software carpentry)* \[ TURN IN ASSIGNMENT \#3 \]
 
 > No class meeting for week 9 and week 10. Instead there will be a
 > scheduled two-day “Software Carpentry” workshop held on the RSMAS
@@ -380,27 +353,24 @@ Optional Reading:
 > Each of these sessions include a component on how to use GitHub
 > effectively.
 
-*Week 11: Finding and Cleaning Data*
+*__Week 11:__ Finding and Cleaning Data*
 
 > Identify difficulties in acquiring and cleaning data.
 
 -   Understand challenges of acquiring data online
-
 -   Use online tools for data cleaning
-
 -   Use offline tools for data cleaning
 
 > Assignment \#4: Nguyen. “Using Google Refine to clean messy data.” \[
 > DO THE TUTORIAL BEFORE CLASS \]
 > [*http://www.propublica.org/nerds/item/using-google-refine-for-data-cleaning*](http://www.propublica.org/nerds/item/using-google-refine-for-data-cleaning).
 
-*Week 12: Sharing and Reuse: Intellectual Property and Licensing*
+*__Week 12:__ Sharing and Reuse: Intellectual Property and Licensing*
 
 > Evaluate how ownership and copyright of data and associated software
 > and/or scripts impact access and sharing strategies.
 
 -   Know University of Miami Policy
-
 -   Know your rights and obligations in the research environment
 
 > Assigned Reading:
@@ -408,7 +378,6 @@ Optional Reading:
 -   Miami and other IP policy / data policy. Search for ‘data’ and scan
     relevant sections.
     [*https://umshare.miami.edu/web/wda/facultysenate/FacultyManual.pdf*](https://umshare.miami.edu/web/wda/facultysenate/FacultyManual.pdf).
-
 -   Madison (2011). “Knowledge Curation.” Notre Dame Law Review, Vol.
     86, p. 1957, 2011; U. of Pittsburgh Legal Studies Research Paper No.
     2011-13. Available at SSRN:[
@@ -420,20 +389,18 @@ Optional Reading:
     the Public Domain. Law and Contemporary Problems,
     66:33(Winter/Spring), 33-74.
     [*http://scholarship.law.duke.edu/lcp/vol66/iss1/2/*](http://scholarship.law.duke.edu/lcp/vol66/iss1/2/).
-
 -   David (2008). The Historical Origins of ‘Open Science’: An Essay on
     Patronage, Reputation and Common Agency Contracting in the
     Scientific Revolution. *Capitalism and Society* 3(2), Article 5.
     [*https://dx.doi.org/10.2202/1932-0213.1040*](https://dx.doi.org/10.2202/1932-0213.1040).
 
-*Week 13: Repository Identification / Preparation for Preservation /
+*__Week 13:__ Repository Identification / Preparation for Preservation /
 Unique Identifiers*
 
 > Identify appropriate discipline specific or institutional data
 > repositories
 
 -   Prepare data for deposit.
-
 -   Cite deposited data correctly
 
 > Assigned Readings:
@@ -442,7 +409,6 @@ Unique Identifiers*
     Evolving Data: Recommendations of the Working Group on
     Data Citation. Research Data Alliance.
     [*https://rd-alliance.org/filedepot?cid=262&fid=667*](https://rd-alliance.org/filedepot?cid=262&fid=667).
-
 -   Fecher, B., Friesike, S., & Hebing, M. (2015). What Drives Academic
     Data Sharing? PLoS ONE, 10(2).
     [*https://dx.doi.org/10.1371/journal.pone.0118053*](https://dx.doi.org/10.1371/journal.pone.0118053).
@@ -451,9 +417,9 @@ Unique Identifiers*
 > [*http://www.re3data.org/*](http://www.re3data.org/) and identify
 > three potential repositories for your data deposit.
 
-*Week 14: Open Lab* \[ TURN IN ASSIGNMENT \#5 \]
+*__Week 14:__ Open Lab* \[ TURN IN ASSIGNMENT \#5 \]
 
 > Time with instructors to work on final projects. Students will
 > exchange their final projects in pairs and provide immediate feedback.
 
-*Finals Week:* \[ TURN IN FINAL PROJECT \]
+*__Finals Week:__* \[ TURN IN FINAL PROJECT \]
