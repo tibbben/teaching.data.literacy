@@ -62,24 +62,25 @@ Introduction to the course, the instructors and to each other as students. Share
 * Show the value of data management in the research context
 * Understand the federal policy context for data management and sharing  
 
-Assigned Reading:
+ Assigned Reading:
 * Holdren, J (2013). Increasing Access to the Results of Federally Funded Scientific Research. Office of Science and Technology Policy, Executive Office of the President. https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf 
 * National Science Foundation. Dissemination and Sharing of Research Results. http://www.nsf.gov/bfa/dias/policy/dmp.jsp (see both the sharing and data management sections).
 
-Optional Reading:
+ Optional Reading:
 * Posner, (2013). “Embarrassments of riches: managing research assets.” http://miriamposner.com/blog/?p=982. 
 * Karasti, H., Baker, K. S., & Halkola, E. (2006). Enriching the Notion of Data Curation in E-Science: Data Managing and Information Infrastructuring in the Long Term Ecological Research (LTER) Network. Computer Supported Cooperative Work (CSCW), 15(4), 321-358. https://dx.doi.org/10.1007/s10606-006-9023-2.
 
 **Week 2:** The Research Data Lifecycle 
 Describe several data lifecycle models and how they inform data management planning.
- •	Explain the data lifecycle with attention to understanding “data” and “management”
- •	Show the variety of approaches to data management planning
- •	Critically evaluate existing Data Management Plans
-Assigned Reading:
- ➢	Open Data Policy—Managing Information as an Asset. https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf
- ➢	Committee on Ensuring the Utility and Integrity of Research Data in a Digital Age (2009). “Promoting the Stewardship of Research Data” (Chap 4) in Ensuring the Integrity, Accessibility, and Stewardship of Research Data in the Digital Age. National Academies Press, Washington D.C. http://www.nap.edu/catalog/12615/ensuring-the-integrity-accessibility-and-stewardship-of-research-data-in-the-digital-age 
- ➢	Choose a DMP to read from https://dmptool.org/public_dmps. NOTE: “They are not vetted for quality, completeness, or adherence to funder guidelines.”
- ➢	If your research lab has an existing DMP bring it to class
+* Explain the data lifecycle with attention to understanding “data” and “management”
+* Show the variety of approaches to data management planning
+* Critically evaluate existing Data Management Plans
+
+ Assigned Reading:
+* Open Data Policy—Managing Information as an Asset. https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf
+* Committee on Ensuring the Utility and Integrity of Research Data in a Digital Age (2009). “Promoting the Stewardship of Research Data” (Chap 4) in Ensuring the Integrity, Accessibility, and Stewardship of Research Data in the Digital Age. National Academies Press, Washington D.C. http://www.nap.edu/catalog/12615/ensuring-the-integrity-accessibility-and-stewardship-of-research-data-in-the-digital-age 
+* Choose a DMP to read from https://dmptool.org/public_dmps. NOTE: “They are not vetted for quality, completeness, or adherence to funder guidelines.”
+* If your research lab has an existing DMP bring it to class
 Assignment #1: write a one-page evaluation of the strengths and weaknesses of a DMP (can be from your research lab)
 
 Week 3: Data Types, Stages, and Formats				      [ TURN IN ASSIGNMENT #1 ]
