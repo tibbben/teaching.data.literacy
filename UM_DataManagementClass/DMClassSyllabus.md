@@ -44,6 +44,7 @@ be. If no project is identified at time of enrollment admission will
 be based upon instructor approval.
 
 **Measureable Learning Outcomes:**  
+By the end of the course the student will be able to do the following:  
 1.  Describe data lifecycle models and how they inform data management
     planning
 2.  Identify file formats, data types, data levels and relevant software
