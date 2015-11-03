@@ -1,4 +1,4 @@
-**Data Management in the Research Environment - Syllabus **
+**Data Management in the Research Environment - Syllabus**
 
 **Instructors**: 
 Dr. Timothy Norris – Postdoctoral Fellow Miami University Libraries
@@ -19,10 +19,8 @@ programs on your computer.
 
 -   Open refine (previously google refine) -
     [*http://openrefine.org/*](http://openrefine.org/)
-
 -   Git Bash – see:
     [*https://software-carpentry.org/v5/setup.html*](https://software-carpentry.org/v5/setup.html)[](https://software-carpentry.org/v5/setup.html)
-
 -   Text editor (choose one) – any OS:
     [*Gedit*](https://wiki.gnome.org/Apps/Gedit); Windows:
     [*Notepad++*](https://notepad-plus-plus.org/); Mac:
@@ -46,31 +44,25 @@ all graduate students in all disciplines.
 
 **Prerequisites: **
 
-**Students should have a good idea of what their MS/PhD research will
-be.** If no project is identified at time of enrollment admission will
+Students should have a good idea of what their MS/PhD research will
+be. If no project is identified at time of enrollment admission will
 be based upon instructor approval.
 
 **Measureable Learning Outcomes:**
 
 1.  Describe data lifecycle models and how they inform data management
     planning
-
 2.  Identify file formats, data types, data levels and relevant software
     and understand how they inform data management and preservation.
-
 3.  Design best practices for file system organization and file naming
     conventions to serve sound data storage, backup, and
     preservation strategies.
-
 4.  Gain practical experience in discovering, acquiring, and
     cleaning data.
-
 5.  Produce documentation and metadata for research data to facilitate
     discovery and re-use.
-
 6.  Evaluate legal and ethical implications for data access and
     sharing strategies.
-
 7.  Identify discipline specific or institutional data repositories and
     prepare data for deposit.
 
@@ -136,10 +128,8 @@ see links in schedule below).
 Create a data management plan for your research project OR
 prepare/curate data for deposit into a discipline specific repository.
 
-**  
-**
 
-**Weekly Schedule: **
+**Weekly Schedule:**
 
 All topics/dates/assignments are subject to revision/change based on
 instructor decisions and any other *force majeur* that may take place
@@ -165,18 +155,16 @@ here?*
     Funded Scientific Research*. Office of Science and Technology
     Policy, Executive Office of the President.
     [*https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp\_public\_access\_memo\_2013.pdf*](https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
-
 -   <span id="h.hp1x4x199315" class="anchor"></span>National
     Science Foundation. *Dissemination and Sharing of Research Results*.
     [*http://www.nsf.gov/bfa/dias/policy/dmp.jsp*](http://www.nsf.gov/bfa/dias/policy/dmp.jsp)
     (see both the sharing and data management sections).
 
-Optional Reading:
+> Optional Reading:
 
 -   <span id="h.ruyrx9d3cp0b" class="anchor"></span>Posner, (2013).
     “Embarrassments of riches: managing research assets.”
     [*http://miriamposner.com/blog/?p=982*](http://miriamposner.com/blog/?p=982).
-
 -   <span id="h.gjdgxs" class="anchor"></span>Karasti, H., Baker, K. S.,
     & Halkola, E. (2006). Enriching the Notion of Data Curation in
     E-Science: Data Managing and Information Infrastructuring in the
