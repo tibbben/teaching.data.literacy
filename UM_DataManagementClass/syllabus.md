@@ -58,8 +58,8 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 **Week 1:** Course Introduction and Overview: What is data and why are we here?  
 Introduction to the course, the instructors and to each other as students. Share out the students’ research contexts and ideas about the data they will use in the course.
-* Explain what data in the academic research environment are.
-* Show the value of data management in the research context.
+* Explain what data in the academic research environment are
+* Show the value of data management in the research context
 * Understand the federal policy context for data management and sharing.  
 
  Assigned Reading:
