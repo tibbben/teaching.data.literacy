@@ -3,7 +3,7 @@
 - explain the importance of managing data
 - relate the federal policy context for data management and sharing
 
-**Lesson Plan**
+**Lesson Plan**  
 1. Introductions
  - Instructors (10 min)
  - Data Sharing Snafue in 3 short acts
