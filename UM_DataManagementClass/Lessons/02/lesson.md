@@ -16,16 +16,27 @@ Lesson 2
 2. Open Data: strengths and weaknesses 
 3. Introduce Data Management Plan 
   - show the DMPtool and the library of plans
+  - introduce the reading assgnment
 
 *__Class 2__*  
 
 1. Data Management Plans (cont. 10 min)  
   - review DMPtool
-2. arguments for and against data sharing  
-  - split class in two groups: one group for data sharing, one against
-  - 10 minutes to brainstorm arguments
-  - 10 minutes to present arguments (style as debate)
-3. Revisit arguments as lecture (15 minutes)  
-  - make sure to fill in any gaps
-4. Shareout: personal data management snafus (ask for volunteers) (10 minutes)  
+2. Pair - what did you find in your selected DMP (10 Minutes)
+  - strengths and weaknesses
+  - anything unexpected
+3. and Share (15 minutes)
+
+---
+
+> Readings (Required)
+
+-   Open Data Policy—Managing Information as an Asset. [*https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf*](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)[](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
+-   Committee on Ensuring the Utility and Integrity of Research Data in a Digital Age (2009). “Promoting the Stewardship of Research Data” (Chap 4) in *Ensuring the Integrity, Accessibility, and Stewardship of Research Data in the Digital Age*. National Academies Press, Washington D.C. [*http://www.nap.edu/catalog/12615/ensuring-the-integrity-accessibility-and-stewardship-of-research-data-in-the-digital-age*](http://www.nap.edu/catalog/12615/ensuring-the-integrity-accessibility-and-stewardship-of-research-data-in-the-digital-age)
+-   Choose a DMP to read from [*https://dmptool.org/public\_dmps*](https://dmptool.org/public_dmps). NOTE: “They are not vetted for quality, completeness, or adherence to funder guidelines.”
+-   If your research lab has an existing DMP bring it to class
+
+> Assignment \#1: 
+
+- write a one-page evaluation of the strengths and weaknesses of a DMP (can be from your research lab)
 
