@@ -34,7 +34,6 @@ Lesson 1
   - fill in any gaps from debate  
 4. Shareout: personal data management snafus (ask for volunteers) (10 minutes)  
 
-
 ---
 
 > Readings (required)
