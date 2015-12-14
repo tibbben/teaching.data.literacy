@@ -3,12 +3,10 @@
 - explain the importance of managing data
 - relate the federal policy context for data management and sharing
 
-<<<<<<< HEAD
 **Lesson Plan**
 Class 1
 =======
 **Lesson Plan**  
->>>>>>> 0a16f2d8391755ed48c2d16ed209363bf0a57c0e
 1. Introductions
  - Instructors (10 min)
  - Data [Sharing Snafu](https://www.youtube.com/watch?v=N2zK3sAtr-4) in 3 short acts
@@ -16,7 +14,6 @@ Class 1
 2. What is data
  - introduction (5 min)
  - pair and share activity (5 min pair/20 min share)
-<<<<<<< HEAD
 3. Why Manage Data: Data Management and Data Sharing (lecture 15 min)
  - introduction to readings
 
@@ -38,6 +35,3 @@ Class 2
 6. Revisit arguments as lecture (15 minutes)
  - fill in any gaps from debate
 7. Shareout: personal data management snafus (ask for volunteers) (10 minutes)
-=======
-3. 
->>>>>>> 0a16f2d8391755ed48c2d16ed209363bf0a57c0e
