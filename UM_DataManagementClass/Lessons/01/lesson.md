@@ -13,30 +13,25 @@ Lesson 1
 *__Class 1__*  
 
 1. Introductions  
- - Instructors (10 min)  
- - Data [Sharing Snafu](https://www.youtube.com/watch?v=N2zK3sAtr-4) in 3 short acts  
- - Course objective and outline (lecture 15 min)  
-
+  - Instructors (10 min)  
+  - Data [Sharing Snafu](https://www.youtube.com/watch?v=N2zK3sAtr-4) in 3 short acts  
+  - Course objective and outline (lecture 15 min)  
 2. What is data  
- - introduction (5 min)  
- - pair and share activity (5 min pair/20 min share)  
-
+  - introduction (5 min)  
+  - pair and share activity (5 min pair/20 min share)  
 3. Why Manage Data: Data Management and Data Sharing (lecture 15 min)  
- - introduction to readings  
+  - introduction to readings  
 
 *__Class 2__*  
 
 1. Why Manage Data: Data Management and Data Sharing (cont. 10 min)  
- - review readings  
-
+  - review readings  
 2. arguments for and against data sharing  
- - split class in two groups: one group for data sharing, one against
- - 10 minutes to brainstorm arguments
- - 10 minutes to present arguments (style as debate)  
-
+  - split class in two groups: one group for data sharing, one against
+  - 10 minutes to brainstorm arguments
+  - 10 minutes to present arguments (style as debate)  
 3. Revisit arguments as lecture (15 minutes)
- - fill in any gaps from debate  
-
+  - fill in any gaps from debate  
 4. Shareout: personal data management snafus (ask for volunteers) (10 minutes)  
 
 ---
