@@ -6,6 +6,8 @@ Lesson 1
 - explain the importance of managing data
 - relate the federal policy context for data management and sharing
 
+---
+
 **Lesson Plan**  
 
 *__Class 1__*  
@@ -36,6 +38,8 @@ Lesson 1
  - fill in any gaps from debate  
 
 4. Shareout: personal data management snafus (ask for volunteers) (10 minutes)  
+
+---
 
 > Readings (required)
 
