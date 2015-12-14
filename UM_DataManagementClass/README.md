@@ -1,1 +1,1 @@
-This folder contains the *working* syllabus and lectures for a two-unit data management class to be taught at the Rosensteil School of Marine and Atmospherics Sciences at the University of Miami in the SPring of 2016.
+This folder contains the *working* syllabus and lectures for a two-unit data management class to be taught at the Rosensteil School of Marine and Atmospherics Sciences at the University of Miami in the Spring of 2016.

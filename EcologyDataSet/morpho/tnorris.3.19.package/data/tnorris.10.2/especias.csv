@@ -1,0 +1,151 @@
+SID,FAMILIA,GenusEspecies,NombreComun,OvinosAlpacas,Vacas,Llamas,2010obs,2011obs,TotalObs
+1,AM,Gomphrena meyeniana,,PD,PD,D,1,0,1
+2,AP,Azorella crenata,Yareta,PD,NC,D,11,1,12
+3,AP,Lilaeopsis andina,Laya laya;Chinga,PD,NC,PD,40,12,52
+4,CA,Opuntia flocosa S.D.,Wagur;Warco,NC,NC,NC,9,13,22
+5,CH,Beta sp.,Acelga chilena,PD,D,PD,0,28,28
+6,CO,Achyrocline alata (H.B.K.) D.C.,Yurac cora,NC,NC,PD,18,11,29
+7,CO,Bidens andicola,Sillcau,NC,NC,PD,15,50,65
+8,CO,Chuquiraga spinosa (R&P) D.Don,Huaman Pinta,NC,NC,PD,3,1,4
+9,CO,Escorzonera sp.,Escorzonera,NC,NC,PD,5,10,15
+10,CO,Gnaphalium sp.,,n-c,n-c,n-c,3,0,3
+11,CO,Hypochoeris sp.,,D,NC,PD,88,28,116
+12,CO,Hypochoeris stenocephala,,MD,PD,PD,11,24,35
+13,CO,Hypochoeris taraxacoides (Walp.)B&H,Cuchi cora;Pilli pilli;Pilli,MD,NC,PD,52,96,148
+14,CO,Lepidophyllum quadrangulare,,PD,PD,PD,9,0,9
+15,CO,Loricaria graveolens Wedd.,Gallopa chaquin,NC,NC,NC,4,0,4
+16,CO,Lucilia aretioides,,PD,NC,PD,7,1,8
+17,CO,Lucilia tunariensis,,PD,NC,PD,16,0,16
+18,CO,Paranephelius bullatus A.Gray ,Millhua cora;Panas,PD,PD,PD,11,112,123
+19,CO,Pseudonoseris szyszylowiczii,Antacsha,n-c,n-c,n-c,0,13,13
+20,CO,Senecio sp.,,n-c,n-c,n-c,0,2,2
+21,CO,Senecio canescens (H.B.K.) Cuatr.,Ancush cora,NC,NC,NC,18,7,25
+22,CO,Senecio spinosus DC.,Pacha casha,NC,NC,PD,2,6,8
+23,CO,Sonchus oleraceus Linneo,Casha gania,PD,NC,PD,4,11,15
+24,CO,Taraxacum officinale Wigg.,Chicoria,PD,NC,PD,1,9,10
+25,CO,Werneria caespitosa Wedd. E,Cebolla wiscor,D,NC,PD,46,93,139
+26,CO,Werneria nubigena HBK ,Calhua calhua Cebolla wiscor,D,NC,PD,55,124,179
+27,CO,Werneria villosa A. Gray,Condorpa cebollan,D,NC,PD,44,28,72
+28,CY,Carex boliviensis Van Heur. & Muell.,Ajshallay,MD,D,PD,0,4,4
+29,CY,Carex ecuadorica Kuekenthal,Socco cora;Ccora;Sergua,MD,D,PD,199,244,443
+30,CY,Carex hebetata Boolt,Sequia cora,MD,D,D,0,32,32
+31,CY,Cyperus niger Ruiz & Pavón ,Ichic ututo,MD,D,D,5,2,7
+32,CY,Eleocharis albibracteata Ness & Mey,Quemillo;Chucro pasto,MD,D,D,117,158,275
+33,CY,Scirpus rigidus Boeckeler,Totorilla;Anccuya,PD,D,D,61,53,114
+34,GE,Erodium cicutarum Linneo L´Héritier,Auja auja;Alfilerillo,NC,NC,NC,2,11,13
+35,GE,Geranium sessiliflorum Cavanillas,Paca make;Malvatina;Rachichi,PD,NC,PD,224,293,517
+36,GR,Aciachne pulvinata,Ucush casha;Pacu pacu,NC,NC,PD,162,168,330
+37,GR,Agropyron breviaristatum Hitchcock,Trigo Soclla,PD,PD,PD,0,6,6
+38,GR,Agrostis breviculmis Hitchcock,Champa;Chiji,D,PD,D,184,147,331
+39,GR,Agrostis hankeana Hitchcock,Chiji;Pajonal,PD,PD,PD,24,19,43
+40,GR,Agrostis tolucensis H.B.K.,"Champa;Chiji,Cebadilla;Crespillo grande",PD,PD,PD,34,69,103
+41,GR,Alocuperus sp.,,PD,PD,PD,0,6,6
+42,GR,Aristida enodis Hackel,Orqo iru;Sunka pasto,PD,PD,D,2,25,27
+43,GR,Axonopus elengatulus (Presl) Hitchcock,Quima Hueta,PD,PD,PD,4,1,5
+44,GR,Brachypodium mexicanum Link,Tullu soclla,PD,PD,PD,0,5,5
+45,GR,Bromus catharticus Valh,Shola;Cebadilla,D,D,D,225,158,383
+46,GR,Bromus lanatus Humb.Bonpl. &Kunth,Shola;Cebadilla,D,D,D,124,93,217
+47,GR,Bromus pitensis Humb.Bonpl. &Kunth,Shola;Shoclla,D,D,D,5,14,19
+48,GR,Bromus trinii,,D,D,D,0,1,1
+49,GR,Bromus unioloides,Shola;Shoclla,MD,MD,MD,34,29,63
+50,GR,Calamagrostis amplifora Tóvar,Oqu ocsha,PD,PD,PD,15,14,29
+51,GR,Calamagrostis antoniana (Grisebach) Steudel ,Ocsha,PD,PD,PD,8,0,8
+52,GR,Calamagrostis brevifolia (Wedd.) Pilger,Llama pasto,PD,PD,MD,73,170,243
+53,GR,Calamagrostis curvula (Wedd.) Pilger,Qoshru ocsha,n-c,n-c,n-c,0,26,26
+54,GR,Calamagrostis eminens,Sora,PD,D,MD,3,24,27
+55,GR,Calamagrostis glacialis (Weddell) Hitchcock,Atoqpa chupan,PD,PD,PD,11,0,11
+56,GR,Calamagrostis heterophylla (Weddell) Pilger,Ocsha,PD,PD,PD,14,14,28
+57,GR,Calamagrostis macrophylla Pilger,Chucro pasto;Callo callo;Huellap ocsha,PD,PD,PD,4,12,16
+58,GR,Calamagrostis ovata (Presl) Steudel,Centeno pasto;Jurahua,D,PD,PD,11,27,38
+59,GR,Calamagrostis recta (HBK) Trinius,Zutsu ocsha,PD,D,D,52,18,70
+60,GR,Calamagrostis rigescens (Presl) Scribner,Chucro pasto;Callo callo,NC,PD,PD,76,127,203
+61,GR,Calamagrostis rigida H.B.K. ,Chucro ocsha;Kachi ocsha,PD,PD,PD,13,59,72
+62,GR,Calamagrostis spiciformis Hackel ex Stucker,Hatun Crespillo,D,PD,D,36,40,76
+63,GR,Calamagrostis vicunarum (Weddell) Pilger,Crespillo;Coshllo pasto,PD,PD,MD,160,110,270
+64,GR,Dielsiochoa floribunda Pilger,Pluma ocsha,PD,PD,PD,5,0,5
+65,GR,Dissanthelium breve Swallen &Tóvar,Patza hueta,D,PD,PD,4,3,7
+66,GR,Dissanthelium calycinum (Presl) Hitchcock,,D,PD,PD,7,0,7
+67,GR,Dissanthelium macusaniense (Krause) F & S,Ichic soclla,PD,PD,PD,64,96,160
+68,GR,Dissanthelium mathewsii (Ball)Foster & Smith,Jirca soclla,PD,PD,PD,3,0,3
+69,GR,Dissanthelium peruvianum (Ness & Meyen) Pilger ,,PD,PD,PD,5,8,13
+70,GR,Distichlis humilis,,D,PD,PD,1,0,1
+71,GR,Festuca dichoclada Pilger,Yulac cachi,PD,PD,PD,3,21,24
+72,GR,Festuca dolichophylla Presl,Cachi;Chiliwa,PD,MD,MD,35,18,53
+73,GR,Festuca glyceriantha Pilger,,PD,PD,PD,0,7,7
+74,GR,Festuca huamachucensis Infantes,,PD,PD,PD,3,0,3
+75,GR,Festuca peruviana Infantes,Cebadilla cachi,D,PD,PD,8,20,28
+76,GR,Festuca rigescens (Presl) Kunth,,PD,PD,PD,7,9,16
+77,GR,Festuca rigidifolia Tovar,,PD,PD,PD,0,6,6
+78,GR,Festuca weberauerii Pilger,Llullac cachi,PD,D,D,8,3,11
+79,GR,Hordeum muticum Presl,Ucushpa chupan;Cola de ratón,MD,MD,MD,19,44,63
+80,GR,Muhlembergia fastigiata (Presl) Henrad,Grama,MD,MD,MD,75,38,113
+81,GR,Muhlembergia ligularis (Hackel) Hitchcock,Coccho pasto;Atun chiji,MD,PD,PD,161,340,501
+82,GR,Muhlembergia peruviana (P.Beauvois) Steudel,Janan pasto;Cushu pajonal,MD,NC,PD,139,149,288
+83,GR,Nasella pubiflora (Trinius et Ruprecht) Desvaux ,Plumilla;Tullma tullma,PD,PD,PD,10,3,13
+84,GR,Paspalum lineispatha Mez.,Jirca wecta;Sogo champa,D,PD,PD,0,11,11
+85,GR,Paspalum pilgerianum Chase,Jirca wecta;Sogo champa,D,PD,PD,25,21,46
+86,GR,Paspalum pygmaeum Hackel,,MD,NC,D,13,30,43
+87,GR,Paspalum tuberosum Mez.,Jara wecta,D,PD,PD,0,3,3
+88,GR,Paspalum vigatum,,D,PD,PD,0,18,18
+89,GR,Penisetum clandestinum Hoshstetter,Kikuyo;Grama,D,D,D,25,74,99
+90,GR,Piptochaetum sp.,,PD,PD,PD,0,2,2
+91,GR,Piptochaetum featherstonei (Hitchcook) Tóvar,Condorpa cebollan,PD,PD,PD,7,7,14
+92,GR,Piptochaetum panicoides (Lam.) Desv.,Espiga ocsha;Condorpa cebollan,PD,PD,PD,1,6,7
+93,GR,Poa aeguigluma Tóvar,Pacha pasto,D,PD,PD,33,114,147
+94,GR,Poa amnua Linneo,Shoclla;Ocsha champa,MD,D,D,132,163,295
+95,GR,Poa aspesiflora Hack,Cocchu ocsha,PD,PD,PD,2,5,7
+96,GR,Poa candamoana Pilger,Altu shoclla,MD,PD,PD,45,42,87
+97,GR,Poa fibrifera Pilger,Ocsha,D,D,D,3,2,5
+98,GR,Poa gilgiana Pilger,Machay shoclla,D,MD,MD,38,14,52
+99,GR,Poa gymnatha,,D,MD,MD,28,14,42
+100,GR,Poa infirma Kunth,Champa cora,D,PD,PD,6,16,22
+101,GR,Poa ovata Tóvar,Patza champa,PD,PD,PD,13,3,16
+102,GR,Poa spicigera Tóvar,Patza hueta;Shoclla;Ocsha champa,D,PD,PD,2,9,11
+103,GR,Poa subspicata (Presl) Kunth,Ocsha,MD,PD,PD,2,12,14
+104,GR,Poidium monamdrum (Hackel) Mattei,Tembleque;Chucru ocsha,PD,PD,PD,3,10,13
+105,GR,Polypogon elongatus HBK,Chucru ocsha;Oqu soclla,PD,NC,NC,7,2,9
+106,GR,Sporobolus indicus,,PD,PD,PD,0,1,1
+107,GR,Stipa brachyphylla Hitchcock,Grano ichu,D,PD,MD,3,33,36
+108,GR,Stipa depauperata Pilger,,PD,PD,D,4,1,5
+109,GR,Stipa hans-meyeri Pilger,Puka hueta ocsha,PD,PD,PD,3,7,10
+110,GR,Stipa ichu (Ruiz & Pavón) Kunth,Ichu;Peckoj;Llama ichu,PD,PD,PD,33,9,42
+111,GR,Stipa mexicana Hitchcock,Centeno ocsha,PD,D,D,23,5,28
+112,GR,Stipa mucronata HBK,Grama ichu,D,D,D,4,16,20
+113,GR,Stipa obtusa (Nees & Mey),Cocchu ocsha,PD,D,D,4,7,11
+114,GR,Stipa smithii Hitchcock,Pashu ocsha,PD,PD,PD,3,0,3
+115,GR,Trisetum spicatum (Linneo) Richter,Soclla kora,PD,PD,PD,5,11,16
+116,GR,Vulpia australis (Ness) Blom,Pajilla,PD,PD,PD,2,0,2
+117,GR,Vulpia bromoides (L.) Gray,Pajilla,PD,PD,PD,3,0,3
+118,GR,Vulpia myuros (Linnaeus),Pajilla,PD,PD,PD,0,5,5
+119,HY,Elodea potamogeton,Llachu,D,D,D,1,1,2
+120,IR,Sisyrinchium junceum Meyen,Maquilina cora;Canastilla,PD,PD,PD,4,11,15
+121,JU,Distichia humilis,,D,PD,PD,2,0,2
+122,JU,Distichia muscoides Ness & Meyen,Kunkush;Tiña,MD,NC,PD,81,46,127
+123,JU,Distichia sp.,,D,NC,NC,14,0,14
+124,JU,Juncus articus var.andicola ,Totora cora,PD,PD,PD,1,0,1
+125,JU,Juncus brunneus Buchenau,Ututo,PD,PD,PD,14,4,18
+126,JU,Juncus bufonius Linneo,Casha huaylla;Ichic mutu,D,PD,PD,24,3,27
+127,JU,Luzula peruviana Desvaux,Puchca pasto;Umasutu,PD,PD,PD,10,22,32
+128,JU,Luzula racemosa Desvaux,Junquillo; Secse,PD,PD,PD,0,2,2
+129,JU,Oxichloe andina,,NC,NC,PD,6,5,11
+130,LA,Lepechinia meyenii,Pachasalvia,PD,PD,PD,14,34,48
+131,LA,Salvia sp.,,n-c,n-c,n-c,0,1,1
+132,LE,Astragalus garbancillo Cav.,Garbancillo;Garbanzo cora,PD,PD,PD,27,19,46
+133,LE,Lupinus sp.,Chocho silvestre;Tarwi silvestre,NC,NC,NC,10,10,20
+134,LE,Medicago hispida Gaert.,Tribol pasto;Carretilla,D,D,D,3,59,62
+135,LE,Trifolium amabilie H.B.K.,Layo;Jirca tribol,MD,PD,PD,155,159,314
+136,LE,Trifolium repens Linneo,Trébol blanco,MD,MD,MD,21,41,62
+137,LE,Vicia andicola H.B.K.,Pacha talhui,PD,PD,PD,4,8,12
+138,MA,Acaulimalva engleriana (Ulbrich) Krapov.,Jirca makey,PD,PD,PD,18,15,33
+139,MA,Nototriche acaulis (Cavanilles) Krapov.,Jirca racacha;Azul tucto,D,PD,PD,23,23,46
+140,PL,Plantago australis V.hirtella H.B.K.,Llánten,D,PD,PD,41,20,61
+141,PL,Plantago lamprophylla Pilger,,PD,NC,NC,7,2,9
+142,PL,Plantago rigida H.B.K.,Occo pasto;Pasto estrella,D,PD,PD,138,64,202
+143,RA,Ranunculus praemorsus H.B.K.,Waranisa;Alljupa-lajchin,PD,D,D,5,14,19
+144,RO,Alchemilla diplophylla Diels ,Yacu pasto;Libro libro,MD,NC,PD,20,78,98
+145,RO,Alchemilla erodifolia,,MD,NC,D,34,16,50
+146,RO,Alchemilla pinnata Ruiz & Pavón,Sillu sillu;Latac pasto,MD,NC,D,306,407,713
+147,RO,Tetraglochin strictum Poepp.,,n-c,n-c,n-c,2,3,5
+148,SA,Quinchamalium procumbens Ruiz & Pavón,Chinchimallin cora;Gusanera,PD,PD,PD,22,17,39
+149,SC,Castilleja sp.,Miskiqo,PD,PD,PD,0,9,9
+150,UR,Urtica sp.,,NC,NC,NC,0,3,3
