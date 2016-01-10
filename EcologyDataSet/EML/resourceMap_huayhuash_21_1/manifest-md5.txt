@@ -1,0 +1,10 @@
+26d48cc227e3fd4ea13b6ac79d7f4ebc  data/huayhuash.21.1-METADATA.xml
+9e43f983393c57f0f59283c15b02c278  data/resourceMap_huayhuash.21.1-RESOURCE.rdf
+a7ddc4192e33c784d6486323688d63f9  data/huayhuash.5.5-2010-11_Huayhuash_SitiosMuestreoPasto.csv
+f97e041c9a322ba46c799e6c955ad872  data/huayhuash.14.1-2011_Huayhuash_ObservacionesEspecies.csv
+cbdcb0ff93cd44432d7f46f9d14f7808  data/huayhuash.13.5-2010_Huayhuash_ObservacionesNoPasto.csv
+c9c99d99e40036c99ed1dc10ce6fd9e3  data/huayhuash.11.6-2010-11_Huayhuash_ResultadosResumidos.csv
+6bb319ce8428554e9f2155ac85bf92be  data/huayhuash.12.3-2010_Huayhuash_ObservacionesEspecies.csv
+979910b91c5a8d0c895f7fa105a7ee5e  data/huayhuash.10.2-2010-11_Huayhuash_ListaDeEspecies.csv
+90208e60870f662d35a7c7b8bbd4d510  data/huayhuash.15.3-2011_Huayhuash_ObservacionesNoPasto.csv
+7fffb7a5dc5302252c1d3fe9ff1520a5  data/huayhuash.21.1-METADATA.pdf

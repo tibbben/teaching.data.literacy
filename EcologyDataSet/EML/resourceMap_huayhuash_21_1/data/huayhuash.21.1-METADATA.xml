@@ -1,0 +1,1700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml packageId="huayhuash.21.1" scope="system" system="knb" xml:lang="en-US" xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 eml.xsd"> <access authSystem="knb" order="allowFirst" scope="document"> <allow> <principal>public</principal>
+ <permission>read</permission>
+ </allow>
+ </access>
+ <dataset scope="document"> <title xml:lang="es-PE">Datos de Productividad y Biodiversidad de los Pastos en la Cordillera Huayhuash de los Andes Peruanos (2010-2011)<value xml:lang="en-US">Pasture Productivity/Biodiversity data from the Cordillera Huayhuash of the Peruvian Andes (2010-2011).</value>
+ </title>
+ <creator id="1448380127492" scope="document"> <individualName> <givenName>Timothy</givenName>
+ <surName>Norris</surName>
+ </individualName>
+ <address scope="document"> <country>United States</country>
+ </address>
+ <electronicMailAddress>tbnorris@ucsc.edu</electronicMailAddress>
+ <onlineUrl>http://huaylas.com/nm/</onlineUrl>
+ </creator>
+ <creator id="1448380192952" scope="document"> <individualName> <givenName>Gustavo</givenName>
+ <surName>Escobar</surName>
+ </individualName>
+ <address scope="document"> <country>Peru</country>
+ </address>
+ <electronicMailAddress>guses40@yahoo.es</electronicMailAddress>
+ </creator>
+ <abstract> <para xml:lang="es-PE">Este paquete de datos contiene una línea base empírico recolectado en la Cordillera Huayhuash de los Andes Centrales del Perú en los años 2010 y 2011 para productividad y biodiversidad de pastos. Este estudio tenía dos fines. Primero, una línea base fue recolectado y difundido para uso en estudios futuros que evalúan cambios en el medioambiente. Segundo, los métodos participativos implementados para la recolección de los datos en campo han fortalecido iniciativas locales de la conservación y han facilitado relaciones entre las comunidades locales y agencias del gobierno encargadas con el manejo de recursos naturales en la zona. Veinte sitios fueron seleccionados según el conocimiento local de la condición del pasto y la potencial para ser impactado por actividades de trekking con animales. El transecto al paso (Florez 2005) fue utilizado para medir productividad de pasto en dos o tres transectos en cada sitio dentro los meses de abril y mayo para dos años consecutivos. Plantas observadas fue identificadas al nivel de especies y los resultados fueron resumidos para medidas de productividad y diversidad para cada sitio para los dos años. Los hallazgos muestran que la productividad de los pastos es entre &quot;regular&quot; hasta &quot;excelente&quot; con solamente pocos sitios mostrando una productividad &quot;pobre&quot;. Los hallazgos de este estudio enfatizan la necesidad de continuar con un monitoreo ambiental en la Cordillera Huayhuash.</para>
+ <para xml:lang="en-US">This package contains data collected in the Cordillera Huayhuash of the central Peruvian Andes during 2010 and 2011 for measures of pasture productivity and pasture biodiversity. The purpose of the study was twofold. First, baseline data was collected and made available for future studies to evaluate environmental change. Second, the participatory methods used to collect the pasture data strengthened conservation initiatives in the region and facilitated relationships between the local communities and government agencies charged with natural resource and environmental management. Twenty sites were selected based on local knowledge of pasture condition and potential impacts from pack animal trekking. The step transect method (Florez, 2005) was used to measure productivity at two o three transects at each site during the months of April and May for two consecutive years. Plant observations were identified to the species level and the results were summarized into measures of productivity and biodiversity for each site across the two years. The results show that pasture productivity can be considered in the “regular” to “excellent” range with just a few sites showing “poor” productivity. The data gathered in this study highlight the need to continue with environmental monitoring in the Cordillera Huayhuash.</para>
+ </abstract>
+ <keywordSet> <keyword>Cordillera Huayhuash</keyword>
+ <keyword>Peru</keyword>
+ <keywordThesaurus>Geonames</keywordThesaurus>
+ </keywordSet>
+ <keywordSet> <keyword>Plant diversity</keyword>
+ <keyword>Pastures--Ecology</keyword>
+ <keyword>Biodiversity--Monitoring</keyword>
+ <keywordThesaurus>LOC</keywordThesaurus>
+ </keywordSet>
+ <keywordSet> <keyword>Diversidad de plantas</keyword>
+ <keyword>Ecologia--Pastos</keyword>
+ <keyword>Biodiversidad--Monitoreo</keyword>
+ </keywordSet>
+ <keywordSet> <keyword>Productividad de Pastos</keyword>
+ </keywordSet>
+ <intellectualRights> <para>Este paquete de datos está distribuido bajo la licencia 'Open Database License' : http://opendatacommons.org/licenses/odbl/1.0/. Cualquier derechos de contenido individual en el base de datos son licenciado por el licencia 'Database Contents License' : http://opendatacommons.org/licenses/dbcl/1.0/</para>
+ </intellectualRights>
+ <coverage scope="document"> <geographicCoverage scope="document"> <geographicDescription>Cordillera Huayhuash</geographicDescription>
+ <boundingCoordinates> <westBoundingCoordinate>-77.097</westBoundingCoordinate>
+ <eastBoundingCoordinate>-76.73</eastBoundingCoordinate>
+ <northBoundingCoordinate>-10.08</northBoundingCoordinate>
+ <southBoundingCoordinate>-10.464</southBoundingCoordinate>
+ </boundingCoordinates>
+ </geographicCoverage>
+ <temporalCoverage scope="document"> <rangeOfDates> <beginDate> <calendarDate>2010</calendarDate>
+ </beginDate>
+ <endDate> <calendarDate>2011</calendarDate>
+ </endDate>
+ </rangeOfDates>
+ </temporalCoverage>
+ <taxonomicCoverage scope="document"><taxonomicClassification><taxonRankName>Familia</taxonRankName>
+ <taxonRankValue>APIACEAE</taxonRankValue>
+ </taxonomicClassification>
+ <taxonomicClassification><taxonRankName>Familia</taxonRankName>
+ <taxonRankValue>CACTACEAE</taxonRankValue>
+ </taxonomicClassification>
+ <taxonomicClassification><taxonRankName>Familia</taxonRankName>
+ <taxonRankValue>COMPOSITAE o ASTERACEAE</taxonRankValue>
+ </taxonomicClassification>
+ <taxonomicClassification><taxonRankName>Familia</taxonRankName>
+ <taxonRankValue>GRAMINEAE o POACEAE</taxonRankValue>
+ </taxonomicClassification>
+ <taxonomicClassification><taxonRankName>Familia</taxonRankName>
+ <taxonRankValue>HYDROCHARITACEAE</taxonRankValue>
+ </taxonomicClassification>
+ <taxonomicClassification><taxonRankName>Familia</taxonRankName>
+ <taxonRankValue>IRIDIACEAE</taxonRankValue>
+ </taxonomicClassification>
+ <taxonomicClassification><taxonRankName>Familia</taxonRankName>
+ <taxonRankValue>JUNCACEAE</taxonRankValue>
+ </taxonomicClassification>
+ <taxonomicClassification><taxonRankName>Familia</taxonRankName>
+ <taxonRankValue>LAMIACEAE</taxonRankValue>
+ </taxonomicClassification>
+ <taxonomicClassification><taxonRankName>Familia</taxonRankName>
+ <taxonRankValue>PLANTAGINACEAE</taxonRankValue>
+ </taxonomicClassification>
+ <taxonomicClassification><taxonRankName>Familia</taxonRankName>
+ <taxonRankValue>RANUNCULACEAE</taxonRankValue>
+ </taxonomicClassification>
+ <taxonomicClassification><taxonRankName>Familia</taxonRankName>
+ <taxonRankValue>ROSACEAE</taxonRankValue>
+ </taxonomicClassification>
+ <taxonomicClassification><taxonRankName>Familia</taxonRankName>
+ <taxonRankValue>SANTALACEAE o SCHOEPFIACEAE</taxonRankValue>
+ </taxonomicClassification>
+ <taxonomicClassification><taxonRankName>Familia</taxonRankName>
+ <taxonRankValue>URTICACEAE</taxonRankValue>
+ </taxonomicClassification>
+ </taxonomicCoverage>
+ </coverage>
+ <contact scope="document"> <references>1448380127492</references>
+ </contact>
+ <contact scope="document"> <references>1448380192952</references>
+ </contact>
+ <methods><methodStep><description><section><title>Observaciones del campo</title>
+ <para>El transecto al paso fue usado para evaluar la condición de pasto como una medida de productividad (Florez 2005). Para realizar el transecto al paso, la especia dominante dentro un círculo con un diámetro 2.5 centímetros son grabados cada paso por cien pasos. Dos o tres transectos fue realizado en cada sitio (pendiente del tiempo disponible). Las cuentas totales en cada sitio fueron normalizados para representar la cuenta promedia de observaciones en 100 pasos. Considerando que animal está el herbívoro dominante en el sitio, vacas u ovinos (basado en conocimiento local), una especia indicadora fue identificada y un promedio de la altura de la planta fue calculado con 20 medidas de la altura de la especia indicadora en el campo. Este promedio de la altura está el índice de vigor para este sitio. La latitud y longitud (WGS84) fueron determinadas con un sistema de posición global (GPS).</para>
+ </section>
+ </description>
+ <instrumentation>En el campo usamos una anillo de metal con diámetro de 2.5 centímetros para las observaciones de las especies, una cinta de medir para las medidas de la altura de la especia indicadora, un formato imprimido en papel para grabar las observaciones, y un sistema de posición global (GPS) para determinar la latitud y longitud.</instrumentation>
+ </methodStep>
+ <methodStep><description><section><title>Calculaciones del laboratorio</title>
+ <para>Pendiente del herbívoro dominante en el sitio (ovinos o vacas), la abundancia de especias deseables y la abundancia de especies forrajeras pueden ser calculados. Para estas calculaciones las columnas codificadas OvinosAlpacas o Vacas en 2010-11_Huahuash_ListaDeEspecies.csv son usados. Para la abundancia de especies deseables, todas las observaciones codificadas como 'MD' o 'D' en la columna respectiva para el herbívoro son sumado para el sitio. Para la abundancia de todos las especies forrajeras, todas las observaciones codificadas como 'MD', 'D', o 'PD' en la columna respectiva para el herbívoro son sumado para el sitio. Una total de observaciones sin pasto puede ser calculada como la suma de observaciones grabadas de suelo desnudo, roca, pavimento de erosión, musgo, y matillo. La condición de pastizal, con una escala d 1-100, se puede calcular como la suma de la índice de vigor ponderada y los abundancias ponderadas y normalizadas con la ecuación (1).</para>
+ <para>P = X(d)*(0.5) +  X(f)* (0.2) + V*(0.1) + 100 - BG*(0.2)	Ecuación (1)</para>
+ <para>Donde X(d) es la abundancia de especies deseables, X(f) es la abundancia de especies forrajeras, V es el promedio de las alturas de la especie indicadora, y BG es la suma de observaciones sin pasto grabado en el transecto. Esta índice fue calculada para cada sitio considerando los dos de vacas y ovinos como herbívoro dominante para determinar las especias deseables y indicadoras. Pasto con una índice de 79-100 es considerado excelente, de 54-78 es bueno, de 37-53 es regular, de 23-36 es pobre, y bajo del 23 es muy pobre.</para>
+ <para> </para>
+ <para>Los datos observacionales del transecto al paso también fue usada para calcular la índice de diversidad de Shannon con la ecuación (2)</para>
+ <para>H' = -∑ [ i=0 to R ] p(i) * log( p(i) )	Ecuación (2)</para>
+ <para>Donde R es la riqueza de especies y p(i) es la abundancia de la observación i.</para>
+ <para> </para>
+ <para>Los datos observacionales del transecto al paso también fue usada para calcular la índice de diversidad de Simpson con la ecuación (3)</para>
+ <para>D = ∑ [ i=0 to R ] p(i)^2	Ecuación (3)</para>
+ <para>Donde R es la riqueza de especies y p(i) es la abundancia de la observación i.</para>
+ <para> </para>
+ <para>Los datos observacionales del transecto al paso también fue usada para calcular una índice de perturbación basada en preferencias de los herbívoros usando la ecuación (4).</para>
+ <para>D = ( 0*X(0) + (-1)*X(1) + (-2)*X(2) + (-3)*X(3) ) / ( X(0) + X(1) + X(2) + X(3) )	Ecuación (4)</para>
+ <para>Donde X(i) es la abundancia de la especie con índice de palatabilidad de i codificado para los dos de ovinos y vacas (Farriss, 2007): X(3) es la abundancia de las especies lo mas deseables (codificada como 'MD' en 2010-11_Huayhuash_ListaDeEspecies.csv), X(2) es la abundancia de especias deseables (codificada como ‘D’ en 2010-11_Huayhuash_ListaDeEspecias.csv), X(1) es la abundancia de especias poco deseables (codificada como ‘PD’ en 2010-11_Huayhuash_ListaDeEspecies.csv); todo determinado por el herbívoro dominante. X(0) es la abundancia de las especias que no comen la vaca o el ovino (codificada como ‘NC’ en 2010-11_Huayhuash_ListaDeEspecies.csv). Un sitio sin perturbación tendrá una índice de -3 y un sitio con perturbación total tendrá una índice de 0.</para>
+ <para> </para>
+ <para>Florez, A. (2005). Manual de Pastos y Forrajes Altoandinos. Lima: Oikos.</para>
+ <para>Farriss, B. (2007). Finding Common Ground: Conservation, Development and Indigenous Livelihoods in the Huascarán Biosphere Reserve, Peru. University of North Carolina, Chapel Hill.</para>
+ </section>
+ </description>
+ <instrumentation>todo los análisis fueron realizados en Microsoft Excel</instrumentation>
+ </methodStep>
+ <sampling><studyExtent><description><para>La Cordillera Huayhuash está ubicada por la división continental de los Andes centrales del Perú aproximadamente 200km al norte de Lima. Los límites del región son aproximadamente -77.097ºO -10.464ºS (inferior izquierda) y -76.73ºO -10.08ºS (superior derecha) (WGS84).</para>
+ </description>
+ </studyExtent>
+ <samplingDescription><para>El propósito de este estudio es recolectar datos línea base para la productividad de pastos en la Cordillera Huayhuash. En 2010 diecinueve sitios de muestro fueron identificados: los sitios incluyen seis sitios de acampar para treking y trece otros sitios elegidas basadas en conocimiento local de productividad de pasto e interés local en evaluar pastos comunales; en 2011 un sitio adicional fue elegido. Con este diseño de muestreo hay seis sitios de acampar y once sitios de pasto que pueden ser comparado a través del tiempo.</para>
+ </samplingDescription>
+ </sampling>
+ </methods>
+ <project><title>Nuevos Espacios de Conservación en los Andes</title>
+ <personnel><references>1448380127492</references>
+ <role>Principal Investigator</role>
+ </personnel>
+ <funding><para>National Science Foundation GRFP (Fellow ID: 2009070848), the National Geographic Society (grant # C171-09), UC Santa Cruz Environmental Studies, Global Greengrants (grant # 50-550 (2004))</para>
+ </funding>
+ </project>
+ <dataTable id="1448398954773" scope="document"> <entityName>2010-11_Huayhuash_SitiosMuestreoPasto.csv</entityName>
+ <entityDescription>Una lista de los sitios de muestro con nombres locales, jurisdicciones políticos, y coordenadas de latitud y longitud. La columna de clave principal PNID puede ser vinculada con 2010-11_Huayhuash_ResultadosResumidos.csv (columna de clave secundaria PNID) y los cuadros anuales de ObservacionesEspecies.csv y ObservacionesNoPasto.csv (por nombre de las columnas).</entityDescription>
+ <physical id="1448397642771" scope="document"> <objectName>2010-11_Huayhuash_SitiosMuestreoPasto.csv</objectName>
+ <size unit="byte">2360</size>
+ <dataFormat> <textFormat> <numHeaderLines>1</numHeaderLines>
+ <recordDelimiter>#x0A</recordDelimiter>
+ <attributeOrientation>column</attributeOrientation>
+ <simpleDelimited> <fieldDelimiter>,</fieldDelimiter>
+ </simpleDelimited>
+ </textFormat>
+ </dataFormat>
+ <distribution> <online> <url>ecogrid://knb/huayhuash.5.5</url>
+ </online>
+ </distribution>
+ </physical>
+ <attributeList> <attribute id="1448398954774" scope="document"> <attributeName>PNID</attributeName>
+ <attributeLabel>ID del sitio</attributeLabel>
+ <attributeDefinition>Una lista de los sitios de muestro con nombres locales, jurisdicciones políticos, y coordenadas de latitud y longitud. La columna de clave principal PNID puede ser vinculada con 2010-11_Huayhuash_ResultadosResumidos.csv (columna de clave secundaria PNID) y los cuadros anuales de ObservacionesEspecies.csv y ObservacionesNoPasto.csv (por nombre de las columnas).</attributeDefinition>
+ <storageType>string</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <textDomain> <definition>Este es el identificador único para el sitio de muestreo</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448398954775" scope="document"> <attributeName>Lat</attributeName>
+ <attributeLabel>Latitud (WGS84)</attributeLabel>
+ <attributeDefinition>Latitud en WGS84 grados decimales</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>degree</standardUnit>
+ </unit>
+ <numericDomain> <numberType>natural</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448398954776" scope="document"> <attributeName>Long</attributeName>
+ <attributeLabel>Longitud (WGS84)</attributeLabel>
+ <attributeDefinition>Longitud en WGS84 grados decimales</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>degree</standardUnit>
+ </unit>
+ <numericDomain> <numberType>natural</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448398954777" scope="document"> <attributeName>Nombre</attributeName>
+ <attributeLabel>Nombre del sitio</attributeLabel>
+ <attributeDefinition>Nombre local del sitio</attributeDefinition>
+ <storageType>text</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <textDomain> <definition>nombres de lugares</definition>
+ <source>nombres locales</source>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448398954778" scope="document"> <attributeName>Comunidad</attributeName>
+ <attributeLabel>Comunidad</attributeLabel>
+ <attributeDefinition>La comunidad donde se encuentra el sitio</attributeDefinition>
+ <storageType>text</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <textDomain> <definition>nombres de comunidades</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1449078702672" scope="document"> <attributeName>Distrito</attributeName>
+ <attributeLabel>Distrito</attributeLabel>
+ <attributeDefinition>Distrito</attributeDefinition>
+ <storageType>string</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <textDomain> <definition>Distrito</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1449078956262" scope="document"> <attributeName>Provincia</attributeName>
+ <attributeLabel>Provincia</attributeLabel>
+ <attributeDefinition>Provincia</attributeDefinition>
+ <storageType>string</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <textDomain> <definition>Provincia</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1449079057597" scope="document"> <attributeName>Region</attributeName>
+ <attributeLabel>Region</attributeLabel>
+ <attributeDefinition>Region/Departamento</attributeDefinition>
+ <storageType>String</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <textDomain> <definition>Departamento</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448398954779" scope="document"> <attributeName>Altitud</attributeName>
+ <attributeLabel>Altitud</attributeLabel>
+ <attributeDefinition>Altitude del sitio en metros sobre el nivel del mar</attributeDefinition>
+ <storageType>integer</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>meter</standardUnit>
+ </unit>
+ <numericDomain> <numberType>natural</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448398954781" scope="document"> <attributeName>Camping</attributeName>
+ <attributeLabel>Camping (si/no)</attributeLabel>
+ <attributeDefinition>Un campo binario que indique si hay camping o no</attributeDefinition>
+ <measurementScale> <nominal> <nonNumericDomain> <enumeratedDomain> <codeDefinition> <code>No</code>
+ <definition>no</definition>
+ </codeDefinition>
+ <codeDefinition> <code>Si</code>
+ <definition>si</definition>
+ </codeDefinition>
+ </enumeratedDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ </attributeList>
+ <numberOfRecords>22</numberOfRecords>
+ </dataTable>
+ <dataTable id="1448463028752" scope="document"> <entityName>2010-11_Huayhuash_ListaDeEspecies.csv</entityName>
+ <entityDescription>Lista de especies observadas dentro los dos años. La palatabilidad de cada especie esta codificada para ovinos y vacas. Los totales anuales de las observaciones son incluidos como tanto también el total para los dos años. El clave principal SID puede ser usado con los cuadros de observaciones anuales ObservacionesEspecias.csv (clave principal SID)</entityDescription>
+ <physical id="1448462177654" scope="document"> <objectName>2010-11_Huayhuash_ListaDeEspecies.csv</objectName>
+ <size unit="byte">9789</size>
+ <dataFormat> <textFormat> <numHeaderLines>1</numHeaderLines>
+ <recordDelimiter>#x0A</recordDelimiter>
+ <attributeOrientation>column</attributeOrientation>
+ <simpleDelimited> <fieldDelimiter>,</fieldDelimiter>
+ </simpleDelimited>
+ </textFormat>
+ </dataFormat>
+ <distribution> <online> <url>ecogrid://knb/huayhuash.10.2</url>
+ </online>
+ </distribution>
+ </physical>
+ <attributeList> <attribute id="1448463028767" scope="document"> <attributeName>SID</attributeName>
+ <attributeLabel>Species ID</attributeLabel>
+ <attributeDefinition>ID de especies. El clave principal SID puede ser usado con los cuadros de observaciones anuales ObservacionesEspecias.csv (clave principal SID)</attributeDefinition>
+ <storageType>integer</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <textDomain> <definition>ID interno al paquete de datos para especies</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448463028783" scope="document"> <attributeName>Familia</attributeName>
+ <attributeLabel>Familia</attributeLabel>
+ <attributeDefinition>Familia taxanomica</attributeDefinition>
+ <storageType>string</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <textDomain> <definition>Familia taxanomica</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448463028798" scope="document"> <attributeName>GeneroEspecies</attributeName>
+ <attributeLabel>Género u especies</attributeLabel>
+ <attributeDefinition>Nombre científico</attributeDefinition>
+ <storageType>string</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <textDomain> <definition>Nombre científico</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448463028814" scope="document"> <attributeName>NombreComun</attributeName>
+ <attributeLabel>Nombre comun (Peru)</attributeLabel>
+ <attributeDefinition>Nombre comun</attributeDefinition>
+ <storageType>string</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <textDomain> <definition>Nombre comun</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448463028830" scope="document"> <attributeName>OvinosAlpacas</attributeName>
+ <attributeLabel>Palatabilidad para ovinos y alpacas</attributeLabel>
+ <attributeDefinition>Palatabilidad codificada para ovinos y alpacas</attributeDefinition>
+ <storageType>string</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <enumeratedDomain> <codeDefinition> <code>PD</code>
+ <definition>poco deseable</definition>
+ </codeDefinition>
+ <codeDefinition> <code>NC</code>
+ <definition>no come</definition>
+ </codeDefinition>
+ <codeDefinition> <code>D</code>
+ <definition>deseable</definition>
+ </codeDefinition>
+ <codeDefinition> <code>MD</code>
+ <definition>muy deseable</definition>
+ </codeDefinition>
+ </enumeratedDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode> <code>n-c</code>
+ <codeExplanation>desconocido</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1448463028845" scope="document"> <attributeName>Vacas</attributeName>
+ <attributeLabel>Palatabilidad codificada para vacas</attributeLabel>
+ <attributeDefinition>Coded palatability for cows</attributeDefinition>
+ <storageType>string</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <enumeratedDomain> <codeDefinition> <code>PD</code>
+ <definition>poco deseable</definition>
+ </codeDefinition>
+ <codeDefinition> <code>NC</code>
+ <definition>no come</definition>
+ </codeDefinition>
+ <codeDefinition> <code>D</code>
+ <definition>deseable</definition>
+ </codeDefinition>
+ <codeDefinition> <code>MD</code>
+ <definition>muy deseable</definition>
+ </codeDefinition>
+ </enumeratedDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode> <code>n-c</code>
+ <codeExplanation>desconocido</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1448463028861" scope="document"> <attributeName>Llamas</attributeName>
+ <attributeLabel>Palatabilidad codificada para Llamas</attributeLabel>
+ <attributeDefinition>Coded palatability for Llamas.</attributeDefinition>
+ <storageType>string</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <enumeratedDomain> <codeDefinition> <code>D</code>
+ <definition>deseable</definition>
+ </codeDefinition>
+ <codeDefinition> <code>PD</code>
+ <definition>poco deseable</definition>
+ </codeDefinition>
+ <codeDefinition> <code>NC</code>
+ <definition>no come</definition>
+ </codeDefinition>
+ <codeDefinition> <code>MD</code>
+ <definition>muy deseable</definition>
+ </codeDefinition>
+ </enumeratedDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode> <code>n-c</code>
+ <codeExplanation>desconocido</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1448463028876" scope="document"> <attributeName>2010obs</attributeName>
+ <attributeLabel>2010 Observaciones</attributeLabel>
+ <attributeDefinition>Obervaciones totales en 2010</attributeDefinition>
+ <storageType>integer</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>whole</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448463028892" scope="document"> <attributeName>2011obs</attributeName>
+ <attributeLabel>2011 Observaciones</attributeLabel>
+ <attributeDefinition>Obervaciones totales en 2011</attributeDefinition>
+ <storageType>integer</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>whole</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448463028908" scope="document"> <attributeName>TotalObs</attributeName>
+ <attributeLabel>Total Observaciones</attributeLabel>
+ <attributeDefinition>Obervaciones totales</attributeDefinition>
+ <storageType>integer</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>whole</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ </attributeList>
+ <numberOfRecords>151</numberOfRecords>
+ </dataTable>
+ <dataTable id="1448469267801" scope="document"> <entityName>2010-11_Huayhuash_ResultadosResumidos.csv</entityName>
+ <entityDescription>Resultados resumidas calculados para cada sitio de muestreo. Los medidas son organizados o año (fecha de observación) e ubicación. La clave secundaria PNID puede ser vinculada con 2010-11_Huayhuash_SitiosMuestreoPasto.csv (clave principal PNID).</entityDescription>
+ <physical id="1448466804335" scope="document"> <objectName>2010-11_Huayhuash_ResultadosResumidos.csv</objectName>
+ <size unit="byte">5331</size>
+ <dataFormat> <textFormat> <numHeaderLines>1</numHeaderLines>
+ <recordDelimiter>#x0A</recordDelimiter>
+ <attributeOrientation>column</attributeOrientation>
+ <simpleDelimited> <fieldDelimiter>,</fieldDelimiter>
+ </simpleDelimited>
+ </textFormat>
+ </dataFormat>
+ <distribution> <online> <url>ecogrid://knb/huayhuash.11.6</url>
+ </online>
+ </distribution>
+ </physical>
+ <attributeList> <attribute id="1448469267816" scope="document"> <attributeName>PNID</attributeName>
+ <attributeLabel>ID del Siteo</attributeLabel>
+ <attributeDefinition>ID unica para el sitio. La clave secundaria PNID puede ser vinculada con 2010-11_Huayhuash_SitiosMuestreoPasto.csv (clave principal PNID).</attributeDefinition>
+ <storageType>string</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <enumeratedDomain> <entityCodeList> <entityReference>1448398954773</entityReference>
+ <valueAttributeReference>1448398954774</valueAttributeReference>
+ <definitionAttributeReference>1448398954777</definitionAttributeReference>
+ </entityCodeList>
+ </enumeratedDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448469267832" scope="document"> <attributeName>Ano</attributeName>
+ <attributeLabel>Año</attributeLabel>
+ <attributeDefinition>Año</attributeDefinition>
+ <storageType>integer</storageType>
+ <measurementScale> <dateTime> <formatString>YYYY</formatString>
+ </dateTime>
+ </measurementScale>
+ </attribute>
+ <attribute id="1450190031289" scope="document"> <attributeName>Fecha</attributeName>
+ <attributeLabel>Fecha</attributeLabel>
+ <attributeDefinition>La fecha de las observaciones</attributeDefinition>
+ <storageType>date</storageType>
+ <measurementScale> <dateTime> <formatString>YYYY-MM-DD</formatString>
+ <dateTimePrecision>day</dateTimePrecision>
+ </dateTime>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448469267847" scope="document"> <attributeName>Tipo</attributeName>
+ <attributeLabel>Comunidad vegetacional</attributeLabel>
+ <attributeDefinition>Tipo de comunidad vegetacional como definido en Florez (2005)</attributeDefinition>
+ <storageType>string</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <textDomain> <definition>defeniciones de Florez (2005)</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448469267863" scope="document"> <attributeName>Cobertura</attributeName>
+ <attributeLabel>Porcentaje de cobertura</attributeLabel>
+ <attributeDefinition>Porcentaje de cobertura expresada como un valor decimal entre 0 y 1</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448489095225" scope="document"> <attributeName>Vigor</attributeName>
+ <attributeLabel>Indice de vigor</attributeLabel>
+ <attributeDefinition>altura promedia observada para la especie indicadora</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>centimeter</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448469267879" scope="document"> <attributeName>ProdVacaCampo</attributeName>
+ <attributeLabel>Indice de productividad para vacas (calculado en campo)</attributeLabel>
+ <attributeDefinition>La condición/productividad del pasto calculado para vacas usando ecuación (1) del sección métodos-calculaciones del laboratorio. NOTA: Este índice fue calculado por mano en el campo.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>number</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448469267894" scope="document"> <attributeName>ProdOvinosCampo</attributeName>
+ <attributeLabel>Indice de productividad para ovinos y alpacas (calculado en campo)</attributeLabel>
+ <attributeDefinition>La condición/productividad del pasto calculado para ovinos usando ecuación (1) del sección métodos-calculaciones del laboratorio. NOTA: Este índice fue calculado por mano en el campo.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>number</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448469267910" scope="document"> <attributeName>ProdVacaAuto</attributeName>
+ <attributeLabel>Indice de productividad para vacas (calculado en Excel)</attributeLabel>
+ <attributeDefinition>La condición/productividad del pasto calculado para vacas usando ecuación (1) del sección métodos-calculaciones del laboratorio. NOTA: Este índice fue calculado en Microsoft Excel.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>number</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448469267925" scope="document"> <attributeName>ProdOvinoAuto</attributeName>
+ <attributeLabel>Indice de productividad para ovinos y alpacas (calculado en Excel)</attributeLabel>
+ <attributeDefinition>La condición/productividad del pasto calculado para ovinos usando ecuación (1) del sección métodos-calculaciones del laboratorio. NOTA: Este índice fue calculado en Microsoft Excel.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>number</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448469267941" scope="document"> <attributeName>Riqueza</attributeName>
+ <attributeLabel>Riqueza de especies</attributeLabel>
+ <attributeDefinition>Total numero de especies observado en el sitio</attributeDefinition>
+ <storageType>integer</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>whole</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448469267957" scope="document"> <attributeName>Shannon</attributeName>
+ <attributeLabel>Indice de diversidad de Shannon</attributeLabel>
+ <attributeDefinition>El índice de diversidad de Shannon calculado usando ecuación (2) del sección métodos-calculaciones del laboratorio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>number</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448469267972" scope="document"> <attributeName>Simpson</attributeName>
+ <attributeLabel>Indice de diversidad de Simpson</attributeLabel>
+ <attributeDefinition>El índice de diversidad de Shannon calculado usando ecuación (3) del sección métodos-calculaciones del laboratorio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>number</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448469267988" scope="document"> <attributeName>VacasPerturbacion</attributeName>
+ <attributeLabel>Indice de perturbación para vacas</attributeLabel>
+ <attributeDefinition>Indice de perturbación para vacas calculado usando ecuación (4) del sección métodos-calculaciones del laboratorio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>number</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448469268003" scope="document"> <attributeName>OvinosPerturbacion</attributeName>
+ <attributeLabel>Indice de perturbación para Ovinos e Alpacas</attributeLabel>
+ <attributeDefinition>ndice de perturbación para ovinos e alpacas calculado usando ecuación (4) del sección métodos-calculaciones del laboratorio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>number</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448469268019" scope="document"> <attributeName>CoberturaDom</attributeName>
+ <attributeLabel>Cobertura dominante</attributeLabel>
+ <attributeDefinition>La abundancia máxima de cualquier especie observada por el sitio. NOTA: calculada como cobertura de plantas (porcentaje) y expresada como un valor decimal entre 0 y 1</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>number</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ </attributeList>
+ <numberOfRecords>40</numberOfRecords>
+ </dataTable>
+ <dataTable id="1448481592501" scope="document"> <entityName>2010_Huayhuash_ObservacionesEspecies.csv</entityName>
+ <entityDescription>Las observaciones de especias normalizadas (cada 100 pasos) para cada sitio de muestreo en 2010. Celdas vacias indican falta de observacion. La clave principal SID puede ser vinculado con 2010-11_Huayhuash_ListaDeEspecies.csv (clave principal SID).</entityDescription>
+ <physical id="1448480777776" scope="document"> <objectName>2010_Huayhuash_SpeciesObservations.csv</objectName>
+ <size unit="byte">13513</size>
+ <dataFormat> <textFormat> <numHeaderLines>1</numHeaderLines>
+ <recordDelimiter>#x0A</recordDelimiter>
+ <attributeOrientation>column</attributeOrientation>
+ <simpleDelimited> <fieldDelimiter>,</fieldDelimiter>
+ </simpleDelimited>
+ </textFormat>
+ </dataFormat>
+ <distribution> <online> <url>ecogrid://knb/huayhuash.12.3</url>
+ </online>
+ </distribution>
+ </physical>
+ <attributeList> <attribute id="1448481592516" scope="document"> <attributeName>SPID</attributeName>
+ <attributeLabel>Species ID</attributeLabel>
+ <attributeDefinition>ID especies. La clave principal SID puede ser vinculado con 2010-11_Huayhuash_ListaDeEspecies.csv (clave principal SID).</attributeDefinition>
+ <storageType>integer</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <enumeratedDomain> <entityCodeList> <entityReference>1448463028752</entityReference>
+ <valueAttributeReference>1448463028767</valueAttributeReference>
+ <definitionAttributeReference>1448463028798</definitionAttributeReference>
+ </entityCodeList>
+ </enumeratedDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592532" scope="document"> <attributeName>PN-P1</attributeName>
+ <attributeLabel>PN-P1</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592547" scope="document"> <attributeName>PN-P2</attributeName>
+ <attributeLabel>PN-P2</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592563" scope="document"> <attributeName>PN-LL1</attributeName>
+ <attributeLabel>PN-LL1</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592579" scope="document"> <attributeName>PN-LL2</attributeName>
+ <attributeLabel>PN-LL2</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592594" scope="document"> <attributeName>PN-LL3</attributeName>
+ <attributeLabel>PN-LL3</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592610" scope="document"> <attributeName>PN-PC1</attributeName>
+ <attributeLabel>PN-PC1</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592625" scope="document"> <attributeName>PN-U1</attributeName>
+ <attributeLabel>PN-U1</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592641" scope="document"> <attributeName>PN-U2</attributeName>
+ <attributeLabel>PN-U2</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592657" scope="document"> <attributeName>PN-U3</attributeName>
+ <attributeLabel>PN-U3</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448484371396" scope="document"> <attributeName>PN-U4</attributeName>
+ <attributeLabel>PN-U4</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592672" scope="document"> <attributeName>PN-H1</attributeName>
+ <attributeLabel>PN-H1</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592688" scope="document"> <attributeName>PN-H2</attributeName>
+ <attributeLabel>PN-H2</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592703" scope="document"> <attributeName>PN-QP1</attributeName>
+ <attributeLabel>PN-QP1</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592719" scope="document"> <attributeName>PN-QP2</attributeName>
+ <attributeLabel>PN-QP2</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592735" scope="document"> <attributeName>PN-QP3</attributeName>
+ <attributeLabel>PN-QP3</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592750" scope="document"> <attributeName>PN-QP4</attributeName>
+ <attributeLabel>PN-QP4</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592766" scope="document"> <attributeName>PN-QC1</attributeName>
+ <attributeLabel>PN-QC1</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592781" scope="document"> <attributeName>PN-QC2</attributeName>
+ <attributeLabel>PN-QC2</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592797" scope="document"> <attributeName>PN-QC3</attributeName>
+ <attributeLabel>PN-QC3</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592813" scope="document"> <attributeName>PN-T1</attributeName>
+ <attributeLabel>PN-T1</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448481592828" scope="document"> <attributeName>PN-T2</attributeName>
+ <attributeLabel>PN-T2</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ </attributeList>
+ <numberOfRecords>150</numberOfRecords>
+ </dataTable>
+ <dataTable id="1448482805251" scope="document"> <entityName>2010_Huayhuash_ObservacionesNoPasto.csv</entityName>
+ <entityDescription>Las observaciones sin pasto normalizadas (cada 100 pasos) para cada sitio de muestreo en 2010. Celdas vacias indican falta de observacion.</entityDescription>
+ <physical id="1448482236697" scope="document"> <objectName>2010_Huayhuash_ObservacionesNoPasto.csv</objectName>
+ <size unit="byte">854</size>
+ <dataFormat> <textFormat> <numHeaderLines>1</numHeaderLines>
+ <recordDelimiter>#x0A</recordDelimiter>
+ <attributeOrientation>column</attributeOrientation>
+ <simpleDelimited> <fieldDelimiter>,</fieldDelimiter>
+ </simpleDelimited>
+ </textFormat>
+ </dataFormat>
+ <distribution> <online> <url>ecogrid://knb/huayhuash.13.5</url>
+ </online>
+ </distribution>
+ </physical>
+ <attributeList> <attribute id="1448482805266" scope="document"> <attributeName>BRP</attributeName>
+ <attributeLabel>BRP</attributeLabel>
+ <attributeDefinition>Codigos para las observaciones sin pasto</attributeDefinition>
+ <storageType>string</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <enumeratedDomain> <codeDefinition> <code>M</code>
+ <definition>Mantillo</definition>
+ </codeDefinition>
+ <codeDefinition> <code>P</code>
+ <definition>Pavimento de erosion</definition>
+ </codeDefinition>
+ <codeDefinition> <code>L</code>
+ <definition>Musgo</definition>
+ </codeDefinition>
+ <codeDefinition> <code>R</code>
+ <definition>Roca</definition>
+ </codeDefinition>
+ <codeDefinition> <code>B</code>
+ <definition>Suelo desnudo</definition>
+ </codeDefinition>
+ <codeDefinition> <code>A</code>
+ <definition>altura media de la especie indicadora</definition>
+ </codeDefinition>
+ </enumeratedDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805282" scope="document"> <attributeName>PN-P1</attributeName>
+ <attributeLabel>PN-P1</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805297" scope="document"> <attributeName>PN-P2</attributeName>
+ <attributeLabel>PN-P2</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805313" scope="document"> <attributeName>PN-LL1</attributeName>
+ <attributeLabel>PN-LL1</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805329" scope="document"> <attributeName>PN-LL2</attributeName>
+ <attributeLabel>PN-LL2</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805344" scope="document"> <attributeName>PN-LL3</attributeName>
+ <attributeLabel>PN-LL3</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805360" scope="document"> <attributeName>PN-PC1</attributeName>
+ <attributeLabel>PN-PC1</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805375" scope="document"> <attributeName>PN-U1</attributeName>
+ <attributeLabel>PN-U1</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805391" scope="document"> <attributeName>PN-U2</attributeName>
+ <attributeLabel>PN-U2</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805407" scope="document"> <attributeName>PN-U3</attributeName>
+ <attributeLabel>PN-U3</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448484499113" scope="document"> <attributeName>PN-U4</attributeName>
+ <attributeLabel>PN-U4</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805422" scope="document"> <attributeName>PN-H1</attributeName>
+ <attributeLabel>PN-H1</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805438" scope="document"> <attributeName>PN-H2</attributeName>
+ <attributeLabel>PN-H2</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805453" scope="document"> <attributeName>PN-QP1</attributeName>
+ <attributeLabel>PN-QP1</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805469" scope="document"> <attributeName>PN-QP2</attributeName>
+ <attributeLabel>PN-QP2</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805485" scope="document"> <attributeName>PN-QP3</attributeName>
+ <attributeLabel>PN-QP3</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805500" scope="document"> <attributeName>PN-QP4</attributeName>
+ <attributeLabel>PN-QP4</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805516" scope="document"> <attributeName>PN-QC1</attributeName>
+ <attributeLabel>PN-QC1</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805531" scope="document"> <attributeName>PN-QC2</attributeName>
+ <attributeLabel>PN-QC2</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805547" scope="document"> <attributeName>PN-QC3</attributeName>
+ <attributeLabel>PN-QC3</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805563" scope="document"> <attributeName>PN-T1</attributeName>
+ <attributeLabel>PN-T1</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448482805578" scope="document"> <attributeName>PN-T2</attributeName>
+ <attributeLabel>PN-T2</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ </attributeList>
+ <numberOfRecords>6</numberOfRecords>
+ </dataTable>
+ <dataTable id="1448485860943" scope="document"> <entityName>2011_Huayhuash_ObservacionesEspecies.csv</entityName>
+ <entityDescription>Las observaciones de especias normalizadas (cada 100 pasos) para cada sitio de muestreo en 2011. Celdas vacias indican falta de observacion. La clave principal SID puede ser vinculado con 2010-11_Huayhuash_ListaDeEspecies.csv (clave principal SID).</entityDescription>
+ <physical id="1448485419025" scope="document"> <objectName>2011_Huayhuash_ObservacionesEspecies.csv</objectName>
+ <size unit="byte">9109</size>
+ <dataFormat> <textFormat> <numHeaderLines>1</numHeaderLines>
+ <recordDelimiter>#x0A</recordDelimiter>
+ <attributeOrientation>column</attributeOrientation>
+ <simpleDelimited> <fieldDelimiter>,</fieldDelimiter>
+ </simpleDelimited>
+ </textFormat>
+ </dataFormat>
+ <distribution> <online> <url>ecogrid://knb/huayhuash.14.1</url>
+ </online>
+ </distribution>
+ </physical>
+ <attributeList> <attribute id="1448485860959" scope="document"> <attributeName>SPID</attributeName>
+ <attributeLabel>Species ID</attributeLabel>
+ <attributeDefinition>ID especies. La clave principal SID puede ser vinculado con 2010-11_Huayhuash_ListaDeEspecies.csv (clave principal SID).</attributeDefinition>
+ <storageType>integer</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <enumeratedDomain> <entityCodeList> <entityReference>1448463028752</entityReference>
+ <valueAttributeReference>1448463028767</valueAttributeReference>
+ <definitionAttributeReference>1448463028798</definitionAttributeReference>
+ </entityCodeList>
+ </enumeratedDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485860975" scope="document"> <attributeName>PN-P1</attributeName>
+ <attributeLabel>PN-P1</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485860990" scope="document"> <attributeName>PN-P2</attributeName>
+ <attributeLabel>PN-P2</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861006" scope="document"> <attributeName>PN-LL1</attributeName>
+ <attributeLabel>PN-LL1</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861021" scope="document"> <attributeName>PN-LL2</attributeName>
+ <attributeLabel>PN-LL2</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861037" scope="document"> <attributeName>PN-LL3</attributeName>
+ <attributeLabel>PN-LL3</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861053" scope="document"> <attributeName>PN-PC1</attributeName>
+ <attributeLabel>PN-PC1</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861068" scope="document"> <attributeName>PN-U1</attributeName>
+ <attributeLabel>PN-U1</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861084" scope="document"> <attributeName>PN-U2</attributeName>
+ <attributeLabel>PN-U2</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861099" scope="document"> <attributeName>PN-U3</attributeName>
+ <attributeLabel>PN-U3</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861115" scope="document"> <attributeName>PN-U4</attributeName>
+ <attributeLabel>PN-U4</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861131" scope="document"> <attributeName>PN-H1</attributeName>
+ <attributeLabel>PN-H1</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861146" scope="document"> <attributeName>PN-H2</attributeName>
+ <attributeLabel>PN-H2</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861162" scope="document"> <attributeName>PN-QP1</attributeName>
+ <attributeLabel>PN-QP1</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861177" scope="document"> <attributeName>PN-QP2</attributeName>
+ <attributeLabel>PN-QP2</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861193" scope="document"> <attributeName>PN-QP3</attributeName>
+ <attributeLabel>PN-QP3</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861209" scope="document"> <attributeName>PN-QP4</attributeName>
+ <attributeLabel>PN-QP4</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861224" scope="document"> <attributeName>PN-QC1</attributeName>
+ <attributeLabel>PN-QC1</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861240" scope="document"> <attributeName>PN-QC2</attributeName>
+ <attributeLabel>PN-QC2</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861255" scope="document"> <attributeName>PN-QC3</attributeName>
+ <attributeLabel>PN-QC3</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861271" scope="document"> <attributeName>PN-T1</attributeName>
+ <attributeLabel>PN-T1</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448485861287" scope="document"> <attributeName>PN-T2</attributeName>
+ <attributeLabel>PN-T2</attributeLabel>
+ <attributeDefinition>Observaciones promediadas (normalizadas) para cada especie en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ </attributeList>
+ <numberOfRecords>150</numberOfRecords>
+ </dataTable>
+ <dataTable id="1448486430196" scope="document"> <entityName>2011_Huayhuash_ObservacionesNoPasto.csv</entityName>
+ <entityDescription>Las observaciones sin pasto normalizadas (cada 100 pasos) para cada sitio de muestreo en 2010. Celdas vacias indican falta de observacion.</entityDescription>
+ <physical id="1448485967823" scope="document"> <objectName>2011_Huayhuash_ObservacionesNoPasto.csv</objectName>
+ <size unit="byte">903</size>
+ <dataFormat> <textFormat> <numHeaderLines>1</numHeaderLines>
+ <recordDelimiter>#x0A</recordDelimiter>
+ <attributeOrientation>column</attributeOrientation>
+ <simpleDelimited> <fieldDelimiter>,</fieldDelimiter>
+ </simpleDelimited>
+ </textFormat>
+ </dataFormat>
+ <distribution> <online> <url>ecogrid://knb/huayhuash.15.3</url>
+ </online>
+ </distribution>
+ </physical>
+ <attributeList> <attribute id="1448486430211" scope="document"> <attributeName>BRP</attributeName>
+ <attributeLabel>BRP</attributeLabel>
+ <attributeDefinition>Codigos para las observaciones sin pasto</attributeDefinition>
+ <storageType>string</storageType>
+ <measurementScale> <nominal> <nonNumericDomain> <enumeratedDomain> <codeDefinition> <code>M</code>
+ <definition>Mantillo</definition>
+ </codeDefinition>
+ <codeDefinition> <code>P</code>
+ <definition>Pavimento de erosion</definition>
+ </codeDefinition>
+ <codeDefinition> <code>L</code>
+ <definition>Musgo</definition>
+ </codeDefinition>
+ <codeDefinition> <code>R</code>
+ <definition>Roca</definition>
+ </codeDefinition>
+ <codeDefinition> <code>B</code>
+ <definition>Suelo desnudo</definition>
+ </codeDefinition>
+ <codeDefinition> <code>A</code>
+ <definition>altura media de la especie indicadora</definition>
+ </codeDefinition>
+ </enumeratedDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430227" scope="document"> <attributeName>PN-P1</attributeName>
+ <attributeLabel>PN-P1</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430242" scope="document"> <attributeName>PN-P2</attributeName>
+ <attributeLabel>PN-P2</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430258" scope="document"> <attributeName>PN-LL1</attributeName>
+ <attributeLabel>PN-LL1</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430274" scope="document"> <attributeName>PN-LL2</attributeName>
+ <attributeLabel>PN-LL2</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430289" scope="document"> <attributeName>PN-LL3</attributeName>
+ <attributeLabel>PN-LL3</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430305" scope="document"> <attributeName>PN-PC1</attributeName>
+ <attributeLabel>PN-PC1</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430320" scope="document"> <attributeName>PN-U1</attributeName>
+ <attributeLabel>PN-U1</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430336" scope="document"> <attributeName>PN-U2</attributeName>
+ <attributeLabel>PN-U2</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430352" scope="document"> <attributeName>PN-U3</attributeName>
+ <attributeLabel>PN-U3</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430367" scope="document"> <attributeName>PN-U4</attributeName>
+ <attributeLabel>PN-U4</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430383" scope="document"> <attributeName>PN-H1</attributeName>
+ <attributeLabel>PN-H1</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430398" scope="document"> <attributeName>PN-H2</attributeName>
+ <attributeLabel>PN-H2</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430414" scope="document"> <attributeName>PN-QP1</attributeName>
+ <attributeLabel>PN-QP1</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430430" scope="document"> <attributeName>PN-QP2</attributeName>
+ <attributeLabel>PN-QP2</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430445" scope="document"> <attributeName>PN-QP3</attributeName>
+ <attributeLabel>PN-QP3</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430461" scope="document"> <attributeName>PN-QP4</attributeName>
+ <attributeLabel>PM-QP4</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430476" scope="document"> <attributeName>PN-QC1</attributeName>
+ <attributeLabel>PN-QC1</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430492" scope="document"> <attributeName>PN-QC2</attributeName>
+ <attributeLabel>PN-QC2</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430508" scope="document"> <attributeName>PN-QC3</attributeName>
+ <attributeLabel>PN-QC3</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430523" scope="document"> <attributeName>PN-T1</attributeName>
+ <attributeLabel>PN-T1</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1448486430539" scope="document"> <attributeName>PN-T2</attributeName>
+ <attributeLabel>PN-T2</attributeLabel>
+ <attributeDefinition>Observaciones sin pasto promediadas (normalizadas) en el sitio (observaciones por 100 pasos): vea 2010-11_Huayhuash_SiteosMuestreoPasto.csv para ubicar el sitio.</attributeDefinition>
+ <storageType>float</storageType>
+ <measurementScale> <ratio> <unit> <standardUnit>dimensionless</standardUnit>
+ </unit>
+ <numericDomain> <numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ </attributeList>
+ <numberOfRecords>6</numberOfRecords>
+ </dataTable>
+ </dataset>
+ </eml:eml>

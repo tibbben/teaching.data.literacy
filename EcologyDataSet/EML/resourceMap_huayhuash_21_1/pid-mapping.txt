@@ -1,0 +1,10 @@
+huayhuash.21.1 (pdf)	data/huayhuash.21.1-METADATA.pdf
+resourceMap_huayhuash.21.1	data/resourceMap_huayhuash.21.1-RESOURCE.rdf
+huayhuash.21.1	data/huayhuash.21.1-METADATA.xml
+huayhuash.13.5	data/huayhuash.13.5-2010_Huayhuash_ObservacionesNoPasto.csv
+huayhuash.15.3	data/huayhuash.15.3-2011_Huayhuash_ObservacionesNoPasto.csv
+huayhuash.10.2	data/huayhuash.10.2-2010-11_Huayhuash_ListaDeEspecies.csv
+huayhuash.12.3	data/huayhuash.12.3-2010_Huayhuash_ObservacionesEspecies.csv
+huayhuash.5.5	data/huayhuash.5.5-2010-11_Huayhuash_SitiosMuestreoPasto.csv
+huayhuash.14.1	data/huayhuash.14.1-2011_Huayhuash_ObservacionesEspecies.csv
+huayhuash.11.6	data/huayhuash.11.6-2010-11_Huayhuash_ResultadosResumidos.csv
