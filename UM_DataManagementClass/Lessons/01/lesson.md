@@ -23,10 +23,11 @@ Lesson 1
 
 *__Class 2__*  
 
-1. Why Manage Data: Data Management and Data Sharing (cont. 10 min)  
+1. Why Manage Data: Data Management and Data Sharing (cont. 10 minutes max)  
   - Data [Sharing Snafu](https://www.youtube.com/watch?v=N2zK3sAtr-4) in 3 short acts
   - up to slide 10 is review (use as appropriate for conversation and time)
-2. Review readings (slides 11-14 have some perhaps useful material for the review of readings)  
+2. Review readings (10-15 minutes)
+  - slides 11-14 have some perhaps useful material for the review of readings  
   - Holdren
     - Clearly he is for the promotion of data sharing - are there implications for the environment? (his background)
     - implications for other fields? biotechnology, engineering, computer science, physics? Take some time to think about other fields: security, privacy, human subjects, inventions, and so on
@@ -40,17 +41,17 @@ Lesson 1
     - ownership questions (for later in course, but bring them up now) (data versus IP)
     - note the nod to disciplinary differences
     - costs of sharing data are part of grant (how to estimate?)
-3. arguments for and against data sharing; really thinking through the 'open data' debate
-  - split class in two groups: one group for data sharing, one against (for two people a little different)
+    - small versus big data?
+3. arguments for and against data sharing; really thinking through the 'open data' debate (15 minutes max)
+  - split class in two groups: one group for data sharing, one against (this can also be done together)
   - 10 minutes to brainstorm arguments
-  - 10 minutes to present arguments (style as debate)  
-4. Revisit arguments as lecture (15 minutes) (slides 15-20 have some good material for talking to open data)
-  - fill in any gaps from debate 
-    - uncompensated labor by research community - who is it serving?
-    - open access publishing vs open access data
-    - value of data? different kinds of data? different kinds of value: use value versus exchange value (price)
-5. Shareout: personal data management snafus (tell some stories or ask for volunteers) (if there is time)
-6. Introduction to week two readings (slides 21-29 have material to introduce 'Data Management Planning' and the readings for next week)
+  - 5 minutes to present arguments (style as debate if there are enough students)  
+4. Revisit arguments as lecture (10-15 minutes) (slides 15-20 have some good material for talking to open data)
+  - fill in any gaps from debate
+  - much of this material wil be covered in later classes, but good to introduce here
+  - the for and against arguments rely heavily on the Kitchin (2014) book (chapter 3)
+6. Introduction to week two readings (10 minutes)
+  - slides 21-29 have material to introduce 'Data Management Planning' and the readings for next week
 
 ---
 
