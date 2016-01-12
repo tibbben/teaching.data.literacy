@@ -49,7 +49,7 @@ Lesson 1
 > Readings (required)
 
  - Holdren, J (2013). *Increasing Access to the Results of Federally Funded Scientific Research*. Office of Science and Technology Policy, Executive Office of the President [*https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp\_public\_access\_memo\_2013.pdf*](https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
- - National Science Foundation. *Dissemination and Sharing of Research Results*. [*http://www.nsf.gov/bfa/dias/policy/dmp.jsp*](http://www.nsf.gov/bfa/dias/policy/dmp.jsp*) (see both the sharing and data management sections).  
+ - National Science Foundation. *Dissemination and Sharing of Research Results*. [*http://www.nsf.gov/bfa/dias/policy/dmp.jsp*](http://www.nsf.gov/bfa/dias/policy/dmp.jsp) (see both the sharing and data management sections).  
 
 > Readings (highly recomended)
 
