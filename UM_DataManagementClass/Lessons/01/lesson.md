@@ -25,24 +25,32 @@ Lesson 1
 
 1. Why Manage Data: Data Management and Data Sharing (cont. 10 min)  
   - Data [Sharing Snafu](https://www.youtube.com/watch?v=N2zK3sAtr-4) in 3 short acts
-  - up to slide 9 is review (use as appropriate for conversation and time)
-2. Review readings  
+  - up to slide 10 is review (use as appropriate for conversation and time)
+2. Review readings (slides 11-14 have some perhaps useful material for the review of readings)  
   - Holdren
     - Clearly he is for the promotion of data sharing - are there implications for the environment? (his background)
     - implications for other fields? biotechnology, engineering, computer science, physics? Take some time to think about other fields: security, privacy, human subjects, inventions, and so on
     - are there other fields allied to the environment that would suppport open data?
     - are there certain fields that would be opposed to open data?
     - emphasize that the memo is targeted at federal agencies (mostly), and also federally funded research at universities
-    - try to think about how this affects your research.
+    - article versus data
   - NSF
-    - 
+    - data management plans - compliance vs really managing data better
+    - article vs. data?
+    - ownership questions (for later in course, but bring them up now) (data versus IP)
+    - note the nod to disciplinary differences
+    - costs of sharing data are part of grant (how to estimate?)
 3. arguments for and against data sharing; really thinking through the 'open data' debate
   - split class in two groups: one group for data sharing, one against (for two people a little different)
   - 10 minutes to brainstorm arguments
   - 10 minutes to present arguments (style as debate)  
-4. Revisit arguments as lecture (15 minutes)
-  - fill in any gaps from debate  
-5. Shareout: personal data management snafus (tell some stories or ask for volunteers) (10 minutes)  
+4. Revisit arguments as lecture (15 minutes) (slides 15-20 have some good material for talking to open data)
+  - fill in any gaps from debate 
+    - uncompensated labor by research community - who is it serving?
+    - open access publishing vs open access data
+    - value of data? different kinds of data? different kinds of value: use value versus exchange value (price)
+5. Shareout: personal data management snafus (tell some stories or ask for volunteers) (if there is time)
+6. Introduction to week two readings (slides 21-29 have material to introduce 'Data Management Planning' and the readings for next week)
 
 ---
 
