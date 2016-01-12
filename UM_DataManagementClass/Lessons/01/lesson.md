@@ -14,7 +14,6 @@ Lesson 1
 
 1. Introductions  
   - Instructors (10 min)  
-  - Data [Sharing Snafu](https://www.youtube.com/watch?v=N2zK3sAtr-4) in 3 short acts  
   - Course objective and outline (lecture 15 min)  
 2. What is data  
   - introduction (5 min)  
@@ -25,14 +24,25 @@ Lesson 1
 *__Class 2__*  
 
 1. Why Manage Data: Data Management and Data Sharing (cont. 10 min)  
-  - review readings  
-2. arguments for and against data sharing  
-  - split class in two groups: one group for data sharing, one against
+  - Data [Sharing Snafu](https://www.youtube.com/watch?v=N2zK3sAtr-4) in 3 short acts
+  - up to slide 9 is review (use as appropriate for conversation and time)
+2. Review readings  
+  - Holdren
+    - Clearly for data sharing - implications for the environment (his background)
+    - implications for other fields? biotechnology, engineering, computer science, physics? Take some time to think about other fields
+    - are there other fields allied to the environment that would suppport open data
+    - are there certain fields that would be opposed to open data?
+    - emphasize that this is for federal agencies mostly, and then federally funded research
+  - NSF
+    - 
+3. arguments for and against data sharing  
+  - really thinking about the 'open data' debate
+  - split class in two groups: one group for data sharing, one against (for two people a little different)
   - 10 minutes to brainstorm arguments
   - 10 minutes to present arguments (style as debate)  
-3. Revisit arguments as lecture (15 minutes)
+4. Revisit arguments as lecture (15 minutes)
   - fill in any gaps from debate  
-4. Shareout: personal data management snafus (ask for volunteers) (10 minutes)  
+5. Shareout: personal data management snafus (tell some stories or ask for volunteers) (10 minutes)  
 
 ---
 
