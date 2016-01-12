@@ -28,15 +28,15 @@ Lesson 1
   - up to slide 9 is review (use as appropriate for conversation and time)
 2. Review readings  
   - Holdren
-    - Clearly for data sharing - implications for the environment (his background)
-    - implications for other fields? biotechnology, engineering, computer science, physics? Take some time to think about other fields
-    - are there other fields allied to the environment that would suppport open data
+    - Clearly he is for the promotion of data sharing - are there implications for the environment? (his background)
+    - implications for other fields? biotechnology, engineering, computer science, physics? Take some time to think about other fields: security, privacy, human subjects, inventions, and so on
+    - are there other fields allied to the environment that would suppport open data?
     - are there certain fields that would be opposed to open data?
-    - emphasize that this is for federal agencies mostly, and then federally funded research
+    - emphasize that the memo is targeted at federal agencies (mostly), and also federally funded research at universities
+    - try to think about how this affects your research.
   - NSF
     - 
-3. arguments for and against data sharing  
-  - really thinking about the 'open data' debate
+3. arguments for and against data sharing; really thinking through the 'open data' debate
   - split class in two groups: one group for data sharing, one against (for two people a little different)
   - 10 minutes to brainstorm arguments
   - 10 minutes to present arguments (style as debate)  
@@ -49,7 +49,7 @@ Lesson 1
 > Readings (required)
 
  - Holdren, J (2013). *Increasing Access to the Results of Federally Funded Scientific Research*. Office of Science and Technology Policy, Executive Office of the President [*https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp\_public\_access\_memo\_2013.pdf*](https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
- - National Science Foundation. *Dissemination and Sharing of Research Results*. [*http://www.nsf.gov/bfa/dias/policy/dmp.jsp*](http://www.nsf.gov/bfa/dias/policy/dmp.jsp*] (see both the sharing and data management sections).  
+ - National Science Foundation. *Dissemination and Sharing of Research Results*. [*http://www.nsf.gov/bfa/dias/policy/dmp.jsp*](http://www.nsf.gov/bfa/dias/policy/dmp.jsp*) (see both the sharing and data management sections).  
 
 > Readings (highly recomended)
 
