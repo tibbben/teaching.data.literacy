@@ -12,20 +12,26 @@ Lesson 2
 
 *__Class 1__*  
 
-1. Review and expand upon data life cycle (lecture 15 minutes) 
-2. Open Data: strengths and weaknesses 
-3. Introduce Data Management Plan 
-  - show the DMPtool and the library of plans
-  - introduce the reading assgnment
-
-*__Class 2__*  
-
-1. Data Management Plans (cont. 10 min)  
-  - review DMPtool
-2. Pair - what did you find in your selected DMP (10 Minutes)
-  - strengths and weaknesses
-  - anything unexpected
-3. and Share (15 minutes)
+1. Review readings
+  - Book chapter "Promoting the Stewardship of Research Data
+  - 
+2. Review and expand upon data life cycle (lecture 5 minutes) 
+3. Open Data: strengths and weaknesses [did this get done last week? ] (lecture 10 minutes)
+4. Introduce Data Management Plan
+  - forget about carrots and sticks (class participation - 10 minutes)
+    - find our how many students have written a non-funded grant proposal, try to pair those with with those without
+    - make two lists, benefits and problems of writing the grant proposal that is not funded
+    - make the lists in front of the class with their input
+    - if it doesn't appear on the benefit list - make sure they see the value of thinking through a project - planning, writing, revision
+  - show the DMPtool and the library of plans (5 minutes)
+    - login and explore a little
+    - emphasize that these are NOT vetted for quality 
+5. Data Management Plans Assignment check in (10 minutes)
+  - Pair - what did you find in your selected DMP (5 minutes)
+    - strengths and weaknesses
+    - anything unexpected
+  - Share (5 minutes)
+6. Introduce next weeks readings
 
 ---
 
