@@ -12,17 +12,34 @@ Lesson 2
 
 *__Class 1__*  
 
-1. Review readings
+1. Review and expand upon data life cycle (lecture 5 minutes) 
+2. Reflect for a moment: how is your research funded? What Data Management requirements do you have? (write it down - 2 minutes. If you don't have any, think of your career goals)
+3. Review readings (discussion/lecture 15 minutes)
+  - Any words starting to jump out as common themes? (metadata, repositories, stored indefinately, accessible, disciplinary practice, intellectual property, security [privacy],interoperability, embargo, ontologies, schemas)
+    - see if they can make list on board
+    - divide into two groups (maybe?) and have them come up with definitions for these keywords (guided discussion)
   - Book chapter "Promoting the Stewardship of Research Data
-  - 
-2. Review and expand upon data life cycle (lecture 5 minutes) 
-3. Open Data: strengths and weaknesses [did this get done last week? ] (lecture 10 minutes)
-4. Introduce Data Management Plan
-  - forget about carrots and sticks (class participation - 10 minutes)
+    - largely a review of what was discussed last week
+    - major themes: data loss, disciplinary practice, save or toss, ownership
+    - point out IPCSR and ESA initiatives - discuss briefly
+    - problem areas: standards, ownership, sustainability (financial)
+    - if there is time, discuss recommendations
+  - OMB 2013 Memorandum
+    - see slides - go over policy requirements in detail, define terms witrh the class (machine readable, data standards, open licenses, common core metadata)
+    - who pays, how much and for how long?
+  - SHOW NCEI website as a response to both memos (mostly first) and GIDEP (since 1950s)
+  - discuss value: over time, of different data (obervational, modeled, experimental)
+4. Review open data briefly and use to introduce the Data Management Plan (lecture 10 minutes)
+  - five basic components (but vary between agencies, private foundations, and so on)
+    - these components inform some of the upcoming class topics
+      - Data types and formats (next class)
+        - sensors? ownership of inputs? observational? experimental? and so on
+      - Metadata: machine vs. humn readable
+  - forget about carrots and sticks (class participation - 5 minutes - perhaps??)
     - find our how many students have written a non-funded grant proposal, try to pair those with with those without
-    - make two lists, benefits and problems of writing the grant proposal that is not funded
-    - make the lists in front of the class with their input
-    - if it doesn't appear on the benefit list - make sure they see the value of thinking through a project - planning, writing, revision
+      - make two lists, benefits and problems of writing the grant proposal that is not funded
+      - make the lists in front of the class with their input
+      - if it doesn't appear on the benefit list - make sure they see the value of thinking through a project - planning, writing, revision
   - show the DMPtool and the library of plans (5 minutes)
     - login and explore a little
     - emphasize that these are NOT vetted for quality 
