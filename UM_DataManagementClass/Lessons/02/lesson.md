@@ -12,7 +12,10 @@ Lesson 2
 
 *__Class 1__*  
 
-1. Review and expand upon data life cycle (lecture 5 minutes) 
+0. Housekeeping (5 minutes)
+1. Review and expand upon data life cycle (lecture 5 minutes) i
+  - Research Data Lifecycle and Data Curation Lifecycle (latter as part of former)
+  - note that data curation/management is a hot topic currently
 2. Reflect for a moment: how is your research funded? What Data Management requirements do you have? (write it down - 2 minutes. If you don't have any, think of your career goals)
 3. Review readings (discussion/lecture 15 minutes)
   - Any words starting to jump out as common themes? (metadata, repositories, stored indefinately, accessible, disciplinary practice, intellectual property, security [privacy],interoperability, embargo, ontologies, schemas)
@@ -29,26 +32,38 @@ Lesson 2
     - who pays, how much and for how long?
   - SHOW NCEI website as a response to both memos (mostly first) and GIDEP (since 1950s)
   - discuss value: over time, of different data (obervational, modeled, experimental)
-4. Review open data briefly and use to introduce the Data Management Plan (lecture 10 minutes)
+4. Review open data briefly and use to introduce the Data Management Plan (lecture 15 minutes)
   - five basic components (but vary between agencies, private foundations, and so on)
     - these components inform some of the upcoming class topics
       - Data types and formats (next class)
         - sensors? ownership of inputs? observational? experimental? and so on
-      - Metadata: machine vs. humn readable
+	- two data types: structures (tables, trees, triples) and levels (raw, processed, analyzed, published)
+	- software needed in process steps, workflows, algorithms
+	- file formats, naming conventions and organization
+	- backup strategies, security, version control
+	- who is responsible
+	- quality assurance
+      - Metadata
+        - machine vs. human readable (formats)
+	- standards (often discipline specific)
+      - Policies for Access and Sharing
+      - Plans for archiving and preservation
+        - no really, best to think of this before research (like target journals for publicatons)
+      - Budget
+  - show the DMPtool and the library of plans (5 minutes)
+    - login and explore a little
+    - emphasize that these are NOT vetted for quality 
   - forget about carrots and sticks (class participation - 5 minutes - perhaps??)
     - find our how many students have written a non-funded grant proposal, try to pair those with with those without
       - make two lists, benefits and problems of writing the grant proposal that is not funded
       - make the lists in front of the class with their input
       - if it doesn't appear on the benefit list - make sure they see the value of thinking through a project - planning, writing, revision
-  - show the DMPtool and the library of plans (5 minutes)
-    - login and explore a little
-    - emphasize that these are NOT vetted for quality 
 5. Data Management Plans Assignment check in (10 minutes)
   - Pair - what did you find in your selected DMP (5 minutes)
     - strengths and weaknesses
     - anything unexpected
   - Share (5 minutes)
-6. Introduce next weeks readings
+6. Introduce next weeks readings and installation of text editor (5 mintues)
 
 ---
 
