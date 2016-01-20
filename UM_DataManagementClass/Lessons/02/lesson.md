@@ -34,22 +34,22 @@ Lesson 2
   - discuss value: over time, of different data (obervational, modeled, experimental)
 4. Review open data briefly and use to introduce the Data Management Plan (lecture 15 minutes)
   - five basic components (but vary between agencies, private foundations, and so on)
-    - these components inform some of the upcoming class topics
-      - Data types and formats (next class)
-        - sensors? ownership of inputs? observational? experimental? and so on
-	- two data types: structures (tables, trees, triples) and levels (raw, processed, analyzed, published)
-	- software needed in process steps, workflows, algorithms
-	- file formats, naming conventions and organization
-	- backup strategies, security, version control
-	- who is responsible
-	- quality assurance
-      - Metadata
-        - machine vs. human readable (formats)
-	- standards (often discipline specific)
-      - Policies for Access and Sharing
-      - Plans for archiving and preservation
-        - no really, best to think of this before research (like target journals for publicatons)
-      - Budget
+  - these components inform some of the upcoming class topics
+    - Data types and formats (next class)
+      - sensors? ownership of inputs? observational? experimental? and so on
+      - two data types: structures (tables, trees, triples) and levels (raw, processed, analyzed, published)
+      - software needed in process steps, workflows, algorithms
+      - file formats, naming conventions and organization
+      - backup strategies, security, version control
+      - who is responsible
+      - quality assurance
+    - Metadata
+      - machine vs. human readable (formats)
+      - standards (often discipline specific)
+    - Policies for Access and Sharing
+    - Plans for archiving and preservation
+      - no really, best to think of this before research (like target journals for publicatons)
+    - Budget
   - show the DMPtool and the library of plans (5 minutes)
     - login and explore a little
     - emphasize that these are NOT vetted for quality 
