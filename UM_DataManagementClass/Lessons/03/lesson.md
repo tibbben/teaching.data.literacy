@@ -13,23 +13,22 @@ Lesson 3
 
 *__Class 1__*  
 
-1. Review readings (15 minutes)
+1. Review readings (5 minutes)
   - Kitchin book chapter: "Conceptualizing Data"
-  - Library of Congress Recomended Formats Statement / UK Data Archive
-2. Data Stages/Types/Formats (lecture 15 minutes) 
+2. Data Stages/Types (lecture 15 minutes) 
 3. Pair/Share activity - my data levels/formats (15 minutes)
-4. Text Based Formats (15 minutes)
+
+*__Class 2__*  
+1. Review Recomended Formats
+2. Text Based Formats (15 minutes)
   - Introduce text editors
     - various platforms
     - problems with text on different platforms (CR and LF)
   - Introduce various data structures and their text formats
     - tables: CSV, TXT, etc
     - trees: XML, JSON, etc
-5. Introduce Relational Data (????)
-
-*__Class 2__*  
-1. Review Recomended Formats
-2. Image Data Formats
+3. Excercise on deconstructing HTML and XML (20 minutes)    
+4. Image Data Formats (introduction)
   - a little on color theory for computers?
   - lossy vs lossless review
   - problems
