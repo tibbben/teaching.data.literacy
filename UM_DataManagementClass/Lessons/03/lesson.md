@@ -15,8 +15,19 @@ Lesson 3
 
 1. Review readings (5 minutes)
   - Kitchin book chapter: "Conceptualizing Data"
+  - rest of book is good overview of major issues in the 'data revolution' (not all relevant to data management)
+  - the point is: data is not just technology, but a social technical assemblage (mention Bowker)
 2. Data Stages/Types (lecture 15 minutes) 
+  - many ways to think of data, none is correct but all are useful
+  - we are reviewing four ways and then focusing in on Captured Data
 3. Pair/Share activity - my data levels/formats (15 minutes)
+  - draw their research cycle and attach data types/levels to each stage of the cycle (5 minutes)
+  - share this with your neighbor (2 minutes)
+  - share out good/bad/problems to class (5 minutes)
+4. Introduce File Formats 
+  - as a way of storing/encoding the different data types and levels
+  - too much to possibly know them all
+  - introduce readings as a way to seek preferred formats for their work
 
 *__Class 2__*  
 1. Review Recomended Formats
