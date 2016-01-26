@@ -31,6 +31,13 @@ Lesson 3
 
 *__Class 2__*  
 1. Review Recomended Formats
+  - proprietary/open
+    - note jpeg (joint photographic experts group) long and recent (up to 2013) patent battle
+    - note odt and odf formats (Apache Open Office) if only more people would use . . .
+  - lossy/lossless
+  - indexable?
+    - character encodings (utf-8, utf-16)
+  - conversions from one format to another
 2. Text Based Formats (15 minutes)
   - Introduce text editors
     - various platforms
