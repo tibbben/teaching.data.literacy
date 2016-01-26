@@ -19,7 +19,7 @@ Lesson 3
   - the point is: data is not just technology, but a social technical assemblage (mention Bowker)
 2. Data Stages/Types (lecture 15 minutes) 
   - many ways to think of data, none is correct but all are useful
-  - we are reviewing four ways and then focusing in on Captured Data
+  - we are reviewing five ways and then focusing in on Captured Data
 3. Pair/Share activity - my data levels/formats (15 minutes)
   - draw their research cycle and attach data types/levels to each stage of the cycle (5 minutes)
   - share this with your neighbor (2 minutes)
