@@ -64,12 +64,15 @@ Lesson 3
       - have them open the someColors.html in both a text editor and a web browser
       - work in pairs to draw the "tree" structure and identify elements
       - open the twoDatasets.xml file, note the flatter "tree" structure
+        - give link to Dublin Core
+	- follow links to DTD and the schema - open in the text editor
       - search for "XML to JSON" in a web browser, cut and paste the twoDatasets.xml file into the web based tool
         - compare XML and JSON: file size, ease of reading (machine and human), note javascript (like JSON), css, html (like xml) combo
-	- note to XSL (extensible stylesheet language) and XSLT (XSL transformations)
-      - introduce W3C
-        - governing body of world wide web
-	- introduce w3schools.com - great reference
+        - note to XSL (extensible stylesheet language) and XSLT (XSL transformations)
+    - introduce W3C
+      - governing body of world wide web
+      - introduce w3schools.com - great reference
+  - Final note - you find an unknown file format - OPEN IT IN A TEXT EDITOR TO SEE WHAT IT IS
 5. Image Formats (lecure 10 minutes)
   - a little on color theory for computers
   - go over the relation between file size and resolution-compression-color.model 
