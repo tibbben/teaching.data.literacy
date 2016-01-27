@@ -31,16 +31,26 @@ Lesson 3
 
 *__Class 2__*  
 
-1. Review Recomended Formats
+1. Review readings (5 minutes)
+    - emphasize that always a work in progress
+    - best format ?! PAPER !??!
+2. Review recomended formats (lecture 15 minutes) 
   - proprietary/open
     - note jpeg (joint photographic experts group) long and recent (up to 2013) patent battle
-    - note odt and odf formats (Apache Open Office) if only more people would use . . .
+    - note odt and odf formats (Apache Open Office - originally from Sun Microsystems [also java, now Oracle]) if only more people would use . . .
   - lossy/lossless
   - indexable?
     - character encodings (utf-8, utf-16)
-  - conversions from one format to another
-    - often problematic and lossy
-2. Text Based Formats (15 minutes)
+  - conversions from one format to another (from the UK data archive)
+    - often problematic and lossy 
+      - use the example of excel to csv
+      - use the example of stat files to csv
+  - quickly go over the 'Some Things to Remember'
+    - ask about bits and bytes on text encoding slide - if they don't know give a quick introduction - return to this on color slides below
+    - they do not need to remember all of this, but the history and association of the acronyms IS useful
+3. Quick share (5 minutes)
+    - have them do a one minute brainstorm on expected formats in their work - share out
+4. Text Based Formats Live Coding Excercise (25 minutes)
   - Introduce text editors
     - various platforms
     - problems with text on different platforms (CR and LF)
@@ -50,16 +60,20 @@ Lesson 3
       - then in the text editor
       - note the comma problem, remove with find and replace
       - open again in excel
-    - trees: XML, JSON, etc
+    - trees: XML, JSON, etc - excercise on deconstructing HTML and JSON
       - have them open the someColors.html in both a text editor and a web browser
       - work in pairs to draw the "tree" structure and identify elements
       - open the twoDatasets.xml file, note the flatter "tree" structure
-3. Excercise on deconstructing HTML and XML (20 minutes)    
-4. Image Data Formats (introduction)
+      - search for "XML to JSON" in a web browser, cut and paste the twoDatasets.xml file into the web based tool
+        - compare XML and JSON: file size, ease of reading (machine and human), note javascript (like JSON), css, html (like xml) combo
+	- note to XSL (extensible stylesheet language) and XSLT (XSL transformations)
+      - introduce W3C
+        - governing body of world wide web
+	- introduce w3schools.com - great reference
+5. Image Formats (lecure 10 minutes)
   - a little on color theory for computers
-  - lossy vs lossless review
-  - problems
-5. introduce next weeks readings
+  - go over the relation between file size and resolution-compression-color.model 
+6. introduce next weeks readings (5 minutes)
   - talk for a moment about the software carpentry excercise
   - homework, install git bash on your computer
 
