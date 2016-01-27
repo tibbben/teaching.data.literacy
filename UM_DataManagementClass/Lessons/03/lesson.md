@@ -38,18 +38,29 @@ Lesson 3
   - indexable?
     - character encodings (utf-8, utf-16)
   - conversions from one format to another
+    - often problematic and lossy
 2. Text Based Formats (15 minutes)
   - Introduce text editors
     - various platforms
     - problems with text on different platforms (CR and LF)
   - Introduce various data structures and their text formats
     - tables: CSV, TXT, etc
+      - open the listaEspecias.csv in excel, note that it is a "flat file"
+      - then in the text editor
+      - note the comma problem, remove with find and replace
+      - open again in excel
     - trees: XML, JSON, etc
+      - have them open the someColors.html in both a text editor and a web browser
+      - work in pairs to draw the "tree" structure and identify elements
+      - open the twoDatasets.xml file, note the flatter "tree" structure
 3. Excercise on deconstructing HTML and XML (20 minutes)    
 4. Image Data Formats (introduction)
-  - a little on color theory for computers?
+  - a little on color theory for computers
   - lossy vs lossless review
   - problems
+5. introduce next weeks readings
+  - talk for a moment about the software carpentry excercise
+  - homework, install git bash on your computer
 
 ---
 
