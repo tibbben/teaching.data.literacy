@@ -30,6 +30,7 @@ Lesson 3
   - introduce readings as a way to seek preferred formats for their work
 
 *__Class 2__*  
+
 1. Review Recomended Formats
   - proprietary/open
     - note jpeg (joint photographic experts group) long and recent (up to 2013) patent battle
@@ -66,6 +67,6 @@ Lesson 3
 
 > Readings (Required)
 
-  - Kitchin, R (2014). ŒÈŒÌConceptualizing DataŒÈŒÌ in Kitchin, R *The Data Revolution.* Washington DC: Sage. [*http://uk.sagepub.com/sites/default/files/upm-binaries/63923\_Kitchin\_CH1.pdf*](http://uk.sagepub.com/sites/default/files/upm-binaries/63923_Kitchin_CH1.pdf)
+  - Kitchin, R (2014). √é√©√é√≠Conceptualizing Data√é√©√é√≠ in Kitchin, R *The Data Revolution.* Washington DC: Sage. [*http://uk.sagepub.com/sites/default/files/upm-binaries/63923\_Kitchin\_CH1.pdf*](http://uk.sagepub.com/sites/default/files/upm-binaries/63923_Kitchin_CH1.pdf)
   - UK Data Archive (2015). Create and Manage Data: formatting Your Data: File Formats and Software. [*http://www.data-archive.ac.uk/create-manage/format/formats*](http://www.data-archive.ac.uk/create-manage/format/formats). (follow "Recommended File Formats" link as well).
   - Library of Congress (2015). Recommended Formats Statement 2015-2016. [*https://www.loc.gov/preservation/resources/rfs/RFS%202015-2016.pdf*](https://www.loc.gov/preservation/resources/rfs/RFS%202015-2016.pdf).
