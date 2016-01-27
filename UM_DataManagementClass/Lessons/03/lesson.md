@@ -31,10 +31,13 @@ Lesson 3
 
 *__Class 2__*  
 
-1. Review readings (5 minutes)
+1. Check in on
+  - any questions, requests or observations
+  - drawing of their research data lifecycle
+2. Review readings (5 minutes)
     - emphasize that always a work in progress
     - best format ?! PAPER !??!
-2. Review recomended formats (lecture 15 minutes) 
+3. Review recomended formats (lecture 15 minutes) 
   - proprietary/open
     - note jpeg (joint photographic experts group) long and recent (up to 2013) patent battle
     - note odt and odf formats (Apache Open Office - originally from Sun Microsystems [also java, now Oracle]) if only more people would use . . .
@@ -47,10 +50,12 @@ Lesson 3
       - use the example of stat files to csv
   - quickly go over the 'Some Things to Remember'
     - ask about bits and bytes on text encoding slide - if they don't know give a quick introduction - return to this on color slides below
+    - ask about bitmap vs vector images
     - they do not need to remember all of this, but the history and association of the acronyms IS useful
-3. Quick share (5 minutes)
+4. Quick share (5 minutes)
     - have them do a one minute brainstorm on expected formats in their work - share out
-4. Text Based Formats Live Coding Excercise (25 minutes)
+5. Text Based Formats Live Coding Excercise (25 minutes)
+  - turn on visible extensions on all computers!!
   - Introduce text editors
     - various platforms
     - problems with text on different platforms (CR and LF)
@@ -66,6 +71,7 @@ Lesson 3
       - open the twoDatasets.xml file, note the flatter "tree" structure
         - give link to Dublin Core
 	- follow links to DTD and the schema - open in the text editor
+	- note the links for the dc:rights and dc:identifier
       - search for "XML to JSON" in a web browser, cut and paste the twoDatasets.xml file into the web based tool
         - compare XML and JSON: file size, ease of reading (machine and human), note javascript (like JSON), css, html (like xml) combo
         - note to XSL (extensible stylesheet language) and XSLT (XSL transformations)
@@ -73,10 +79,17 @@ Lesson 3
       - governing body of world wide web
       - introduce w3schools.com - great reference
   - Final note - you find an unknown file format - OPEN IT IN A TEXT EDITOR TO SEE WHAT IT IS
-5. Image Formats (lecure 10 minutes)
+    - get the svg file and open it in a broswer and then in the text editor
+6. Image Formats (lecure 10 minutes)
   - a little on color theory for computers
-  - go over the relation between file size and resolution-compression-color.model 
-6. introduce next weeks readings (5 minutes)
+    - remember, each pixel is stored as either three or four color numbers (size difference)
+    - you can count to 0-255 with eight bits (one byte)
+    - hexidecimal is easier to read than bits
+  - a little on resolution
+    - "highest resolution possible" LOC
+    - go over the relation between file size and resolution-compression-color.model
+  - one minute exercise - draw a graph of resolution and file size, compression and file size, resolution and image quality, compression and iamge quality
+7. introduce next weeks readings (5 minutes)
   - talk for a moment about the software carpentry excercise
   - homework, install git bash on your computer
 
