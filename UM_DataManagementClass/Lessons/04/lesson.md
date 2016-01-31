@@ -21,16 +21,23 @@ Lesson 4
     - Design your files system for data capture (go to at least three levels)
     - critique your current file system on your computer (what is could and what could be better)
 4. Introduce Versioning
+  - subversion (apache)
+  - git (linux)
 5. Introduce Batch Naming
-6. Introduce BASH and git
+  - need to rename many files or folders (often from sensors)
+  - pre-packaged tools or command line
+    - really a pre-packaged tool is a collection of command line tools 
+6. Introduce BASH
   - live coding teaching environment
-  - run through first lesson on Software carpentry
+  - run through first shell novice lesson on Software carpentry
+    - [*http://swcarpentry.github.io/shell-novice/*](http://swcarpentry.github.io/shell-novice/)
+    - print the first few lessons and use as much as there is time for - go slow - have fun
 7. Introduce extra readings and homework #2
 
 *__Class 2__*  
 
 1. Check in on homework
-2. Continue with Software Carpentry on Bash shell
+2. Continue with Software Carpentry shell novice lesson (see above)
 
 ---
 
