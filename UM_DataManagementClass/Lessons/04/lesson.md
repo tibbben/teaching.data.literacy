@@ -16,6 +16,7 @@ Lesson 4
 2. File System Organization (lecture 15 minutes) 
   - Folders
   - Files
+    - come up with list of benefits. Think finding, sharing, backup, sorting, versions, migration
 3. Pair/Share activity - my file system (15 minutes)
   - Do one of the two
     - Design your files system for data capture (go to at least three levels)
