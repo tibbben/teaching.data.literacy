@@ -24,6 +24,6 @@ Lesson 5
 
 > Readings (Required)
 
-  - Backing Up Data (UK Data Archive): (http://www.data-archive.ac.uk/create-manage/storage/back-up)[*http://www.data-archive.ac.uk/create-manage/storage/back-up*](http://www.data-archive.ac.uk/create-manage/storage/back-up)
+  - Backing Up Data (UK Data Archive): [*http://www.data-archive.ac.uk/create-manage/storage/back-up*](http://www.data-archive.ac.uk/create-manage/storage/back-up)
   - Ruggiero and Heckathorn (2012). Data Backup Options. United States Computer Emergency Readiness Team. [*https://www.us-cert.gov/sites/default/files/publications/data\_backup\_options.pdf*](https://www.us-cert.gov/sites/default/files/publications/data_backup_options.pdf).
-  - Version Control and Authenticity (UK Data Archive): (http://www.data-archive.ac.uk/create-manage/format/versions)[*http://www.data-archive.ac.uk/create-manage/format/versions*](http://www.data-archive.ac.uk/create-manage/format/versions)
+  - Version Control and Authenticity (UK Data Archive): [*http://www.data-archive.ac.uk/create-manage/format/versions*](http://www.data-archive.ac.uk/create-manage/format/versions)
