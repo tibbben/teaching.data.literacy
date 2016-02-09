@@ -46,8 +46,10 @@ Lesson 5
 *__Class 2__*  
 
 1. Security and Privacy
-2. Start on versioning SWC workshop
-3. Introduction to DCP
+  - at start emphasize how security and storage are very related
+2. Introduction to DCP assignment
+  - review of major course components so far
+  
 
 ---
 
