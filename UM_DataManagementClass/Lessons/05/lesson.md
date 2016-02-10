@@ -75,9 +75,12 @@ Lesson 5
   - NOTE: in storage and backup the difference between full, incremental, and differential was never introduced. If this does not come up as a question, make sure to introduce the concept (see last slide in the presentation)
 3. Introduction to DCP assignment (lecture 15 minutes)
   - review of major course components so far
+  - introduction to research includes background on person (previous research, publications etc.)
+  - this will not be a true Curation Profile, but instead a critique that synthesizes the first part of the course
+  - end with recomendations (the researcher will not see these)
   - go over time frame for assignment
 
-NOTE: there may be extra class time, then again maybe not
+NOTE: there may be extra class time, then again maybe not. If there is, start in on git software carpentry lesson
   
 ---
 
