@@ -16,7 +16,7 @@ Lesson 6
   - ask about the word curation, what does it mean to them
   - check for vegetarians in the room!!! apologize in advance.
   - check in on the creative commons license - do they recognize it? We will cover later after break.
-2. Introduction to the Data Curation Profiles (lecture 15 minutes)
+2. Introduction to the Data Curation Profiles (lecture 25 minutes)
   - Curation: we have been talking so far, what is the curation of data??
     - use the data curation slide set to start a conversation on both the human and technical aspects
     - emphasize that it is really a human process (deciding on values and then dedicating time and resources based on those values)
@@ -53,7 +53,9 @@ Lesson 6
       - can be mine or the one from the DCP toolkit
       - they should modify it to have just what they need - PRINTED OUT
       - type notes into computer - at least on the same day if not right after the interview
-
+  - Two examples
+    - the data worksheet (pretty self-explanatory)
+    - the connection between the original question - the follow up question - the notes - the written statement
 3. The UM library experience (Angela 20 minutes)
 4. Discussion (20 minutes)
   - get them to focus on their particular adaptations
