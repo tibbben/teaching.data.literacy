@@ -20,6 +20,7 @@ Lesson 6
   - Curation: we have been talking so far, what is the curation of data??
     - use the data curation slide set to start a conversation on both the human and technical aspects
     - emphasize that it is really a human process (deciding on values and then dedicating time and resources based on those values)
+    - mention/seek similarities with DMPs
   - The original idea: emphasize that this is anthropology
     - the "other"
     - semi-structured interviews and grounded theory (anthro methodology)
@@ -56,6 +57,8 @@ Lesson 6
   - Two examples
     - the data worksheet (pretty self-explanatory)
     - the connection between the original question - the follow up question - the notes - the written statement
+      - likely that we will not use a questionaire (not recomended for this class)
+      - but follow the connection through the question, followup question, and written description
 3. The UM library experience (Angela 20 minutes)
 4. Discussion (20 minutes)
   - get them to focus on their particular adaptations
