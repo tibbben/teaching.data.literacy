@@ -345,9 +345,9 @@ here?*
 -  create a git repository, make changes, commit the changes, and push to github.
 -  open a pull request, collaborate, push to github
 
-No class meeting on Monday of week 9. Instead there will be two
+> No class meeting on Monday of week 9. Instead there will be two
 > scheduled two-day “Software Carpentry” workshops held (see
-> [*https://software-carpentry.org/*](https://software-carpentry.org/):
+> [*https://software-carpentry.org/*](https://software-carpentry.org/)):
 
 -  An R based workshop at the Shalala Student Center Senate Room on the Gables Campus on Monday and Tuesday March 14-15, 8:30am - 3:00pm (see [*http://mkcor.github.io/2016-03-14-university-of-miami/*](http://mkcor.github.io/2016-03-14-university-of-miami/).
 -  A Python based workshop at the Newman Alumni Center on the Gables Campus on Monday and Tuesday March 28-29, 9:00am - 4:00pm.
@@ -361,7 +361,7 @@ No class meeting on Monday of week 9. Instead there will be two
 
 -  Load data into the R environment
 -  Calculate averages
--  make a simpel graphic
+-  make a simple graphic
 
 > This is a hands on lab week based in the Software Carpentry lesson: [*http://swcarpentry.github.io/r-novice-inflammation/*](http://swcarpentry.github.io/r-novice-inflammation/)
 
