@@ -335,7 +335,7 @@ here?*
 
 > Assignment \#3: Choose one of the following: (1) Create metadata for your research data using an existing schema (2) create a metadata schema for your data.
 
-*__**********  Spring Break  **********__*
+*__++++++++++  Spring Break  ++++++++++__*
 
 *__Weeks 9:__ Versioning and Git (software carpentry)*  \[ TURN IN ASSIGNMENT \#3 \]
 
@@ -349,7 +349,7 @@ here?*
 > scheduled two-day “Software Carpentry” workshops held (see
 > [*https://software-carpentry.org/*](https://software-carpentry.org/)):
 
--  An R based workshop at the Shalala Student Center Senate Room on the Gables Campus on Monday and Tuesday March 14-15, 8:30am - 3:00pm (see [*http://mkcor.github.io/2016-03-14-university-of-miami/*](http://mkcor.github.io/2016-03-14-university-of-miami/).
+-  An R based workshop at the Shalala Student Center Senate Room on the Gables Campus on Monday and Tuesday March 14-15, 8:30am - 3:00pm (see [*http://mkcor.github.io/2016-03-14-university-of-miami/*](http://mkcor.github.io/2016-03-14-university-of-miami/)).
 -  A Python based workshop at the Newman Alumni Center on the Gables Campus on Monday and Tuesday March 28-29, 9:00am - 4:00pm.
 
 > Attendance to the workshops is not required, but it is highly encouraged that at least one morning or afternoon session is attended. The more you can attend, the better it will be.
