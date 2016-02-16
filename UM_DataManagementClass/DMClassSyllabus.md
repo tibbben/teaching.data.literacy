@@ -332,7 +332,9 @@ here?*
     Workbook, Version 2.0.
     [*https://www.fgdc.gov/metadata/documents/workbook\_0501\_bmk.pdf*](https://www.fgdc.gov/metadata/documents/workbook_0501_bmk.pdf).
 
-> Assignment \#3: Create metadata for your research data
+> Assignment \#3: Choose one of the following: (1) Create metadata for your research data using an existing schema (2) create a metadata schema for your data.
+
+-> **********  Spring Break  ********** <-
 
 *__Weeks 9 and 10:__ (software carpentry)* \[ TURN IN ASSIGNMENT \#3 \]
 

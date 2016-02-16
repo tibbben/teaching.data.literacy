@@ -68,7 +68,7 @@ Lesson 6
 
 1. Housekeeping (5 minutes)
   - make sure they are all on track, if not request meetings outside of class
-2. Quick overview of my experience with interviews at UM (10 minutes)
+2. Quick overview of my experience with interviews at UM (10 minutes, perhaps a little more)
 3. Class presentations of the DCP of choice (20 minutes)
 4. Introduction to git (software carpentry - rest of class)
   
