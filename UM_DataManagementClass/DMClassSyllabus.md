@@ -1,4 +1,5 @@
 **Data Management in the Research Environment - Syllabus**
+==========================================================
 
 **Instructors**:  
 Dr. Timothy Norris – Postdoctoral Fellow Miami University Libraries  
@@ -334,40 +335,37 @@ here?*
 
 > Assignment \#3: Choose one of the following: (1) Create metadata for your research data using an existing schema (2) create a metadata schema for your data.
 
--> **********  Spring Break  ********** <-
+*__**********  Spring Break  **********__*
 
-*__Weeks 9 and 10:__ (software carpentry)* \[ TURN IN ASSIGNMENT \#3 \]
+*__Weeks 9:__ Versioning and Git (software carpentry)*  \[ TURN IN ASSIGNMENT \#3 \]
 
-> No class meeting for week 9 and week 10. Instead there will be a
-> scheduled two-day “Software Carpentry” workshop held on the RSMAS
-> campus (see
-> [*https://software-carpentry.org/*](https://software-carpentry.org/)
-> and the assigned reading in week \#4). Attendance to the workshop is
-> required.
->
-> A Software Carpentry workshop is hands-on two-day event that covers
-> the core skills needed to be productive in a small research team.
-> Short tutorials alternate with practical exercises, and all
-> instruction is done via live coding.
->
-> Students will choose on “track” within the Software Carpentry
-> workshops: the BASH Shell, programming in R, or programming in Python.
-> Each of these sessions include a component on how to use GitHub
-> effectively.
+> Become familiar with git and github as versioning tools.
 
-*__Week 11:__ Finding and Cleaning Data*
+-  Understand the difference between git and github
+-  create a git repository, make changes, commit the changes, and push to github.
+-  open a pull request, collaborate, push to github
 
-> Identify difficulties in acquiring and cleaning data.
+No class meeting on Monday of week 9. Instead there will be two
+> scheduled two-day “Software Carpentry” workshops held (see
+> [*https://software-carpentry.org/*](https://software-carpentry.org/):
 
--   Understand challenges of acquiring data online
--   Use online tools for data cleaning
--   Use offline tools for data cleaning
+-  An R based workshop at the Shalala Student Center Senate Room on the Gables Campus on Monday and Tuesday March 14-15, 8:30am - 3:00pm (see [*http://mkcor.github.io/2016-03-14-university-of-miami/*](http://mkcor.github.io/2016-03-14-university-of-miami/).
+-  A Python based workshop at the Newman Alumni Center on the Gables Campus on Monday and Tuesday March 28-29, 9:00am - 4:00pm.
 
-> Assignment \#4: Nguyen. “Using Google Refine to clean messy data.” \[
-> DO THE TUTORIAL BEFORE CLASS \]
-> [*http://www.propublica.org/nerds/item/using-google-refine-for-data-cleaning*](http://www.propublica.org/nerds/item/using-google-refine-for-data-cleaning).
+> Attendance to the workshops is not required, but it is highly encouraged that at least one morning or afternoon session is attended. The more you can attend, the better it will be.
+> On Wednesday we will do an hands-on lab exercise is based on the Software Carpentry lesson (Tuesday morning part of the R based workshop): [*http://swcarpentry.github.io/git-novice/*](http://swcarpentry.github.io/git-novice/).
 
-*__Week 12:__ Sharing and Reuse: Intellectual Property and Licensing*
+*__Week 10:__ Introduction to R*
+
+> Introduction to R in the research environment
+
+-  Load data into the R environment
+-  Calculate averages
+-  make a simpel graphic
+
+> This is a hands on lab week based in the Software Carpentry lesson: [*http://swcarpentry.github.io/r-novice-inflammation/*](http://swcarpentry.github.io/r-novice-inflammation/)
+
+*__Week 11:__ Sharing and Reuse: Intellectual Property and Licensing*
 
 > Evaluate how ownership and copyright of data and associated software
 > and/or scripts impact access and sharing strategies.
@@ -396,6 +394,20 @@ Optional Reading:
     Scientific Revolution. *Capitalism and Society* 3(2), Article 5.
     [*https://dx.doi.org/10.2202/1932-0213.1040*](https://dx.doi.org/10.2202/1932-0213.1040).
 
+> Assignment \#4: Nguyen. “Using Google Refine to clean messy data.” \[
+> DO THE TUTORIAL BEFORE CLASS \]
+> [*http://www.propublica.org/nerds/item/using-google-refine-for-data-cleaning*](http://www.propublica.org/nerds/item/using-google-refine-for-data-cleaning).
+
+*__Week 12:__ Finding and Cleaning Data*  \[ TURN IN ASSIGNMENT \# 4 \]
+
+> Identify difficulties in acquiring and cleaning data.
+
+-   Understand challenges of acquiring data online
+-   Use online tools for data cleaning
+-   Use offline tools for data cleaning
+
+> If time permits we will do an introductory lab on Structured Query Language (SQL) or Python based on the software carpentry lessons: [*http://swcarpentry.github.io/sql-novice-survey/*](http://swcarpentry.github.io/sql-novice-survey/).
+
 *__Week 13:__ Repository Identification / Preparation for Preservation /
 Unique Identifiers*
 
@@ -405,7 +417,7 @@ Unique Identifiers*
 -   Prepare data for deposit.
 -   Cite deposited data correctly
 
-> Assigned Readings:
+> Assigned Reading:
 
 -   Rauber, Asmi, van Uytvanck and Proll (2015). Data Citation of
     Evolving Data: Recommendations of the Working Group on
@@ -419,9 +431,20 @@ Unique Identifiers*
 > [*http://www.re3data.org/*](http://www.re3data.org/) and identify
 > three potential repositories for your data deposit.
 
-*__Week 14:__ Open Lab* \[ TURN IN ASSIGNMENT \#5 \]
+*__Week 14:__ The Semantic Web and Open Lab* \[ TURN IN ASSIGNMENT \#5 \]
 
-> Time with instructors to work on final projects. Students will
+> Understand how the content of this course fits into the broader context of the semantic web.
+
+-  Know tables, trees, and triples framework for understanding online data
+-  Describe the theory behind linked open data
+
+> Assigned Reading:
+-  Berners-Lee, T, Hendler, J and Lassila, O (2002) The Semantic Web. Scientific American Special Online Issue: 24-30. Blackboard > Course Documents > Materials > Week 14.
+
+> Optional Reading:
+-  Berners-Lee, T, Nigel Shadbolt and Wendy Hall (2006). The Semantic Web Revisited. IEEE Computer Society. Blackboard > Course Documents > Materials > Week 14.
+
+> The second meeting this week will be time with instructors to work on final projects. Specificially students will
 > exchange their final projects in pairs and provide immediate feedback.
 
 *__Finals Week:__* \[ TURN IN FINAL PROJECT \]
