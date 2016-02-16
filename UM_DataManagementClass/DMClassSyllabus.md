@@ -375,15 +375,10 @@ No class meeting on Monday of week 9. Instead there will be two
 
 > Assigned Reading:
 
--   Miami and other IP policy / data policy. Search for ‘data’ and scan
-    relevant sections.
-    [*https://umshare.miami.edu/web/wda/facultysenate/FacultyManual.pdf*](https://umshare.miami.edu/web/wda/facultysenate/FacultyManual.pdf).
--   Madison (2011). “Knowledge Curation.” Notre Dame Law Review, Vol.
-    86, p. 1957, 2011; U. of Pittsburgh Legal Studies Research Paper No.
-    2011-13. Available at SSRN:[
-    ](http://ssrn.com/abstract=1848086)[*http://ssrn.com/abstract=1848086*](http://ssrn.com/abstract=1848086)
+-    Miami and other IP policy / data policy. Search for ‘data’ and scan relevant sections. [*https://umshare.miami.edu/web/wda/facultysenate/FacultyManual.pdf*](https://umshare.miami.edu/web/wda/facultysenate/FacultyManual.pdf).
+-    Madison (2011). “Knowledge Curation.” Notre Dame Law Review, Vol. 86, p. 1957, 2011; U. of Pittsburgh Legal Studies Research Paper No. 2011-13. Available at SSRN: [*http://ssrn.com/abstract=1848086*](http://ssrn.com/abstract=1848086)
 
-Optional Reading:
+> Optional Reading:
 
 -   Boyle (2003). The Second Enclosure Movement and the Construction of
     the Public Domain. Law and Contemporary Problems,
@@ -438,10 +433,12 @@ Unique Identifiers*
 -  Know tables, trees, and triples framework for understanding online data
 -  Describe the theory behind linked open data
 
-> Assigned Reading:
+> Assigned Reading:i
+
 -  Berners-Lee, T, Hendler, J and Lassila, O (2002) The Semantic Web. Scientific American Special Online Issue: 24-30. Blackboard > Course Documents > Materials > Week 14.
 
 > Optional Reading:
+
 -  Berners-Lee, T, Nigel Shadbolt and Wendy Hall (2006). The Semantic Web Revisited. IEEE Computer Society. Blackboard > Course Documents > Materials > Week 14.
 
 > The second meeting this week will be time with instructors to work on final projects. Specificially students will
