@@ -1,5 +1,5 @@
 **Data Management in the Research Environment - Syllabus**
-==========================================================
+----------------------------------------------------------
 
 **Instructors**:  
 Dr. Timothy Norris – Postdoctoral Fellow Miami University Libraries  
