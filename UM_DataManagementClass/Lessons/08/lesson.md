@@ -1,0 +1,59 @@
+Lesson 8
+========
+
+**Learning Objectives**
+  - Document Data throughout the research endeavor
+  - Produce metadata that facilitates discovery and re-use
+
+---
+
+**Lesson Plan**
+  
+*__Class 1__*  
+
+1. Houskeeping (5 minutes)
+
+*__Class 2__*  
+
+1. Housekeeping (5 minutes)
+  
+---
+
+> Readings (Required)
+
+> Assigned Reading:
+
+-   Riley, “Seeing Standards.”
+    [*http://www.dlib.indiana.edu/~jenlrile/metadatamap/*](http://www.dlib.indiana.edu/~jenlrile/metadatamap/).
+    Download and study this poster in depth.
+-   Star, Castro, *et al* (2015)*.* Achieving human and machine
+    accessibility of cited data in scholarly publications. *PeerJ
+    Computer Science* 1:e1[
+    ](https://dx.doi.org/10.7717/peerj-cs.1)[*https://dx.doi.org/10.7717/peerj-cs.1*](https://dx.doi.org/10.7717/peerj-cs.1).
+
+> Optional Reading:
+
+-   Curdt, Constanze, Dirk Hoffmeister, Guido Waldhoff, Christian Jekel,
+    and Georg Bareth. "Scientific Research Data Management for
+    Soil-Vegetation-Atmosphere Data—The TR32DB." *International Journal
+    of Digital Curation* 7, no. 2 (2012): 68-80.[
+    ](http://www.ijdc.net/index.php/ijdc/article/view/220/295)[*http://www.ijdc.net/index.php/ijdc/article/view/220/295*](http://www.ijdc.net/index.php/ijdc/article/view/220/295)
+-   \[ for ecology: read the introduction through to 2.3.4 \] KNB
+    (no date). “Ecological Metadata Language (EML) Specification.” The
+    Knowledge Network,
+    [*https://knb.ecoinformatics.org/\#external//emlparser/docs/eml-2.1.1/index.html*](https://knb.ecoinformatics.org/#external//emlparser/docs/eml-2.1.1/index.html).
+-   \[ for marine biology \] Neiswender (2010). "Introduction to
+    Metadata." In *The MMI Guides: Navigating the World of Marine
+    Metadata*.
+    [*http://marinemetadata.org/guides/mdataintro*](http://marinemetadata.org/guides/mdataintro).
+-   \[ for atmospheric science: read the introduction through 2.6.2 \]
+    Eaton, *et al* (2011). NetCDF Climate and Forecast (CF)
+    Metadata Conventions.
+    [*http://cfconventions.org/Data/cf-conventions/cf-conventions-1.6/build/cf-conventions.pdf*](http://cfconventions.org/Data/cf-conventions/cf-conventions-1.6/build/cf-conventions.pdf).
+-   \[ for marine geology: read the introduction through chapter 6 \]
+    SEG (2015). SEG Y rev 2 Data Exchange Format.
+    [*http://www.seg.org/documents/51956/6062543/SEG-Y+rev+2+Draft+Jan+2015*](http://www.seg.org/documents/51956/6062543/SEG-Y+rev+2+Draft+Jan+2015)
+-   \[ for geographic data: read the introduction through page 31 \]
+    FGDC (2000). Content Standard for Digital Geospatial Metadata
+    Workbook, Version 2.0.
+    [*https://www.fgdc.gov/metadata/documents/workbook\_0501\_bmk.pdf*](https://www.fgdc.gov/metadata/documents/workbook_0501_bmk.pdf).
