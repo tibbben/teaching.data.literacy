@@ -11,7 +11,7 @@ Lesson 8
   
 *__Class 1__*  
 
-1. Houskeeping (5 minutes)
+1. Housekeeping (5 minutes)
 
 *__Class 2__*  
 
