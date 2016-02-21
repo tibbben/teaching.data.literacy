@@ -37,7 +37,7 @@ Lesson 8
 -   Riley, “Seeing Standards.”
     [*http://www.dlib.indiana.edu/~jenlrile/metadatamap/*](http://www.dlib.indiana.edu/~jenlrile/metadatamap/).
     Download and study this poster in depth.
--   Willis, Greenberg and White (2012), Analysis and Sythensis of Metadata Goals for Scientific Data. *Journal of the American Society for Information Science and Technology* 63(8): 1505-1520. (DOI: 10.1002/asi.22683)[http://dx.doi.org/10.1002/asi.22683].
+-   Willis, Greenberg and White (2012), Analysis and Sythensis of Metadata Goals for Scientific Data. *Journal of the American Society for Information Science and Technology* 63(8): 1505-1520. [http://dx.doi.org/10.1002/asi.22683](DOI: 10.1002/asi.22683).
 -   Star, Castro, *et al* (2015)*.* Achieving human and machine
     accessibility of cited data in scholarly publications. *PeerJ
     Computer Science* 1:e1[
