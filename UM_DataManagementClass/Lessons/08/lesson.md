@@ -12,10 +12,21 @@ Lesson 8
 *__Class 1__*  
 
 1. Housekeeping (5 minutes)
+2. Introduction to Metadata (lecture 20 minutes)
+3. Card Sorting Excercise (20 minutes)
+  - NOTE: bring lots of note cards [3x5 or bigger] and a few sharpies to class
+  - students get several cards on which they can write their acronyms from the homework
+  - have them descibe the acronyms briefly and place them categorically under one or more of the following bins: purpose { Technical, descriptive, preservation, rights, structural }, function { structure, vocabulary, record format, framework, standard }, domain { cultural objects, datasets, geospatial, video, sound, texts, images }, community { archives, museum, library, Information Industry }
+  - discuss (based on Riley's poster)
+4. Elliot's guest lecture (20 minutes)
 
 *__Class 2__*  
 
 1. Housekeeping (5 minutes)
+2. Example walkthrough (25 minutes)
+  - look at the ecological dataset and two forms of metadata
+    - think about two forms of metadata: what purpose they serve, how they funtion, their domain, and who they serve
+3. Introduce more on git (continue software carpentry lesson: 30 minutes until end)
   
 ---
 
@@ -26,6 +37,7 @@ Lesson 8
 -   Riley, “Seeing Standards.”
     [*http://www.dlib.indiana.edu/~jenlrile/metadatamap/*](http://www.dlib.indiana.edu/~jenlrile/metadatamap/).
     Download and study this poster in depth.
+-   Willis, Greenberg and White (2012), Analysis and Sythensis of Metadata Goals for Scientific Data. *Journal of the American Society for Information Science and Technology* 63(8): 1505-1520. (DOI: 10.1002/asi.22683)[http://dx.doi.org/10.1002/asi.22683].
 -   Star, Castro, *et al* (2015)*.* Achieving human and machine
     accessibility of cited data in scholarly publications. *PeerJ
     Computer Science* 1:e1[
