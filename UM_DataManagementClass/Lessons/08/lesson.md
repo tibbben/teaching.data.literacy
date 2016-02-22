@@ -2,8 +2,10 @@ Lesson 8
 ========
 
 **Learning Objectives**
-  - Document Data throughout the research endeavor
-  - Produce metadata that facilitates discovery and re-use
+  - Describe purpose, domain, community, and function of metadata and identify categories in each
+  - Identify and list the types of information typically included in metadata records
+  - Design or identify a standardized process to document data throughout the research endeavor
+  - Produce metadata that serves for discovery, re-use, publication, and archival needs
 
 ---
 
@@ -13,6 +15,13 @@ Lesson 8
 
 1. Housekeeping (5 minutes)
 2. Introduction to Metadata (lecture 20 minutes)
+  - what is metadata, where does it fit in the research data lifecycle, what roles does it play
+  - purposes
+  - creation processes
+  - standard 'elements' in metadata
+    - introduce dublin core
+  - how to structure the elements, 'schemas' and standards
+  - close with quick review
 3. Card Sorting Excercise (20 minutes)
   - NOTE: bring lots of note cards [3x5 or bigger] and a few sharpies to class
   - students get several cards on which they can write their acronyms from the homework
