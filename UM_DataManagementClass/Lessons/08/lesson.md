@@ -15,7 +15,10 @@ Lesson 8
 
 1. Housekeeping (5 minutes)
 2. Introduction to Metadata (lecture 20 minutes)
-  - quick note at the beginning: metadata for some is data for others . . . give the geographic metadata example
+  - quick note at the beginning: 
+    - metadata for some is data for others . . . give the geographic metadata example
+	- NSA and metadata (phones, apple, etc.)
+	- Metadata is not bad, it is just misunderstood
   - what is metadata, where does it fit in the research data lifecycle, what roles does it play
     - purposes (descriptive, structural, administrative)
     - functions (structure, vocabs, record formats, standards, frameworks)
@@ -25,14 +28,21 @@ Lesson 8
   - ** pause **
     - reflect on a good understanding of a description, what it is
   - standard elements in metadata
+    - how to structure the elements, schemas
     - introduce dublin core
-  - how to structure the elements, schemas
-  - close with quick review
+	- introduce FGDC
+  - close with a quick review and go to excercise
 3. Card Sorting Excercise (20 minutes)
   - NOTE: bring lots of note cards \[3x5 or bigger\] and a few sharpies to class
   - students get several cards on which they can write their acronyms from the homework
   - have them descibe the acronyms briefly and place them categorically under one or more of the following bins: purpose { Technical, descriptive, preservation, rights, structural }, function { structure, vocabulary, record format, framework, standard }, domain { cultural objects, datasets, geospatial, video, sound, texts, images }, community { archives, museum, library, Information Industry }
   - discuss (based on Riley's poster)
+  - acronym awareness (slide, for review)
+    - Federal Geographic Data Committee
+    - International Standards Organization
+    - Data Documentation Initiative (with ICPSR) for social science data
+    - exchangeable image file format (mention adobe tools - lightroom, photoshop) (mention mac mdls command line) (exiv2)
+    - IPTC - International Press Telecomunications Council (more than just photos)
 4. Elliot's guest lecture (20 minutes)
 
 *__Class 2__*  
