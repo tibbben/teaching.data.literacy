@@ -48,6 +48,7 @@ Lesson 8
 *__Class 2__*  
 
 1. Housekeeping (5 minutes)
+  - make sure to ask about the midterm assignment (problems, questions, etc.)
 2. Example walkthrough (25 minutes)
   - look at the ecological dataset and two forms of metadata
     - think about two forms of metadata: what purpose they serve, how they funtion, their domain, and who they serve

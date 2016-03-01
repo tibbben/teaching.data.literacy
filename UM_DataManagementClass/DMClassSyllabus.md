@@ -370,8 +370,9 @@ here?*
 > Evaluate how ownership and copyright of data and associated software
 > and/or scripts impact access and sharing strategies.
 
--   Know University of Miami Policy
--   Know your rights and obligations in the research environment
+-   Know University of Miami Policy (know your rights and obligations in the research environment)
+-   Understand basic licensing models for data, intellectual property, and software
+-   Describe the similarities and differences between proprietary, community-source, and open-source software
 
 > Assigned Reading:
 
