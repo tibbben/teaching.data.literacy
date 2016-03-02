@@ -59,6 +59,12 @@ Lesson 8
   - [*http://dx.doi.org/10.5063/F1HD7SK1*](http://dx.doi.org/10.5063/F1HD7SK1)
     - same discussion here
     - look for kinds of metadata (descriptive, structrual, administrative)
+  - search for "Huayhuash Water Quality" and use the DASH repository as a final example
+    - highlight moethods description
+    - highlight problems with references
+  - bring up adobe bridge and show a few of the Nat Geo photos
+    - EXIF vs ITPC
+    - go to command line and use exiv2 to show the same metadata
 3. Introduce more on git (continue software carpentry lesson: 30 minutes until end)
   
 ---
