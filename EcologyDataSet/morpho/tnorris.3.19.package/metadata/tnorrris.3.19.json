@@ -1,0 +1,2816 @@
+{
+  "eml:eml": {
+    "-packageId": "tnorris.3.19",
+    "-scope": "system",
+    "-system": "knb",
+    "-xmlns:eml": "eml://ecoinformatics.org/eml-2.1.1",
+    "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "-xsi:schemaLocation": "eml://ecoinformatics.org/eml-2.1.1 eml.xsd",
+    "access": {
+      "-authSystem": "knb",
+      "-order": "allowFirst",
+      "-scope": "document",
+      "allow": {
+        "principal": "public",
+        "permission": "read"
+      }
+    },
+    "dataset": {
+      "-scope": "document",
+      "title": {
+        "#text": "Pasture Productivity/Biodiversity data from the Cordillera Huayhuash of the Peruvian Andes
+    (2010-2011)",
+        "value": {
+          "-xml:lang": "es-PE",
+          "#text": "Datos de Productividad y Biodiversidad de los Pastos en la
+    Cordillera Huayhuash de los Andes Peruanos (2010-2011)"
+        }
+      },
+      "creator": [
+        {
+          "-id": "1448380127492",
+          "-scope": "document",
+          "individualName": {
+            "givenName": "Timothy",
+            "surName": "Norris"
+          },
+          "address": {
+            "-scope": "document",
+            "country": "United States"
+          },
+          "electronicMailAddress": "tbnorris@ucsc.edu",
+          "onlineUrl": "http://huaylas.com/nm/"
+        },
+        {
+          "-id": "1448380192952",
+          "-scope": "document",
+          "individualName": {
+            "givenName": "Gustavo",
+            "surName": "Escobar"
+          },
+          "address": {
+            "-scope": "document",
+            "country": "Peru"
+          },
+          "electronicMailAddress": "guses40@yahoo.es"
+        }
+      ],
+      "abstract": {
+        "para": {
+          "#text": "This data package contains empirical baseline data collected in the Cordillera Huayhuash of the central Peruvian Andes during 2010 and 2011 for measures of pasture productivity and pasture biodiversity. The purpose of the study was twofold. First, baseline data was collected and made available for future studies that evaluate the relative roles of anthropocentric (mining, tourism, and local economic activities) and natural (climate change and geological) influences on environmental change. This is particularly important in the context of the Cordillera Huayhuash where potential negative impacts from expanding mining and tourism activities are perceived as threats. Second, the participatory methods used to collect the pasture data strengthened conservation initiatives in the region and facilitated relationships between the local communities and government agencies charged with natural resource and environmental management. The results show that pasture productivity can be considered in the “regular” to “excellent” range with just a few sites showing “poor” productivity. There is evidence that pack-animal based trekking impacts pasture productivity negatively. The data gathered in this study highlight the need to continue with environmental monitoring in the Cordillera Huayhuash to better understand the dynamics in the natural and human communities.",
+          "value": {
+            "-xml:lang": "es-PE",
+            "#text": "Este paquete de datos contiene una línea base empírico recolectado en la Cordillera Huayhuash de los Andes Centrales del Perú en los años 2010 y 2011 para productividad y biodiversidad de pastos. Este estudio tenía dos fines. Primero, una línea base fue recolectado y difundido para uso en estudios futuros que evalúan los papeles relativas humanos (minería, turismo, y actividades económicos locales) y naturales (cambio climático y geológico) que influencian el medioambiente. Este fin es especialmente importante en el contexto de la Cordillera Huayhuash donde impactos negativos de la minería y el turismo son probable y son percibidos como amenazas por la población local. Segundo, los métodos participativos implementados para la recolección de los datos en campo han fortalecido iniciativas locales de la conservación y han facilitado relaciones entre las comunidades locales y agencias del gobierno encargadas con el manejo de recursos naturales en la zona. Los hallazgos muestran que la productividad de los pastos es entre \"regular\" hasta \"excelente\" con solamente pocos sitios mostrando una productividad \"pobre\". Hay evidencia que la actividad turística de treking con animales de carga (burros y caballos) tiene impacto negativo en la productividad de los pastos. Los hallazgos de este estudio enfatizan la necesidad de continuar con un monitoreo ambiental en la Cordillera Huayhuash para entender mejor las comunidades humanas y naturales."
+          }
+        }
+      },
+      "keywordSet": [
+        {
+          "keyword": [
+            "Cordillera Huayhuash",
+            "Peru"
+          ],
+          "keywordThesaurus": "Geonames"
+        },
+        {
+          "keyword": [
+            "Plant diversity",
+            "Pastures--Ecology",
+            "Biodiversity--Monitoring"
+          ],
+          "keywordThesaurus": "LOC"
+        },
+        { "keyword": "Pasture Productivity" }
+      ],
+      "intellectualRights": {
+        "para": "This data package s distributed under the Open Database License:
+    http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database
+    are licensed under the Database Contents License:
+    http://opendatacommons.org/licenses/dbcl/1.0/"
+      },
+      "coverage": {
+        "-scope": "document",
+        "geographicCoverage": {
+          "-scope": "document",
+          "geographicDescription": "Cordillera Huayhuash",
+          "boundingCoordinates": {
+            "westBoundingCoordinate": "-77.097",
+            "eastBoundingCoordinate": "-76.73",
+            "northBoundingCoordinate": "-10.08",
+            "southBoundingCoordinate": "-10.464"
+          }
+        },
+        "temporalCoverage": {
+          "-scope": "document",
+          "rangeOfDates": {
+            "beginDate": { "calendarDate": "2010" },
+            "endDate": { "calendarDate": "2011" }
+          }
+        },
+        "taxonomicCoverage": {
+          "-scope": "document",
+          "taxonomicSystem": {
+            "classificationSystem": [
+              {
+                "classificationSystemCitation": {
+                  "title": "Manual de Pastos y Forrajes Altoandinos",
+                  "creator": {
+                    "-id": "1448394702328",
+                    "individualName": {
+                      "givenName": "Arturo",
+                      "surName": "Florez"
+                    }
+                  },
+                  "pubDate": "2005",
+                  "book": {
+                    "publisher": { "organizationName": "Oikos" },
+                    "ISBN": "9972-47-115-2"
+                  }
+                }
+              },
+              {
+                "classificationSystemCitation": {
+                  "title": "Manual de Pastos Nativos del Parque Nacional Huascaran",
+                  "creator": {
+                    "-id": "1448394825054",
+                    "individualName": {
+                      "givenName": "Martin",
+                      "surName": "Salvador Poma"
+                    }
+                  },
+                  "pubDate": "2002",
+                  "book": {
+                    "publisher": { "organizationName": "INRENA" }
+                  }
+                }
+              },
+              {
+                "classificationSystemCitation": {
+                  "title": "Guia para la identificacion de pastos naturales alto andinos de mayor importancia
+        ganadera",
+                  "creator": [
+                    {
+                      "-id": "1448394915349",
+                      "individualName": {
+                        "givenName": "Oscar",
+                        "surName": "Tovar"
+                      }
+                    },
+                    {
+                      "-id": "1448394936290",
+                      "individualName": {
+                        "givenName": "Luis",
+                        "surName": "Oscanoa"
+                      }
+                    }
+                  ],
+                  "pubDate": "2002",
+                  "book": {
+                    "publisher": { "organizationName": "Instituto de Montana" },
+                    "ISBN": "9972960404, 9789972960406"
+                  }
+                }
+              }
+            ],
+            "identifierName": { "organizationName": "Unknown" },
+            "taxonomicProcedures": "Unknown"
+          },
+          "taxonomicClassification": [
+            {
+              "taxonRankName": "Family",
+              "taxonRankValue": "AMARANTHACEAE"
+            },
+            {
+              "taxonRankName": "Genus",
+              "taxonRankValue": "APIACEAE"
+            },
+            {
+              "taxonRankName": "Genus",
+              "taxonRankValue": "CACTACEAE"
+            },
+            {
+              "taxonRankName": "Genus",
+              "taxonRankValue": "COMPOSITAE ASTERACEAE"
+            },
+            {
+              "taxonRankName": "Genus",
+              "taxonRankValue": "COMPOSITAE or ASTERACEAE"
+            },
+            {
+              "taxonRankName": "Genus",
+              "taxonRankValue": "CYPERACEAE"
+            },
+            {
+              "taxonRankName": "Genus",
+              "taxonRankValue": "GRAMINEAE o POACEAE"
+            },
+            {
+              "taxonRankName": "Genus",
+              "taxonRankValue": "GRAMINEAE or POACEAE"
+            },
+            {
+              "taxonRankName": "Genus",
+              "taxonRankValue": "HYDROCHARITACEAE"
+            },
+            {
+              "taxonRankName": "Genus",
+              "taxonRankValue": "IRIDIACEAE"
+            },
+            {
+              "taxonRankName": "Genus",
+              "taxonRankValue": "JUNCACEAE"
+            },
+            {
+              "taxonRankName": "Genus",
+              "taxonRankValue": "LAMIACEAE"
+            },
+            {
+              "taxonRankName": "Genus",
+              "taxonRankValue": "PLANTAGINACEAE"
+            },
+            {
+              "taxonRankName": "Genus",
+              "taxonRankValue": "RANUNCULACEAE"
+            },
+            {
+              "taxonRankName": "Genus",
+              "taxonRankValue": "ROSACEAE"
+            },
+            {
+              "taxonRankName": "Genus",
+              "taxonRankValue": "SANTALACEAE or SCHOEPFIACEAE"
+            },
+            {
+              "taxonRankName": "Genus",
+              "taxonRankValue": "URTICACEAE"
+            }
+          ]
+        }
+      },
+      "contact": [
+        {
+          "-scope": "document",
+          "references": "1448380127492"
+        },
+        {
+          "-scope": "document",
+          "references": "1448380192952"
+        }
+      ],
+      "methods": {
+        "methodStep": [
+          {
+            "description": {
+              "section": {
+                "title": "Transecto al Paso / Step Transect",
+                "para": "El transecto al Paso fue utlizada para evaluar productividad de pastos (Florez (2005).
+       Para realizar el Transecto al Paso, se realize cien observaciones de especias presentes y
+       coberatura basal dentro un circulo de 2.5 centimetros con un espacio de un paso dentro cada
+       observacion. Se realiza dos o tres transectos en cada sitio (pendiente del tiempo disponible)
+       y se calcula el promedio para el sitio. / The transecto al paso (step transect) method was
+       used to evaluate pasture condition as a measure of productive capacity (Florez 2005). To
+       perform the step transect, species present and basal cover are recorded within a 2.5
+       centimeter diameter circle every step for 100 steps. Two or three transects were walked at
+       each site (depending on time available) and the results are averaged for each site."
+              }
+            },
+            "instrumentation": "Un anillo de 2.5 centimetros / A 2.5 centimeter diameter
+     ring."
+          },
+          {
+            "description": {
+              "section": {
+                "title": "Indice de Vigor por Especia Indicadora / Indicator Species Measure of Vigor",
+                "para": "Pendiente del animal dominante del sitio (identificado por conocimiento local), se
+       identifica una especia indicadora y se realize 20 observaciones del altural de la planta. Se
+       calcula un promedio para el indice de vigor. / By considering what animal is the dominant
+       grazer in the site (based on local knowledge), an indicator species is chosen and 20 measures
+       of the plant height are averaged to calculate a plant vigor index."
+              }
+            },
+            "instrumentation": "cinta de medir / measuring tape"
+          },
+          {
+            "description": {
+              "section": {
+                "title": "Calcualcion de la Condicion Pastizal / Pasture Condition Calculation",
+                "para": [
+                  "El indice de productividad de pastos se calcula con la sigueinte formula / The pasture
+       condition/productivity index is calculated with the following equation:",
+                  "P = Xd(0.5) + Xf(0.2) + V(0.1) + 100 - BG(0.2)",
+                  "donde / where",
+                  "Xd = abundancia de especias deseables (pendiente del animal: vea especias.csv columna
+       OvinosAplcaas, Vacas o Llamas: codigo: 'MD' y 'D') / abundance of desirable species (depends
+       on dominant grazer at the site: see especias.csv column OvinosAlpacas, Vacas or Llamas: code:
+       'MD' and 'D')",
+                  "Xf = abundancia de todos especias forajeras (vea lista de especias.csv columna
+       OvinosAplcaas, Vacas o Llamas: codigo: 'MD', 'D' y 'PD') / abundance of all forage species
+       (see the species list column OvinosAlpacas, Vacas o Llamas: code: 'MD', 'D' and 'PD') ",
+                  "V = el altura promedo del planta indicador (vea obsBRP.csv fila 'A') / the average plant
+       height of the indicator species (see obsBRP.csv row 'A')",
+                  "BG = cuenta de observaciones sin vegetacion (vea obsBRP.csv suma de filas 'M', 'P', 'L',
+       'R', y 'B') / count of bare ground observations (see obsBRP.csv sum of the rows 'M', 'P', 'L',
+       'R', and 'B') "
+                ]
+              }
+            },
+            "instrumentation": "Un pastizal con un indice observada de 79-100 esta considerado exelente, de
+     54-78 esta buena, de 37-53 esta regular, de 23-36 esta pobre y menos de 23 esta muy pobre. /
+     Pasture with an observed index from 79-100 is considered excellent, from 54-78 is good, from
+     37-53 is regular, from 23-36 is poor, and below 23 is very poor."
+          }
+        ],
+        "sampling": {
+          "studyExtent": {
+            "description": {
+              "para": "Condicion de los pastizales fue evaluado por veinte sitios distintos por las faldas y
+       quebradas de la Cordillera Huayhuash. El trabajo fue realizado por el autor, un agronomo
+       local, y miembros de las comunidades dos veces seperado por un ano. Las evaluaciones se
+       realizeron en los meses de abril, mayo y junio en 2010 y entonces otra vez en los mismos
+       meses en 2011. Por estos dos anos sies sitios de camping y 11 sitios de pasto fueron
+       comparados. / Pasture condition at twenty different sites throughout the Cordillera Huayhuash
+       was assessed by the author, a local agronomist, and collaborating community members two times
+       over the course of one year. The assessments were made during the months of April, May and
+       June in 2010 and then again in the same months of 2011. Over two years there were six
+       campsites and 11 grazing sites that could be compared."
+            }
+          },
+          "samplingDescription": {
+            "para": "En 2010 19 sitios fueron identificados: la seleccion incluye seis sitios de camping por
+      el circuito de treking y 13 sitios de pasto. La seleccion fue basado en conocimiento local y
+      intereses en evaluando los pastos comunales de las comunidades. En 2011 un sitio adicional de
+      camping fue identificado. / In 2010 19 sites were chosen: the selection included six campsites
+      along the trekking circuit and 13 sites based on local knowledge and interest in evaluating a
+      range of grasslands that are maintained as communal grazing areas. In 2011 an additional
+      campsite was chosen."
+          }
+        }
+      },
+      "dataTable": [
+        {
+          "-id": "1448398954773",
+          "-scope": "document",
+          "entityName": "sitios.csv",
+          "entityDescription": "Se ubica los sitios de muestreo con latitude y longitude. La columna PNID es
+    llave para los cuadros de resultados y observaciones. / The latitude and longitude locations of
+    the sampling sites. The sites are identified with PNID as a key column for the results and
+    observations tables.",
+          "physical": {
+            "-id": "1448397642771",
+            "-scope": "document",
+            "objectName": "sitios.csv",
+            "size": {
+              "-unit": "byte",
+              "#text": "2360"
+            },
+            "dataFormat": {
+              "textFormat": {
+                "numHeaderLines": "1",
+                "recordDelimiter": "#x0A",
+                "attributeOrientation": "column",
+                "simpleDelimited": { "fieldDelimiter": "," }
+              }
+            },
+            "distribution": {
+              "online": { "url": "ecogrid://knb/tnorris.5.5" }
+            }
+          },
+          "attributeList": {
+            "attribute": [
+              {
+                "-id": "1448398954774",
+                "-scope": "document",
+                "attributeName": "PNID",
+                "attributeLabel": "ID del Siteo / Site ID",
+                "attributeDefinition": "Esto es el codigo unico del sitio. Se puede usar como columna llave con
+      los otros cuadros. / This is the unique identifier for the sampling site. It is a key column
+      that can be used with the data tables.",
+                "storageType": "string",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "textDomain": { "definition": "This is the unique identifier for the sampling site" }
+                    }
+                  }
+                }
+              },
+              {
+                "-id": "1448398954775",
+                "-scope": "document",
+                "attributeName": "Lat",
+                "attributeLabel": "Latitude (WGS84)",
+                "attributeDefinition": "Latitud en grados decimales WGS84 / Latitude in WGS84 decimal
+      degrees",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "degree" },
+                    "numericDomain": { "numberType": "natural" }
+                  }
+                }
+              },
+              {
+                "-id": "1448398954776",
+                "-scope": "document",
+                "attributeName": "Long",
+                "attributeLabel": "Longitude (WGS84)",
+                "attributeDefinition": "Longitud en grados decimales WGS84 / Longitude in WGS84 Decimal
+      Degrees",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "degree" },
+                    "numericDomain": { "numberType": "natural" }
+                  }
+                }
+              },
+              {
+                "-id": "1448398954777",
+                "-scope": "document",
+                "attributeName": "Nombre",
+                "attributeLabel": "Nombre del Siteo / Site Name",
+                "attributeDefinition": "Nombre local del sitio. / The local name of the
+      site.",
+                "storageType": "text",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "textDomain": {
+                        "definition": "place names",
+                        "source": "local names"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "-id": "1448398954778",
+                "-scope": "document",
+                "attributeName": "Comunidad",
+                "attributeLabel": "Communidad / Community",
+                "attributeDefinition": "La comunidad donde se encuentra el sitio / The community within which the
+      site is located",
+                "storageType": "text",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "textDomain": { "definition": "community names" }
+                    }
+                  }
+                }
+              },
+              {
+                "-id": "1449078702672",
+                "-scope": "document",
+                "attributeName": "Distrito",
+                "attributeLabel": "Distrito",
+                "attributeDefinition": "Distrito / District",
+                "storageType": "string",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "textDomain": { "definition": "District" }
+                    }
+                  }
+                }
+              },
+              {
+                "-id": "1449078956262",
+                "-scope": "document",
+                "attributeName": "Provincia",
+                "attributeLabel": "Provincia",
+                "attributeDefinition": "Provincia / Province",
+                "storageType": "string",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "textDomain": { "definition": "province" }
+                    }
+                  }
+                }
+              },
+              {
+                "-id": "1449079057597",
+                "-scope": "document",
+                "attributeName": "Region",
+                "attributeLabel": "Region",
+                "attributeDefinition": "Region / State",
+                "storageType": "String",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "textDomain": { "definition": "state" }
+                    }
+                  }
+                }
+              },
+              {
+                "-id": "1448398954779",
+                "-scope": "document",
+                "attributeName": "Altitude",
+                "attributeLabel": "Altitude (MSNM) / (MASL)",
+                "attributeDefinition": "La altitud del sitio expresado en metros sobre el nivel del mar / The
+      altitude of the site in meters above sea level",
+                "storageType": "integer",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "meter" },
+                    "numericDomain": { "numberType": "natural" }
+                  }
+                }
+              },
+              {
+                "-id": "1448398954781",
+                "-scope": "document",
+                "attributeName": "Camping",
+                "attributeLabel": "Camping (si/no) / (yes/no)",
+                "attributeDefinition": "Un campo binario indicando si hay camping en el sitio / A binary field
+      indicating if the site has camping.",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "enumeratedDomain": {
+                        "codeDefinition": [
+                          {
+                            "code": "No",
+                            "definition": "no"
+                          },
+                          {
+                            "code": "Si",
+                            "definition": "yes"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "numberOfRecords": "22"
+        },
+        {
+          "-id": "1448404503710",
+          "-scope": "document",
+          "entityName": "familias.csv",
+          "entityDescription": "Lista de familias taxonomicas observadas / list of observed taxonomic
+    families",
+          "physical": {
+            "-id": "1448404380649",
+            "-scope": "document",
+            "objectName": "familias.csv",
+            "size": {
+              "-unit": "byte",
+              "#text": "394"
+            },
+            "dataFormat": {
+              "textFormat": {
+                "numHeaderLines": "1",
+                "recordDelimiter": "#x0A",
+                "attributeOrientation": "column",
+                "simpleDelimited": { "fieldDelimiter": ",u" }
+              }
+            },
+            "distribution": {
+              "online": { "url": "ecogrid://knb/tnorris.8.1" }
+            }
+          },
+          "attributeList": {
+            "attribute": [
+              {
+                "-id": "1448404503711",
+                "-scope": "document",
+                "attributeName": "FCOD",
+                "attributeLabel": "Codigo de Familia / Family Code",
+                "attributeDefinition": "Codigo uniqco que identifica la familia / Unique identifier for the
+      family",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "textDomain": { "definition": "key field for family ids" }
+                    }
+                  }
+                }
+              },
+              {
+                "-id": "1448404503712",
+                "-scope": "document",
+                "attributeName": "FAMILIA",
+                "attributeLabel": "Familia Taxonomica / Taxonomic Family",
+                "attributeDefinition": "Familia Taxonomica / Taxonomic Family",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "textDomain": { "definition": "Full taxonomic family names" }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "numberOfRecords": "29"
+        },
+        {
+          "-id": "1448463028752",
+          "-scope": "document",
+          "entityName": "especias.csv",
+          "entityDescription": "Lista de Especias Observadas / List of Observed Species",
+          "physical": {
+            "-id": "1448462177654",
+            "-scope": "document",
+            "objectName": "especias.csv",
+            "size": {
+              "-unit": "byte",
+              "#text": "9789"
+            },
+            "dataFormat": {
+              "textFormat": {
+                "numHeaderLines": "1",
+                "recordDelimiter": "#x0A",
+                "attributeOrientation": "column",
+                "simpleDelimited": { "fieldDelimiter": "," }
+              }
+            },
+            "distribution": {
+              "online": { "url": "ecogrid://knb/tnorris.10.2" }
+            }
+          },
+          "attributeList": {
+            "attribute": [
+              {
+                "-id": "1448463028767",
+                "-scope": "document",
+                "attributeName": "SID",
+                "attributeLabel": "Codigo Especias / Species ID",
+                "attributeDefinition": "Codigo unique de las especias. Columa llave por las hojas de calculo en
+      cada sitio. / Species ID. Key column for all of the site calculation
+      sheets.",
+                "storageType": "integer",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "textDomain": { "definition": "Species ID internal to data package" }
+                    }
+                  }
+                }
+              },
+              {
+                "-id": "1448463028783",
+                "-scope": "document",
+                "attributeName": "FAMILIA",
+                "attributeLabel": "Codigo de Familia / Family ID",
+                "attributeDefinition": "Codigo unico para las familas taxonomicas / ID for taxonomic
+      families",
+                "storageType": "string",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "enumeratedDomain": {
+                        "entityCodeList": {
+                          "entityReference": "1448404503710",
+                          "valueAttributeReference": "1448404503711",
+                          "definitionAttributeReference": "1448404503712"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "-id": "1448463028798",
+                "-scope": "document",
+                "attributeName": "GenusEspecies",
+                "attributeLabel": "Genus y especias / Genus and species",
+                "attributeDefinition": "Nombre scientifico / scientific name",
+                "storageType": "string",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "textDomain": { "definition": "scientific name" }
+                    }
+                  }
+                }
+              },
+              {
+                "-id": "1448463028814",
+                "-scope": "document",
+                "attributeName": "NombreComun",
+                "attributeLabel": "Nombre comun / common name (Peru)",
+                "attributeDefinition": "Nombre Comun / Common Name",
+                "storageType": "string",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "textDomain": { "definition": "common name" }
+                    }
+                  }
+                }
+              },
+              {
+                "-id": "1448463028830",
+                "-scope": "document",
+                "attributeName": "OvinosAlpacas",
+                "attributeLabel": "Palatabilidad para Alpacas y Ovinos / Palatability",
+                "attributeDefinition": "Codigo de palatabilidad para Alpacas y Ovinos / Coded palatability for
+      alpacas and sheep.",
+                "storageType": "string",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "enumeratedDomain": {
+                        "codeDefinition": [
+                          {
+                            "code": "PD",
+                            "definition": "poco deseable / little desired"
+                          },
+                          {
+                            "code": "NC",
+                            "definition": "no come / does not eat"
+                          },
+                          {
+                            "code": "D",
+                            "definition": "deseable / desired"
+                          },
+                          {
+                            "code": "MD",
+                            "definition": "muy deseable / very desired"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                },
+                "missingValueCode": {
+                  "code": "n-c",
+                  "codeExplanation": "no conocido / not known"
+                }
+              },
+              {
+                "-id": "1448463028845",
+                "-scope": "document",
+                "attributeName": "Vacas",
+                "attributeLabel": "Palatabilidad para vacas / Palatability for cows",
+                "attributeDefinition": "Codigo de palatibilidad para vacas / Coded palatability for
+      cows",
+                "storageType": "string",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "enumeratedDomain": {
+                        "codeDefinition": [
+                          {
+                            "code": "PD",
+                            "definition": "poco deseable / little desired"
+                          },
+                          {
+                            "code": "NC",
+                            "definition": "no come / does not eat"
+                          },
+                          {
+                            "code": "D",
+                            "definition": "deseable / desired"
+                          },
+                          {
+                            "code": "MD",
+                            "definition": "muy deseable / very desired"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                },
+                "missingValueCode": {
+                  "code": "n-c",
+                  "codeExplanation": "no conocido / not known"
+                }
+              },
+              {
+                "-id": "1448463028861",
+                "-scope": "document",
+                "attributeName": "Llamas",
+                "attributeLabel": "Palatabilidad para Llamas / Palatability for Llamas",
+                "attributeDefinition": "Codigo de Palatabilidad para Llamas / Coded palatability for
+      Llamas.",
+                "storageType": "string",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "enumeratedDomain": {
+                        "codeDefinition": [
+                          {
+                            "code": "D",
+                            "definition": "deseable / desired"
+                          },
+                          {
+                            "code": "PD",
+                            "definition": "poco deseable / little desired"
+                          },
+                          {
+                            "code": "NC",
+                            "definition": "no come / does not eat"
+                          },
+                          {
+                            "code": "MD",
+                            "definition": "muy deseable / very desired"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                },
+                "missingValueCode": {
+                  "code": "n-c",
+                  "codeExplanation": "no conocido / not known"
+                }
+              },
+              {
+                "-id": "1448463028876",
+                "-scope": "document",
+                "attributeName": "2010obs",
+                "attributeLabel": "Observaciones 2010 / 2010 Observations",
+                "attributeDefinition": "cuenta de observacions de cada especias en 2010 / count of all species
+      observations in 2010",
+                "storageType": "integer",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "whole" }
+                  }
+                }
+              },
+              {
+                "-id": "1448463028892",
+                "-scope": "document",
+                "attributeName": "2011obs",
+                "attributeLabel": "Observaciones 2011 / 2011 Observations",
+                "attributeDefinition": "cuenta de observacions de cada especias en 2011 / count of all species
+      observations in 2011",
+                "storageType": "integer",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "whole" }
+                  }
+                }
+              },
+              {
+                "-id": "1448463028908",
+                "-scope": "document",
+                "attributeName": "TotalObs",
+                "attributeLabel": "Observaciones Total / Total Observations",
+                "attributeDefinition": "cuenta de observacions de cada especias en total / count of all species
+      observations in total",
+                "storageType": "integer",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "whole" }
+                  }
+                }
+              }
+            ]
+          },
+          "numberOfRecords": "151"
+        },
+        {
+          "-id": "1448469267801",
+          "-scope": "document",
+          "entityName": "resultados.csv",
+          "entityDescription": "Resultados calculados por siteo y ano / Calculated results by site and
+    year",
+          "physical": {
+            "-id": "1448466804335",
+            "-scope": "document",
+            "objectName": "resultados.csv",
+            "size": {
+              "-unit": "byte",
+              "#text": "4824"
+            },
+            "dataFormat": {
+              "textFormat": {
+                "numHeaderLines": "1",
+                "recordDelimiter": "#x0A",
+                "attributeOrientation": "column",
+                "simpleDelimited": { "fieldDelimiter": "," }
+              }
+            },
+            "distribution": {
+              "online": { "url": "ecogrid://knb/tnorris.11.4" }
+            }
+          },
+          "attributeList": {
+            "attribute": [
+              {
+                "-id": "1448469267816",
+                "-scope": "document",
+                "attributeName": "PNID",
+                "attributeLabel": "ID del Siteo / Site ID",
+                "attributeDefinition": "Esto es el codigo unico del sitio. Se puede usar como columna llave con el
+      cuadro sitios.csv. / This is the unique identifier for the sampling site. It is a key column
+      that can be used with the sitio.csv table.",
+                "storageType": "string",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "enumeratedDomain": {
+                        "entityCodeList": {
+                          "entityReference": "1448398954773",
+                          "valueAttributeReference": "1448398954774",
+                          "definitionAttributeReference": "1448398954777"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "-id": "1448469267832",
+                "-scope": "document",
+                "attributeName": "Ano",
+                "attributeLabel": "Ano / Year",
+                "attributeDefinition": "Ano / Year",
+                "storageType": "integer",
+                "measurementScale": {
+                  "dateTime": { "formatString": "YYYY" }
+                }
+              },
+              {
+                "-id": "1448469267847",
+                "-scope": "document",
+                "attributeName": "Tipo",
+                "attributeLabel": "Comunidad Vegetacional / Vegetational Community",
+                "attributeDefinition": "Tipo de la comunidad vegetacional como definido en Florez (2005) / Type of
+      vegetational community as defined in Florez (2005)",
+                "storageType": "string",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "textDomain": { "definition": "definitions from Florez (2005)" }
+                    }
+                  }
+                }
+              },
+              {
+                "-id": "1448469267863",
+                "-scope": "document",
+                "attributeName": "CoberaturaPor",
+                "attributeLabel": "Coberatura Porcentaje / Percent Cover",
+                "attributeDefinition": "Porcentaje de los observacions con vegetacion / Percentage of observations
+      with vegetation NOTA: expresado como decimal entre 0-1 / expressed as a decimal value between
+      0 and 1",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448489095225",
+                "-scope": "document",
+                "attributeName": "IndiceVigor",
+                "attributeLabel": "Indice de Vigor / Vigor Index",
+                "attributeDefinition": "Altural promedio observado por la especie indicadora / observed average
+      height of the indicator species",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "centimeter" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448469267879",
+                "-scope": "document",
+                "attributeName": "ProdVacasCampo",
+                "attributeLabel": "Indice de Productividad por Vacas (Calculado en Campo) / Productivity Index for
+      Cows (Field Calculation)",
+                "attributeDefinition": "El indice de productividad es calculado con la siguiente formula / The
+      pasture condition/productivity index is calculated with the following equation: P = Xd(0.5) +
+      Xf(0.2) + V(0.1) + 100 - BG(0.2) donde / where Xd = abundancia de especias deseables
+      (pendiente del animal: vea especias.csv columna OvinosAplcaas, Vacas o Llamas: codigo: 'MD' y 'D'
+      ) / abundance of desirable species (depends on dominant grazer at the site: see especias.csv
+      column OvinosAlpacas, Vacas or Llamas: code: 'MD' and 'D') Xf = abundancia de todos especias
+      forajeras (vea lista de especias.csv columna OvinosAplcaas, Vacas o Llamas: codigo: 'MD', 'D' y
+      'PD') / abundance of all forage species (see the species list column OvinosAlpacas, Vacas or
+      Llamas: code: 'MD', 'D' and 'PD') V = el altura promedo del planta indicador (vea obsBRP.csv fila
+      'A') / the average plant height of the indicator species (see obsBRP.csv row 'A') BG = cuenta de
+      observaciones sin vegetacion (vea obsBRP.csv suma de filas 'M', 'P', 'L', 'R', y 'B') / count of
+      bare ground observations (see obsBRP.csv sum of the rows 'M', 'P', 'L', 'R', and 'B') NOTA: esta indice fue calculado por mano en el campo / NOTE: This
+      index was calculated by hand in the field",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "number" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448469267894",
+                "-scope": "document",
+                "attributeName": "ProdOvinosCampo",
+                "attributeLabel": "Indice de Productividad para Ovinos y Alpacas (Calculado en Campo) /
+      Productivity Index for Alpacas and Sheep (Field Calculation)",
+                "attributeDefinition": "El indice de productividad es calculado con la siguiente formula / The
+      pasture condition/productivity index is calculated with the following equation: P = Xd(0.5) +
+      Xf(0.2) + V(0.1) + 100 - BG(0.2) donde / where Xd = abundancia de especias deseables
+      (pendiente del animal: vea especias.csv columna OvinosAplcaas, Vacas o Llamas: codigo: 'MD' y 'D'
+      ) / abundance of desirable species (depends on dominant grazer at the site: see especias.csv
+      column OvinosAlpacas, Vacas or Llamas: code: 'MD' and 'D') Xf = abundancia de todos especias
+      forajeras (vea lista de especias.csv columna OvinosAplcaas, Vacas o Llamas: codigo: 'MD', 'D' y
+      'PD') / abundance of all forage species (see the species list column OvinosAlpacas, Vacas or
+      Llamas: code: 'MD', 'D' and 'PD') V = el altura promedo del planta indicador (vea obsBRP.csv fila
+      'A') / the average plant height of the indicator species (see obsBRP.csv row 'A') BG = cuenta de
+      observaciones sin vegetacion (vea obsBRP.csv suma de filas 'M', 'P', 'L', 'R', y 'B') / count of
+      bare ground observations (see obsBRP.csv sum of the rows 'M', 'P', 'L', 'R', and 'B') NOTE: This
+      index was calculated by hand in the field",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "number" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448469267910",
+                "-scope": "document",
+                "attributeName": "ProdVacasAuto",
+                "attributeLabel": "Indice de Productividad por Vacas (Calculado en Excel) / Productivity Index for
+      Cows (Excel Calculation)",
+                "attributeDefinition": "El indice de productividad es calculado con la siguiente formula / The
+      pasture condition/productivity index is calculated with the following equation: P = Xd(0.5) +
+      Xf(0.2) + V(0.1) + 100 - BG(0.2) donde / where Xd = abundancia de especias deseables
+      (pendiente del animal: vea especias.csv columna OvinosAplcaas, Vacas o Llamas: codigo: 'MD' y 'D'
+      ) / abundance of desirable species (depends on dominant grazer at the site: see especias.csv
+      column OvinosAlpacas, Vacas or Llamas: code: 'MD' and 'D') Xf = abundancia de todos especias
+      forajeras (vea lista de especias.csv columna OvinosAplcaas, Vacas o Llamas: codigo: 'MD', 'D' y
+      'PD') / abundance of all forage species (see the species list column OvinosAlpacas, Vacas or
+      Llamas: code: 'MD', 'D' and 'PD') V = el altura promedo del planta indicador (vea obsBRP.csv fila
+      'A') / the average plant height of the indicator species (see obsBRP.csv row 'A') BG = cuenta de
+      observaciones sin vegetacion (vea obsBRP.csv suma de filas 'M', 'P', 'L', 'R', y 'B') / count of
+      bare ground observations (see obsBRP.csv sum of the rows 'M', 'P', 'L', 'R', and 'B') NOTE: This
+      index was calculated by formulas in Excel",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "number" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448469267925",
+                "-scope": "document",
+                "attributeName": "ProdOvinosAuto",
+                "attributeLabel": "Indice de Productividad por Alpacas y Ovinos (Calculado en Excel) /
+      Productivity Index for Alpacas and Sheep (Excel Calculation)",
+                "attributeDefinition": "El indice de productividad es calculado con la siguiente formula / The
+      pasture condition/productivity index is calculated with the following equation: P = Xd(0.5) +
+      Xf(0.2) + V(0.1) + 100 - BG(0.2) donde / where Xd = abundancia de especias deseables
+      (pendiente del animal: vea especias.csv columna OvinosAplcaas, Vacas o Llamas: codigo: 'MD' y 'D'
+      ) / abundance of desirable species (depends on dominant grazer at the site: see especias.csv
+      column OvinosAlpacas, Vacas or Llamas: code: 'MD' and 'D') Xf = abundancia de todos especias
+      forajeras (vea lista de especias.csv columna OvinosAplcaas, Vacas o Llamas: codigo: 'MD', 'D' y
+      'PD') / abundance of all forage species (see the species list column OvinosAlpacas, Vacas or
+      Llamas: code: 'MD', 'D' and 'PD') V = el altura promedo del planta indicador (vea obsBRP.csv fila
+      'A') / the average plant height of the indicator species (see obsBRP.csv row 'A') BG = cuenta de
+      observaciones sin vegetacion (vea obsBRP.csv suma de filas 'M', 'P', 'L', 'R', y 'B') / count of
+      bare ground observations (see obsBRP.csv sum of the rows 'M', 'P', 'L', 'R', and 'B') NOTE: This
+      index was calculated by formulas in Excel",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "number" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448469267941",
+                "-scope": "document",
+                "attributeName": "Riqueza",
+                "attributeLabel": "Riqueza de Especias / Specias Richness",
+                "attributeDefinition": "Numero total de especias observado en el sitio / Total number of species
+      observed at the site",
+                "storageType": "integer",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "whole" }
+                  }
+                }
+              },
+              {
+                "-id": "1448469267957",
+                "-scope": "document",
+                "attributeName": "Shannon",
+                "attributeLabel": "Indice de Diversidad (Shannon) / Shannons Diversity Index",
+                "attributeDefinition": "El indicede diversidad de Shannon es calculado con el siguente formulario
+      / The Shannon Diversity index is calculated with the following formula: H' = -sum(Pi*ln(Pi))
+      donde / where: Pi = la abundancia del especia (i) / the abundance of species (i) La suma es
+      calculada con todos los especies observadas: (I) empieza a 1 y termina con la riqueza de
+      especias del sitio / The sum is calculated with all species observations at the site: (i) goes
+      from 1 to the species richness observed. NOTA: la abundancia es calculado como porcentaje de
+      coberatura para cada especias / the abundance is calculated as plant cover for each
+      species",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "number" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448469267972",
+                "-scope": "document",
+                "attributeName": "Simpson",
+                "attributeLabel": "Indice de Diversidad de Simpson / Simpsons Diversity Index",
+                "attributeDefinition": "El indice de Simpson es calculado con el siguente formula / The Simpson
+      Index is calculated with the following formula: L = sum(Pi*Pi) donde / where Pi = la
+      abundancia del especia (i) / the abundance of species (i) La suma es calculada con todos los
+      especies observadas: (I) empieza a 1 y termina con la riqueza de especias del sitio / The sum
+      is calculated with all species observations at the site: (i) goes from 1 to the species
+      richness observed. NOTA: la abundancia es calculado como porcentaje de coberatura para cada
+      especias / the abundance is calculated as plant cover for each species",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "number" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448469267988",
+                "-scope": "document",
+                "attributeName": "VacasDisturb",
+                "attributeLabel": "Indice de Perturbacion de Vacas / Disturbance Index for Cows",
+                "attributeDefinition": "El Indice de Perturbacion es calculado con la siguenite formula / The
+      disturbance index is calculated with the following formula D = [(0)Pnc +(-1)Ppd + (-2)Pd +
+      (-3)Pmd] / [Pnc + Ppd + Pd + Pmd] donde / where: Pnc = abundancia de especias que el animal no
+      come / the abundance of non-edible species Ppd = abundancia de especias poco deseables /
+      abundance of species little desired Pd = abundancia de especias deseables / abundance of
+      desired species Pmd = abundancia de especias muy deseables / abundance of very desirable
+      species NOTA: claculado con la columna 'vacas' en la cuadro especias.csv / calculated with the
+      'vacas' column in the table especias.csv",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "number" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448469268003",
+                "-scope": "document",
+                "attributeName": "OvinosDisturb",
+                "attributeLabel": "Indice de Perturbacion de Ovinos y Aplacas / Disturbance Index for Sheep and
+      Alpacas",
+                "attributeDefinition": "El Indice de Perturbacion es calculado con la siguiente formula / The
+      disturbance index is calculated with the following formula D = [(0)Pnc +(-1)Ppd + (-2)Pd +
+      (-3)Pmd] / [Pnc + Ppd + Pd + Pmd] donde / where: Pnc = abundancia de especias que el animal no
+      come / the abundance of non-edible species Ppd = abundancia de especias poco deseables /
+      abundance of species little desired Pd = abundancia de especias deseables / abundance of
+      desired species Pmd = abundancia de especias muy deseables / abundance of very desirable
+      species NOTA: claculado con la columna 'ovinosalpacas' en la cuadro especias.csv / calculated
+      with the 'ovinosalpacas' column in the table especias.csv",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "number" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448469268019",
+                "-scope": "document",
+                "attributeName": "CoberaturaDom",
+                "attributeLabel": "Coberatura Dominante / Dominant Cover",
+                "attributeDefinition": "El valor de abundancia mas alta observada en el sitio / the maximum
+      observed abundancy for the site NOTA: calculado como coberatura vegetacional (porcentage) /
+      calculated as plant cover (percentage) NOTA: expresado como decimal entre 0-1 / expressed as a
+      decimal value between 0 and 1",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "number" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              }
+            ]
+          },
+          "numberOfRecords": "39"
+        },
+        {
+          "-id": "1448481592501",
+          "-scope": "document",
+          "entityName": "obsEspecias2010.csv",
+          "entityDescription": "Observaciones de Especias en Cada sitio en 2010 / Species observations for
+    each site in 2010",
+          "physical": {
+            "-id": "1448480777776",
+            "-scope": "document",
+            "objectName": "obsEspecias2010.csv",
+            "size": {
+              "-unit": "byte",
+              "#text": "13513"
+            },
+            "dataFormat": {
+              "textFormat": {
+                "numHeaderLines": "1",
+                "recordDelimiter": "#x0A",
+                "attributeOrientation": "column",
+                "simpleDelimited": { "fieldDelimiter": "," }
+              }
+            },
+            "distribution": {
+              "online": { "url": "ecogrid://knb/tnorris.12.3" }
+            }
+          },
+          "attributeList": {
+            "attribute": [
+              {
+                "-id": "1448481592516",
+                "-scope": "document",
+                "attributeName": "SPID",
+                "attributeLabel": "Codigo Especias / Species ID",
+                "attributeDefinition": "Codigo unique de las especias. Columa llave por las hojas de calculo en
+      cada sitio. / Species ID. Key column for all of the site calculation
+      sheets.",
+                "storageType": "integer",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "enumeratedDomain": {
+                        "entityCodeList": {
+                          "entityReference": "1448463028752",
+                          "valueAttributeReference": "1448463028767",
+                          "definitionAttributeReference": "1448463028798"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592532",
+                "-scope": "document",
+                "attributeName": "PN-P1",
+                "attributeLabel": "PN-P1",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592547",
+                "-scope": "document",
+                "attributeName": "PN-P2",
+                "attributeLabel": "PN-P2",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592563",
+                "-scope": "document",
+                "attributeName": "PN-LL1",
+                "attributeLabel": "PN-LL1",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592579",
+                "-scope": "document",
+                "attributeName": "PN-LL2",
+                "attributeLabel": "PN-LL2",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592594",
+                "-scope": "document",
+                "attributeName": "PN-LL3",
+                "attributeLabel": "PN-LL3",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592610",
+                "-scope": "document",
+                "attributeName": "PN-PC1",
+                "attributeLabel": "PN-PC1",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592625",
+                "-scope": "document",
+                "attributeName": "PN-U1",
+                "attributeLabel": "PN-U1",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592641",
+                "-scope": "document",
+                "attributeName": "PN-U2",
+                "attributeLabel": "PN-U2",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592657",
+                "-scope": "document",
+                "attributeName": "PN-U3",
+                "attributeLabel": "PN-U3",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448484371396",
+                "-scope": "document",
+                "attributeName": "PN-U4",
+                "attributeLabel": "PN-U4",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592672",
+                "-scope": "document",
+                "attributeName": "PN-H1",
+                "attributeLabel": "PN-H1",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592688",
+                "-scope": "document",
+                "attributeName": "PN-H2",
+                "attributeLabel": "PN-H2",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592703",
+                "-scope": "document",
+                "attributeName": "PN-QP1",
+                "attributeLabel": "PN-QP1",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592719",
+                "-scope": "document",
+                "attributeName": "PN-QP2",
+                "attributeLabel": "PN-QP2",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592735",
+                "-scope": "document",
+                "attributeName": "PN-QP3",
+                "attributeLabel": "PN-QP3",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592750",
+                "-scope": "document",
+                "attributeName": "PN-QP4",
+                "attributeLabel": "PN-QP4",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592766",
+                "-scope": "document",
+                "attributeName": "PN-QC1",
+                "attributeLabel": "PN-QC1",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592781",
+                "-scope": "document",
+                "attributeName": "PN-QC2",
+                "attributeLabel": "PN-QC2",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592797",
+                "-scope": "document",
+                "attributeName": "PN-QC3",
+                "attributeLabel": "PN-QC3",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592813",
+                "-scope": "document",
+                "attributeName": "PN-T1",
+                "attributeLabel": "PN-T1",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448481592828",
+                "-scope": "document",
+                "attributeName": "PN-T2",
+                "attributeLabel": "PN-T2",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              }
+            ]
+          },
+          "numberOfRecords": "150"
+        },
+        {
+          "-id": "1448482805251",
+          "-scope": "document",
+          "entityName": "obsBRP2010.csv",
+          "entityDescription": "Observaciones no vegetacionales de cada sitio en 2010 / Non-vegetational
+    observations at each site in 2010",
+          "physical": {
+            "-id": "1448482236697",
+            "-scope": "document",
+            "objectName": "obsBRP2010.csv",
+            "size": {
+              "-unit": "byte",
+              "#text": "854"
+            },
+            "dataFormat": {
+              "textFormat": {
+                "numHeaderLines": "1",
+                "recordDelimiter": "#x0A",
+                "attributeOrientation": "column",
+                "simpleDelimited": { "fieldDelimiter": "," }
+              }
+            },
+            "distribution": {
+              "online": { "url": "ecogrid://knb/tnorris.13.5" }
+            }
+          },
+          "attributeList": {
+            "attribute": [
+              {
+                "-id": "1448482805266",
+                "-scope": "document",
+                "attributeName": "BRP",
+                "attributeLabel": "BRP",
+                "attributeDefinition": "Codigos de las observaciones no vegetactionales / Codes for the
+      non-vegetational observations",
+                "storageType": "string",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "enumeratedDomain": {
+                        "codeDefinition": [
+                          {
+                            "code": "M",
+                            "definition": "Manitllo / Mulch"
+                          },
+                          {
+                            "code": "P",
+                            "definition": "Pavimento de Erosion / Eroded soil"
+                          },
+                          {
+                            "code": "L",
+                            "definition": "Musgo / Moss"
+                          },
+                          {
+                            "code": "R",
+                            "definition": "Roca / Rock"
+                          },
+                          {
+                            "code": "B",
+                            "definition": "Suelo desnudo / Bare soil"
+                          },
+                          {
+                            "code": "A",
+                            "definition": "Altura promedio de la especia indicadora / average height of the indicator
+           species"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805282",
+                "-scope": "document",
+                "attributeName": "PN-P1",
+                "attributeLabel": "PN-P1",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805297",
+                "-scope": "document",
+                "attributeName": "PN-P2",
+                "attributeLabel": "PN-P2",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805313",
+                "-scope": "document",
+                "attributeName": "PN-LL1",
+                "attributeLabel": "PN-LL1",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805329",
+                "-scope": "document",
+                "attributeName": "PN-LL2",
+                "attributeLabel": "PN-LL2",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805344",
+                "-scope": "document",
+                "attributeName": "PN-LL3",
+                "attributeLabel": "PN-LL3",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805360",
+                "-scope": "document",
+                "attributeName": "PN-PC1",
+                "attributeLabel": "PN-PC1",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805375",
+                "-scope": "document",
+                "attributeName": "PN-U1",
+                "attributeLabel": "PN-U1",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805391",
+                "-scope": "document",
+                "attributeName": "PN-U2",
+                "attributeLabel": "PN-U2",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805407",
+                "-scope": "document",
+                "attributeName": "PN-U3",
+                "attributeLabel": "PN-U3",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448484499113",
+                "-scope": "document",
+                "attributeName": "PN-U4",
+                "attributeLabel": "PN-U4",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805422",
+                "-scope": "document",
+                "attributeName": "PN-H1",
+                "attributeLabel": "PN-H1",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805438",
+                "-scope": "document",
+                "attributeName": "PN-H2",
+                "attributeLabel": "PN-H2",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805453",
+                "-scope": "document",
+                "attributeName": "PN-QP1",
+                "attributeLabel": "PN-QP1",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805469",
+                "-scope": "document",
+                "attributeName": "PN-QP2",
+                "attributeLabel": "PN-QP2",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805485",
+                "-scope": "document",
+                "attributeName": "PN-QP3",
+                "attributeLabel": "PN-QP3",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805500",
+                "-scope": "document",
+                "attributeName": "PN-QP4",
+                "attributeLabel": "PN-QP4",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805516",
+                "-scope": "document",
+                "attributeName": "PN-QC1",
+                "attributeLabel": "PN-QC1",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805531",
+                "-scope": "document",
+                "attributeName": "PN-QC2",
+                "attributeLabel": "PN-QC2",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805547",
+                "-scope": "document",
+                "attributeName": "PN-QC3",
+                "attributeLabel": "PN-QC3",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805563",
+                "-scope": "document",
+                "attributeName": "PN-T1",
+                "attributeLabel": "PN-T1",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448482805578",
+                "-scope": "document",
+                "attributeName": "PN-T2",
+                "attributeLabel": "PN-T2",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              }
+            ]
+          },
+          "numberOfRecords": "6"
+        },
+        {
+          "-id": "1448485860943",
+          "-scope": "document",
+          "entityName": "obsEspecias2011.csv",
+          "entityDescription": "Observaciones de Especias en Cada sitio en 2011 / Species observations for
+    each site in 2011",
+          "physical": {
+            "-id": "1448485419025",
+            "-scope": "document",
+            "objectName": "obsEspecias2011.csv",
+            "size": {
+              "-unit": "byte",
+              "#text": "9109"
+            },
+            "dataFormat": {
+              "textFormat": {
+                "numHeaderLines": "1",
+                "recordDelimiter": "#x0A",
+                "attributeOrientation": "column",
+                "simpleDelimited": { "fieldDelimiter": "," }
+              }
+            },
+            "distribution": {
+              "online": { "url": "ecogrid://knb/tnorris.14.1" }
+            }
+          },
+          "attributeList": {
+            "attribute": [
+              {
+                "-id": "1448485860959",
+                "-scope": "document",
+                "attributeName": "SPID",
+                "attributeLabel": "Codigo Especias / Species ID",
+                "attributeDefinition": "Codigo unique de las especias. Columa llave por las hojas de calculo en
+      cada sitio. / Species ID. Key column for all of the site calculation
+      sheets.",
+                "storageType": "integer",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "enumeratedDomain": {
+                        "entityCodeList": {
+                          "entityReference": "1448463028752",
+                          "valueAttributeReference": "1448463028767",
+                          "definitionAttributeReference": "1448463028798"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "-id": "1448485860975",
+                "-scope": "document",
+                "attributeName": "PN-P1",
+                "attributeLabel": "PN-P1",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485860990",
+                "-scope": "document",
+                "attributeName": "PN-P2",
+                "attributeLabel": "PN-P2",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861006",
+                "-scope": "document",
+                "attributeName": "PN-LL1",
+                "attributeLabel": "PN-LL1",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861021",
+                "-scope": "document",
+                "attributeName": "PN-LL2",
+                "attributeLabel": "PN-LL2",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861037",
+                "-scope": "document",
+                "attributeName": "PN-LL3",
+                "attributeLabel": "PN-LL3",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861053",
+                "-scope": "document",
+                "attributeName": "PN-PC1",
+                "attributeLabel": "PN-PC1",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861068",
+                "-scope": "document",
+                "attributeName": "PN-U1",
+                "attributeLabel": "PN-U1",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861084",
+                "-scope": "document",
+                "attributeName": "PN-U2",
+                "attributeLabel": "PN-U2",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861099",
+                "-scope": "document",
+                "attributeName": "PN-U3",
+                "attributeLabel": "PN-U3",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861115",
+                "-scope": "document",
+                "attributeName": "PN-U4",
+                "attributeLabel": "PN-U4",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861131",
+                "-scope": "document",
+                "attributeName": "PN-H1",
+                "attributeLabel": "PN-H1",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861146",
+                "-scope": "document",
+                "attributeName": "PN-H2",
+                "attributeLabel": "PN-H2",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861162",
+                "-scope": "document",
+                "attributeName": "PN-QP1",
+                "attributeLabel": "PN-QP1",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861177",
+                "-scope": "document",
+                "attributeName": "PN-QP2",
+                "attributeLabel": "PN-QP2",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861193",
+                "-scope": "document",
+                "attributeName": "PN-QP3",
+                "attributeLabel": "PN-QP3",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861209",
+                "-scope": "document",
+                "attributeName": "PN-QP4",
+                "attributeLabel": "PN-QP4",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861224",
+                "-scope": "document",
+                "attributeName": "PN-QC1",
+                "attributeLabel": "PN-QC1",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861240",
+                "-scope": "document",
+                "attributeName": "PN-QC2",
+                "attributeLabel": "PN-QC2",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861255",
+                "-scope": "document",
+                "attributeName": "PN-QC3",
+                "attributeLabel": "PN-QC3",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861271",
+                "-scope": "document",
+                "attributeName": "PN-T1",
+                "attributeLabel": "PN-T1",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448485861287",
+                "-scope": "document",
+                "attributeName": "PN-T2",
+                "attributeLabel": "PN-T2",
+                "attributeDefinition": "Promedio de observaciones de cada especias en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average observations for each species at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              }
+            ]
+          },
+          "numberOfRecords": "150"
+        },
+        {
+          "-id": "1448486430196",
+          "-scope": "document",
+          "entityName": "obsBRP2011.csv",
+          "entityDescription": "Observaciones no vegetacionales de cada sitio en 2011 / Non-vegetational
+    observations at each site in 2011",
+          "physical": {
+            "-id": "1448485967823",
+            "-scope": "document",
+            "objectName": "obsBRP2011.csv",
+            "size": {
+              "-unit": "byte",
+              "#text": "903"
+            },
+            "dataFormat": {
+              "textFormat": {
+                "numHeaderLines": "1",
+                "recordDelimiter": "#x0A",
+                "attributeOrientation": "column",
+                "simpleDelimited": { "fieldDelimiter": "," }
+              }
+            },
+            "distribution": {
+              "online": { "url": "ecogrid://knb/tnorris.15.3" }
+            }
+          },
+          "attributeList": {
+            "attribute": [
+              {
+                "-id": "1448486430211",
+                "-scope": "document",
+                "attributeName": "BRP",
+                "attributeLabel": "BRP",
+                "attributeDefinition": "Codigos de las observaciones no vegetactionales / Codes for the
+      non-vegetational observations",
+                "storageType": "string",
+                "measurementScale": {
+                  "nominal": {
+                    "nonNumericDomain": {
+                      "enumeratedDomain": {
+                        "codeDefinition": [
+                          {
+                            "code": "M",
+                            "definition": "Manitllo / Mulch"
+                          },
+                          {
+                            "code": "P",
+                            "definition": "Pavimento de Erosion / Eroded soil"
+                          },
+                          {
+                            "code": "L",
+                            "definition": "Musgo / Moss"
+                          },
+                          {
+                            "code": "R",
+                            "definition": "Roca / Rock"
+                          },
+                          {
+                            "code": "B",
+                            "definition": "Suelo desnudo / Bare soil"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430227",
+                "-scope": "document",
+                "attributeName": "PN-P1",
+                "attributeLabel": "PN-P1",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430242",
+                "-scope": "document",
+                "attributeName": "PN-P2",
+                "attributeLabel": "PN-P2",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430258",
+                "-scope": "document",
+                "attributeName": "PN-LL1",
+                "attributeLabel": "PN-LL1",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430274",
+                "-scope": "document",
+                "attributeName": "PN-LL2",
+                "attributeLabel": "PN-LL2",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430289",
+                "-scope": "document",
+                "attributeName": "PN-LL3",
+                "attributeLabel": "PN-LL3",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430305",
+                "-scope": "document",
+                "attributeName": "PN-PC1",
+                "attributeLabel": "PN-PC1",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430320",
+                "-scope": "document",
+                "attributeName": "PN-U1",
+                "attributeLabel": "PN-U1",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430336",
+                "-scope": "document",
+                "attributeName": "PN-U2",
+                "attributeLabel": "PN-U2",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430352",
+                "-scope": "document",
+                "attributeName": "PN-U3",
+                "attributeLabel": "PN-U3",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430367",
+                "-scope": "document",
+                "attributeName": "PN-U4",
+                "attributeLabel": "PN-U4",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430383",
+                "-scope": "document",
+                "attributeName": "PN-H1",
+                "attributeLabel": "PN-H1",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430398",
+                "-scope": "document",
+                "attributeName": "PN-H2",
+                "attributeLabel": "PN-H2",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430414",
+                "-scope": "document",
+                "attributeName": "PN-QP1",
+                "attributeLabel": "PN-QP1",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430430",
+                "-scope": "document",
+                "attributeName": "PN-QP2",
+                "attributeLabel": "PN-QP2",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430445",
+                "-scope": "document",
+                "attributeName": "PN-QP3",
+                "attributeLabel": "PN-QP3",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430461",
+                "-scope": "document",
+                "attributeName": "PN-QP4",
+                "attributeLabel": "PM-QP4",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430476",
+                "-scope": "document",
+                "attributeName": "PN-QC1",
+                "attributeLabel": "PN-QC1",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430492",
+                "-scope": "document",
+                "attributeName": "PN-QC2",
+                "attributeLabel": "PN-QC2",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430508",
+                "-scope": "document",
+                "attributeName": "PN-QC3",
+                "attributeLabel": "PN-QC3",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430523",
+                "-scope": "document",
+                "attributeName": "PN-T1",
+                "attributeLabel": "PN-T1",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              },
+              {
+                "-id": "1448486430539",
+                "-scope": "document",
+                "attributeName": "PN-T2",
+                "attributeLabel": "PN-T2",
+                "attributeDefinition": "Promedio de observaciones no vegetacionales en el siteo (observaciones por
+      cien pasos): vea sitios.csv ubicar el sitio / Average non-vegetational observations at the
+      site (observations per 100 steps): see sitios.csv to locate the site.",
+                "storageType": "float",
+                "measurementScale": {
+                  "ratio": {
+                    "unit": { "standardUnit": "dimensionless" },
+                    "numericDomain": { "numberType": "real" }
+                  }
+                }
+              }
+            ]
+          },
+          "numberOfRecords": "6"
+        }
+      ]
+    }
+  }
+}
