@@ -61,7 +61,24 @@ Identify appropriate discipline specific or institutional data repositories
 
 *__Class 2__*  
 
-1. SQL or Github
+1. Checking and Housekeeping
+  - show the example of the MD5 checksum from the KNB respository
+2. Introduction to SQL
+  - first part as intro from Software Carpentry Lesson [*http://swcarpentry.github.io/sql-novice-survey/*](http://swcarpentry.github.io/sql-novice-survey/)
+  - table, spreadsheet, database
+  - database vs database manager
+    - oracle, IBM, posgreSQL, mySQL, SQLite, Access
+	- database can be moved between managers fairly easily (.csv)
+  - relational database (use example from [*http://swcarpentry.github.io/sql-novice-survey/01-select.html*](http://swcarpentry.github.io/sql-novice-survey/01-select.html))
+    - primary keys and foreign keys (terms and relationships: one to one, many to one, one to many)
+	- normalization of data (removing duplicate entries)
+  - introduction to SQL
+    - SELECT FROM
+	- SELECT FROM ORDER BY
+	- SELECT FROM WHERE
+	- SELECT FROM JOIN
+3. Introduction to Access
+4. reminder about semantic web reading
   
 ---
 
