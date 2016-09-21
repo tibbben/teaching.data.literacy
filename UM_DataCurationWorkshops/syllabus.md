@@ -30,6 +30,7 @@ Session 3 - On campus data curation resources and the Data Curation Profile
 > review on campus resources and conduct data curation profile interview with a faculty member (friendly) 
 TDB
 
+###Important Note
 Attendance to this series of active learning workshops is not required yet it is highly encouraged. You may feel that professors and students in your discipline do not collect _data_ or write grants with data management requirements, yet as digital technologies are adopted broadly across all disciplines the material covered in this active learning workshop series will be useful to all.
 
 
