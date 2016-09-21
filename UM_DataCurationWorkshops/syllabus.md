@@ -10,6 +10,7 @@ As a part fo the data curation initiative this is series of three active learnin
 1. Articulate challenges that students and faculty face in grant writing
 2. Explain challenges students and faculty face in depositing research results into a repository
 3. Locate data curation resources for faculty and students here at the University of Miami
+
 As a result of 1-3, identify data curation needs of faculty and students through direct interviews 
 
 ###Calendar 
