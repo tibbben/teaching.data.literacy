@@ -17,12 +17,12 @@ As a result of 1-3, identify data curation needs of faculty and students through
 All of the session meetings will be held on Friday mornings. Sessions 1 and 2 will be offered twice each throughout the Fall 2016 semester. Session 3 will be offered at the start of the Spring 2017 semester.
 
 ####[Session 1](session01.md) - Grant writing requirements and the DMP tool
-> identify grant data sharing and data management requirements, use DMP tool to verify your findings
+> identify grant data sharing and data management requirements, use DMP tool to verify your findings 
 * October 21 10 am - 12 noon (information literacy laboratory)
 * October 28 10 am - 12 noon (3rd floor conference room)
 
 ####[Session 2](session02.md) - Disciplinary repositories and metadata
-> identify disciplinary repository and metadata standards (if they exist)
+> identify disciplinary repository and metadata standards (if they exist) 
 * November 18 10 am - 12 noon (3rd floor conference room)
 * December 2 am - 12 noon (3rd floor conference room)
 
