@@ -157,6 +157,7 @@ here?*
     Long Term Ecological Research (LTER) Network. Computer Supported
     Cooperative Work (CSCW), 15(4), 321-358.
     [*https://dx.doi.org/10.1007/s10606-006-9023-2*](https://dx.doi.org/10.1007/s10606-006-9023-2).
+-  Mons, Barend , et al (2011). The value of Data. Nature Genetics, 43, pp 281-283. [*https://dx.doi.org/10.1038/ng0411-281*](https://dx.doi.org/10.1038/ng0411-281).
 
 *__Week 2:__ The Research Data Lifecycle*
 
