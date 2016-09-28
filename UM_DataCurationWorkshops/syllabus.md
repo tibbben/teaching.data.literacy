@@ -1,7 +1,7 @@
 ##Data Curation for Learning and Outreach
 ###Richter Library Internal Seminar Series
 
-As a part fo the data curation initiative this is series of three active learning workshops that will cover fundamental aspects of data curation for liaison librarians. The structure of the workshops will be as follows: 
+As a part of the data curation initiative this is series of three active learning workshops that will cover fundamental aspects of data curation for liaison librarians. The structure of the workshops will be as follows: 
 * prior to each session you will inquire into one aspect of data curation for your respective discipline(s) (see below for individual topics).  
 * In each session you will share out what you learned
 * Additional information will be provided as needed
