@@ -38,11 +38,7 @@ _Find a DMP and read it before coming to the seminar_
 -   Committee on Ensuring the Utility and Integrity of Research Data in a Digital Age (2009). “Promoting the Stewardship of Research Data” (Chap 4) in *Ensuring the Integrity, Accessibility, and Stewardship of Research Data in the Digital Age*. National Academies Press, Washington D.C. [*http://www.nap.edu/catalog/12615/ensuring-the-integrity-accessibility-and-stewardship-of-research-data-in-the-digital-age*](http://www.nap.edu/catalog/12615/ensuring-the-integrity-accessibility-and-stewardship-of-research-data-in-the-digital-age)
 -   The [DART](https://osf.io/qh6ad/) (Data Management Plands as a Research Tool) project. A set of tools including a rubric to assess DMP quality and completeness. We will go over this in detail during the seminar 
 
-**Lesson Plan**  
+---
 
-1. Introduce 
-  - Data Curation
-  - Data Life Cycle
-2. Reflect for a moment - in your discipline(s) what is data? Can you visualize the cycle of data in a research project in your discipline(s)?
-  - emphasize that any discipline should be able to do this, but there will be differences
+draft [lesson plan](session01/lesson01.md)
   
