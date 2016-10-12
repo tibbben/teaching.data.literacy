@@ -14,13 +14,13 @@ October 28 10 am - 11:30 am
 
 **Preparation Before the Seminar**  
 
-`Seek a call for grant applications in your discipline(s) and identify the requirements for articulating a data management plan. The big three funding agency pages are a good place to start:`
+_Seek a call for grant applications in your discipline(s) and identify the requirements for articulating a data management plan. The big three funding agency pages are a good place to start:_
 
 * The [NSF funding page](https://www.nsf.gov/funding/)
 * The [NIH funding page](https://grants.nih.gov/funding/index.htm) 
 * The [NEH grant opportunities page](https://www.neh.gov/grants)
 
-`Find a DMP and read it before coming to the seminar
+_Find a DMP and read it before coming to the seminar_
 
 * Choose a DMP to from https://dmptool.org/public_dmps. 
     - NOTE: “They are not vetted for quality, completeness, or adherence to funder guidelines.”
