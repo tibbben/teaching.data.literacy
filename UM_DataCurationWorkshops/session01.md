@@ -14,16 +14,13 @@ October 28 10 am - 11:30 am
 
 **Preparation Before the Seminar**  
 
-```
-Seek a call for grant applications in your discipline(s) and identify the requirements for articulating a data management plan. The big three funding agency pages are a good place to start:
-```
+`Seek a call for grant applications in your discipline(s) and identify the requirements for articulating a data management plan. The big three funding agency pages are a good place to start:`
 
 * The [NSF funding page](https://www.nsf.gov/funding/)
 * The [NIH funding page](https://grants.nih.gov/funding/index.htm) 
 * The [NEH grant opportunities page](https://www.neh.gov/grants)
 
-```
-Find a DMP and read it before coming to the seminar
+`Find a DMP and read it before coming to the seminar
 
 * Choose a DMP to from https://dmptool.org/public_dmps. 
     - NOTE: “They are not vetted for quality, completeness, or adherence to funder guidelines.”
@@ -31,8 +28,7 @@ Find a DMP and read it before coming to the seminar
 * Visit the NEH website and identify either data management or data sharing requirements  
     - The in 2015 the NEH [announced](https://www.neh.gov/divisions/odh/grant-news/data-management-plans-successful-grant-applications-2011-2014-now-available) a collection of publicly available DMP plans that can be found here. 
 	- These plans are based on these [Data Management Plans guidelines](http://www.neh.gov/files/grants/data_management_plans_2015.pdf) publishied by the NEH in 2015.
-* Use a DMP provided by a professor or student in your discipline if available (best option)
-```
+* Use a DMP provided by a professor or student in your discipline if available (best option)`
 
 ---
 
