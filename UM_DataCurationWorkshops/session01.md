@@ -1,6 +1,8 @@
 ##Session 1 - grant writing requirements and the DMP tool  
 [back to syllabus](syllabus.md)  
 
+---
+
 October 28: 11 am - 12:30 am in the information literacy lab  
 November 4: 10 am - 11:30 am in the information literacy lab
 
@@ -44,7 +46,7 @@ _Find a DMP and read it before coming to the seminar_
 
 **Suggested Reading:**  
 
--   Open Data Policy—Managing Information as an Asset. [*https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf*](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)[](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
--   Committee on Ensuring the Utility and Integrity of Research Data in a Digital Age (2009). “Promoting the Stewardship of Research Data” (Chap 4) in *Ensuring the Integrity, Accessibility, and Stewardship of Research Data in the Digital Age*. National Academies Press, Washington D.C. [*http://www.nap.edu/catalog/12615/ensuring-the-integrity-accessibility-and-stewardship-of-research-data-in-the-digital-age*](http://www.nap.edu/catalog/12615/ensuring-the-integrity-accessibility-and-stewardship-of-research-data-in-the-digital-age)
--   The [DART](https://osf.io/qh6ad/) (Data Management Plands as a Research Tool) project. A set of tools including a rubric to assess DMP quality and completeness. We will go over this in detail during the seminar 
-  
+-   [*Research Lifecycle*](http://library.ucf.edu/about/departments/scholarly-communication/research-lifecycle/). University of Central Florida. _One of the best elaborated data life cycle diagrams._
+-   Open Data Policy—Managing Information as an Asset. [*https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf*](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)[](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf). _Federal open data policy._
+-   Committee on Ensuring the Utility and Integrity of Research Data in a Digital Age (2009). “Promoting the Stewardship of Research Data” (Chap 4) in *Ensuring the Integrity, Accessibility, and Stewardship of Research Data in the Digital Age*. National Academies Press, Washington D.C. [*http://www.nap.edu/catalog/12615/ensuring-the-integrity-accessibility-and-stewardship-of-research-data-in-the-digital-age*](http://www.nap.edu/catalog/12615/ensuring-the-integrity-accessibility-and-stewardship-of-research-data-in-the-digital-age). _The entire book is an excellent read and chapter four is a good starting point to think about data curation in the research setting (incentives, hows and whys, common problems, and so on)._
+-   [The DART Project: using data management plans as a research tool](https://osf.io/qh6ad/). Amanda Whitmire, Jacob Carlson, Brian Westra, Patricia Hswe, and Susan Parham. _A set of tools including a rubric to assess DMP quality and completeness. We will go over this in detail during the seminar._
