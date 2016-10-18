@@ -1,9 +1,27 @@
-##Session 2 - disiciplinary repositories and metadata
+##Session 2 - Disiciplinary repositories and metadata  
+[back to syllabus](syllabus.md)  
 
-* November 18 10 am - 12 noon
-* December 2 10 am - 12 noon
+---
+
+* December 2 10 am - 11:30 am  
+* December 9 10 am - 11:30 am
+
+---
+
+**Learning Objectives**  
+- Able to identify appropriate repository for research data
+
+---
+
+**Preparation Before the Seminar**  
 
 > Spend some time with http://re3data.org/ and indentify one or more repositories that accept data for your discipline
 > Spend some time with the repository web site and determine process for deposit including the formation of acceptable metadata
 
-more to come (suggested readings, suggested resources, and so on)
+---
+
+**Suggested Reading:**  
+
+---
+
+[...](session01/less0n01.md)

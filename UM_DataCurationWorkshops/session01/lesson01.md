@@ -1,7 +1,10 @@
-##Session 1 - grant writing requirements and the DMP tool
+##Session 1 - Grant writing requirements and the DMP tool
+[back to outline](../session01.md)
 
-October 21 10 am - 11:30 am  
-October 28 10 am - 11:30 am
+---
+
+October 28 11 am - 12:30 am  (Bill, Eva)
+November 4 10 am - 11:30 am
 
 ---
 

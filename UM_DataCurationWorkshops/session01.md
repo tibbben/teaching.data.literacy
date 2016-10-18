@@ -1,4 +1,4 @@
-##Session 1 - grant writing requirements and the DMP tool  
+##Session 1 - Grant writing requirements and the DMP tool  
 [back to syllabus](syllabus.md)  
 
 ---
@@ -50,3 +50,7 @@ _Find a DMP and read it before coming to the seminar_
 -   Open Data Policy—Managing Information as an Asset. [https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf). _Federal open data policy._
 -   Committee on Ensuring the Utility and Integrity of Research Data in a Digital Age (2009). “Promoting the Stewardship of Research Data” (Chap 4) in *Ensuring the Integrity, Accessibility, and Stewardship of Research Data in the Digital Age*. National Academies Press, Washington D.C. [http://www.nap.edu/catalog/12615/ensuring-the-integrity-accessibility-and-stewardship-of-research-data-in-the-digital-age](http://www.nap.edu/catalog/12615/ensuring-the-integrity-accessibility-and-stewardship-of-research-data-in-the-digital-age). _The entire book is an excellent read and chapter four is a good starting point to think about data curation in the research setting (incentives, hows and whys, common problems, and so on)._
 -   [The DART Project: using data management plans as a research tool](https://osf.io/qh6ad/). Amanda Whitmire, Jacob Carlson, Brian Westra, Patricia Hswe, and Susan Parham. _A set of tools including a rubric to assess DMP quality and completeness. We will go over this in detail during the seminar._
+
+---
+
+[...](session01/less0n01.md)
