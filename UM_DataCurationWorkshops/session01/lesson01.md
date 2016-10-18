@@ -1,5 +1,5 @@
 ##Session 1 - Grant writing requirements and the DMP tool
-[back to syllabus](../syllabus.md)	[back to outline](../session01.md)
+[back to syllabus](../syllabus.md) | [back to outline](../session01.md)
 
 ---
 
