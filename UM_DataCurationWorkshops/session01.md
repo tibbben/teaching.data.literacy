@@ -1,4 +1,5 @@
-##Session 1 - grant writing requirements and the DMP tool
+##Session 1 - grant writing requirements and the DMP tool  
+[syllabus](syllabus.md)  
 
 October 28: 11 am - 12:30 am in the information literacy lab
 November 4: 10 am - 11:30 am in the information literacy lab
@@ -26,7 +27,7 @@ _Find a DMP and read it before coming to the seminar_
 * Use a DMP provided by a professor or student in your discipline if available (**best option**)`
 * Choose a DMP to from https://dmptool.org/public_dmps. 
     - NOTE: “They are not vetted for quality, completeness, or adherence to funder guidelines.”
-	- This collection is mostly comprised of data management plans for the NSF, _but there are several from the NEH and other independent agencies as well._
+    - This collection is mostly comprised of data management plans for the NSF, _but there are several from the NEH and other independent agencies as well._
 * Visit the NIH website to see their collection of public DMPs.
     - a few short examples can be found [here](http://grants.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm#ex)
 * Visit the NEH website to see their collection of publiuc DMPs. You can also identify their data management and data sharing requirements.  
