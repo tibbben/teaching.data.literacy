@@ -20,8 +20,9 @@ function readTextFile(file) {
  <body>
   <div id="main"></div>
   <script type="text/javascript">
-   var mdContent = readTextFile("syllabus.md"),
-       htmlContent = markdown.toHTML(mdContent),
+   var mdContent = readTextFile("syllabus.md");
+   alert (mdContent);
+   var htmlContent = markdown.toHTML(mdContent),
        mdView = document.getElementById('main');
    mdView.innerHTML = htmlContent;       
   </script>
