@@ -3,7 +3,7 @@
 
 ---
 
-October 28 11 am - 12:30 am  (Bill, Eva)  
+October 28 11 am - 12:30 am  (Bill, Eva, Gilda)  
 November 4 10 am - 11:30 am
 
 ---

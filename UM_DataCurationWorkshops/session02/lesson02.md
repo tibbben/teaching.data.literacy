@@ -4,7 +4,7 @@
 ---
 
 December 2 10 am - 11:30 am  (Bill, Eva)  
-December 9 10 am - 11:30 am
+December 9 10 am - 11:30 am (Gilda)  
 
 ---
 
