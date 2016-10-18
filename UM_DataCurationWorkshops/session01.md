@@ -1,7 +1,7 @@
 ##Session 1 - grant writing requirements and the DMP tool  
-[syllabus](syllabus.md)  
+[back to syllabus](syllabus.md)  
 
-October 28: 11 am - 12:30 am in the information literacy lab
+October 28: 11 am - 12:30 am in the information literacy lab  
 November 4: 10 am - 11:30 am in the information literacy lab
 
 ---
@@ -32,7 +32,7 @@ _Find a DMP and read it before coming to the seminar_
     - a few short examples can be found [here](http://grants.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm#ex)
 * Visit the NEH website to see their collection of publiuc DMPs. You can also identify their data management and data sharing requirements.  
     - The in 2015 the NEH [announced](https://www.neh.gov/divisions/odh/grant-news/data-management-plans-successful-grant-applications-2011-2014-now-available) a collection of publicly available DMP plans that can be found [here](http://www.neh.gov/files/dmp_from_successful_grants.zip). 
-	- These plans are based on these [Data Management Plans guidelines](http://www.neh.gov/files/grants/data_management_plans_2015.pdf) publishied by the NEH in 2015.
+    - These plans are based on these [Data Management Plans guidelines](http://www.neh.gov/files/grants/data_management_plans_2015.pdf) publishied by the NEH in 2015.
 * There are several other collections available as well
     - [ICPSR Data Management Plan Resources and Examples](http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/resources.html) (social science)
     - [DataONE DMP samples](https://www.dataone.org/data-management-planning) (earth and biological science)
@@ -47,8 +47,4 @@ _Find a DMP and read it before coming to the seminar_
 -   Open Data Policy—Managing Information as an Asset. [*https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf*](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)[](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
 -   Committee on Ensuring the Utility and Integrity of Research Data in a Digital Age (2009). “Promoting the Stewardship of Research Data” (Chap 4) in *Ensuring the Integrity, Accessibility, and Stewardship of Research Data in the Digital Age*. National Academies Press, Washington D.C. [*http://www.nap.edu/catalog/12615/ensuring-the-integrity-accessibility-and-stewardship-of-research-data-in-the-digital-age*](http://www.nap.edu/catalog/12615/ensuring-the-integrity-accessibility-and-stewardship-of-research-data-in-the-digital-age)
 -   The [DART](https://osf.io/qh6ad/) (Data Management Plands as a Research Tool) project. A set of tools including a rubric to assess DMP quality and completeness. We will go over this in detail during the seminar 
-
----
-
-draft [lesson plan](session01/lesson01.md)
   
