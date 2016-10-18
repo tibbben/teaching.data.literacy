@@ -1,4 +1,4 @@
-##Data Curation for Liaison Librarians
+##[Data Curation for Liaison Librarians](https://github.com/tibbben/teaching.data.literacy/tree/master/UM_DataCurationWorkshops)
 ###University of Miami Libraries’ Internal Seminar Series
 
 As a part of the data curation initiative, Tim Norris will offer a series of three seminars/workshops covering fundamental aspects of data curation for liaison librarians. The structure of the workshops will be as follows:  
