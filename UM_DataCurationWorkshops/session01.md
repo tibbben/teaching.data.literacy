@@ -1,14 +1,15 @@
 ##Session 1 - grant writing requirements and the DMP tool
 
-October 21 10 am - 11:30 am  
-October 28 10 am - 11:30 am
+October 28: 11 am - 12:30 am in the information literacy lab
+November 4: 10 am - 11:30 am in the information literacy lab
 
 ---
 
 **Learning Objectives**  
-- Explain the data lifecycle with attention to understanding 'data' and 'management'
-- Show the variety of approaches to data management planning
-- Critically evaluate existing Data Management Plans
+- Able to define the terms data and data management
+- Able to describe what is meant by the data life cycle
+- Able to identify key elements in a Data Management Plan
+- Able to critically evaluate existing Data Management Plans based on given criteria
 
 ---
 

@@ -19,14 +19,14 @@ All of the session meetings will be held on Friday mornings. Sessions 1 and 2 wi
 ####[Session 1](session01.md) - Grant writing requirements and the Data Management Planning (DMP) tool
 > Identify data sharing and data management requirements for a specific grant/fellowship, and use the DMP tool to verify your findings 
 
-* October 21: 10 - 11:30 am (information literacy laboratory)
-* October 28: 10 - 11:30 am (3rd floor conference room)
+* October 28: 11 am - 12:30 pm (information literacy laboratory)
+* November 4: 10 - 11:30 am (information literacy laboratory)
 
 ####[Session 2](session02.md) - Disciplinary repositories and metadata
 > Identify disciplinary repository and metadata standards (if they exist) 
 
-* November 18: 10 - 11:30 am (3rd floor conference room)
 * December 2: 10 - 11:30 am (3rd floor conference room)
+* December 9: 10 - 11:30 am (3rd floor conference room)
 
 Session 3 - On campus data curation resources and the Data Curation Profile
 > Review on campus resources for research data management and conduct data curation profile interview with a faculty member (friendly) 
