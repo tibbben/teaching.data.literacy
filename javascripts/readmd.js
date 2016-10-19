@@ -1,5 +1,5 @@
-/*   function readTextFile(file) {
-      var rawFile = new XMLHttpRequest(), 
+   function readTextFile(file) {
+      var rawFile = new XMLHttpRequest() || new ActiveXObject('MSXML2.XMLHTTP'), 
           allText;
       rawFile.open("GET", file, false);
       rawFile.onreadystatechange = function () {
@@ -11,13 +11,4 @@
       }
       rawFile.send(null);
       return allText;
-   } */
-   function readTextFile(file) {
-      var reader = new FileReader(),
-	         allText;
-      reader.onload = function(progressEvent) {
-         allText = this.result;
-      };
-      reader.readAsText(file);
-	  return allText;
    }
