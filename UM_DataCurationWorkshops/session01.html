@@ -17,7 +17,7 @@
   <div id="main" class="wrapper" style="width: 80%; max-width: 800px;"></div>
   <script type="text/javascript">
    var mdContent = readTextFile("session01.md"),
-       htmlContent = markdown.toHTML(mdContent).replace(".md",".html"),
+       htmlContent = markdown.toHTML(mdContent).replace(/.md/g,".html"),
        mdView = document.getElementById('main');
    mdView.innerHTML = htmlContent;       
   </script>
