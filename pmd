@@ -1,0 +1,5 @@
+#!/bin/sh
+for mdFile in $(find . -name "*.md" | grep -v LICENSE | grep -v README); 
+do 
+  git checkout --quiet --patch master $mdFile; 
+done
