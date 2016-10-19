@@ -15,7 +15,7 @@
 
 **Preparation Before the Seminar**  
 
-> Spend some time with http://re3data.org/ and indentify one or more repositories that accept data for your discipline
+> Spend some time with http://re3data.org/ and indentify one or more repositories that accept data for your discipline  
 > Spend some time with the repository web site and determine process for deposit including the formation of acceptable metadata
 
 ---

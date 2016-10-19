@@ -15,6 +15,7 @@ available online or will be made available through the course website.
 We will be using some very basic software packages all of which are
 open-source (no license fee). You will need to install the following
 programs on your computer.  
+
 -   Open refine (previously google refine) -
     [*http://openrefine.org/*](http://openrefine.org/)
 -   Git Bash – see:
@@ -73,30 +74,11 @@ the course.
 **Evaluation of Student Performance:**  
 Students will be assigned a letter grade (A-F) based on the following:
 
-<table>
-<tbody>
-<tr class="odd">
-<td align="left">Homework Assignments</td>
-<td align="left">20% / 50 pts.</td>
-</tr>
-<tr class="even">
-<td align="left">Class Participation</td>
-<td align="left">10% / 25 pts.</td>
-</tr>
-<tr class="odd">
-<td align="left">Midterm Project</td>
-<td align="left">30% / 75 pts.</td>
-</tr>
-<tr class="even">
-<td align="left">Final Project</td>
-<td align="left">40% / 100 pts.</td>
-</tr>
-<tr class="odd">
-<td align="left">Total</td>
-<td align="left">100% / 250 pts.</td>
-</tr>
-</tbody>
-</table>
+| Homework Assignments | 20% / 50 pts |  
+| Class Participation | 10% / 25 pts |  
+| Midterm Project | 30% / 75 pts |  
+| Final Project | 40% / 100 pts | 
+| Total | 100% / 250 pts | 
 
 **Assignments**  
 There will be several homework assignments throughout the semester. This
@@ -435,7 +417,7 @@ Unique Identifiers*
 -  Know tables, trees, and triples framework for understanding online data
 -  Describe the theory behind linked open data
 
-> Assigned Reading:i
+> Assigned Reading:
 
 -  Berners-Lee, T, Hendler, J and Lassila, O (2002) The Semantic Web. Scientific American Special Online Issue: 24-30. Blackboard > Course Documents > Materials > Week 14.
 

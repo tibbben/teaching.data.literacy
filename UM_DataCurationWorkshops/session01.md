@@ -9,6 +9,7 @@ November 4: 10 am - 11:30 am in the information literacy lab
 ---
 
 **Learning Objectives**  
+
 - Able to define the terms data and data management
 - Able to describe what is meant by the data life cycle
 - Able to identify key elements in a Data Management Plan
@@ -26,7 +27,7 @@ _Seek a call for grant applications in your discipline(s) and identify the requi
 
 _Find a DMP and read it before coming to the seminar_
 
-* Use a DMP provided by a professor or student in your discipline if available (**best option**)`
+* Use a DMP provided by a professor or student in your discipline if available (_best option_)  
 * Choose a DMP to from https://dmptool.org/public_dmps. 
     - NOTE: “They are not vetted for quality, completeness, or adherence to funder guidelines.”
     - This collection is mostly comprised of data management plans for the NSF, _but there are several from the NEH and other independent agencies as well._
