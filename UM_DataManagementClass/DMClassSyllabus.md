@@ -74,7 +74,7 @@ the course.
 **Evaluation of Student Performance:**  
 Students will be assigned a letter grade (A-F) based on the following:
 
-| Evaluated work | percentage / points |
+|: Evaluated work |: percentage / points |
 | --- | --- |
 | Homework Assignments | 20% / 50 pts |  
 | Class Participation | 10% / 25 pts |  
