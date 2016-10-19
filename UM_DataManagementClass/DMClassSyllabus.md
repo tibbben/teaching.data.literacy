@@ -1,5 +1,4 @@
-**[Data Management in the Research Environment - Syllabus](https://github.com/tibbben/teaching.data.literacy/tree/master/UM_DataManagementClass)**
-----------------------------------------------------------
+##[Data Management in the Research Environment - Syllabus](https://github.com/tibbben/teaching.data.literacy/tree/master/UM_DataManagementClass)  
 
 **Instructors**:  
 Dr. Timothy Norris – Postdoctoral Fellow Miami University Libraries  
