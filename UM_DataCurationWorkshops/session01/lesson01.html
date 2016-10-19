@@ -19,7 +19,7 @@
    var mdContent = readTextFile("lesson01.md"),
        htmlContent = markdown.toHTML(mdContent),
        mdView = document.getElementById('main');
-   mdView.innerHTML = htmlContent.strReplace(".md",".html");       
+   mdView.innerHTML = htmlContent.replace(".md",".html");       
   </script>
  </body>
  
