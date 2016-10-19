@@ -1,7 +1,5 @@
 # teaching.data.literacy
 
----
-
 This repository contains materials and resources for teaching data information literacy.  
 
 If you are not looking for the repository, but simply the curriculum materials, please see the [hosted version](http://tibbben.github.io/teaching.data.literacy/). 
