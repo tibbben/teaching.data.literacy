@@ -9,7 +9,7 @@ Questions or comments please contact [Timothy Norris](mailto:tnorris@miami.edu)
 
 ---
 
-## License
+### License
 
 All material in this repository is shared under the creative commons attribution license version 4.0 CC-BY. 
 

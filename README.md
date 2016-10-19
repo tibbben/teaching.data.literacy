@@ -8,6 +8,8 @@ The repository was started through the Data Curation Initiative (http://library.
 
 ---
 
+### License
+
 All material in this repository is shared under the creative commons attribution license version 4.0 CC-BY. 
 
 You are free to:

@@ -1,4 +1,4 @@
-**Data Management in the Research Environment - Syllabus**
+**[Data Management in the Research Environment - Syllabus](https://github.com/tibbben/teaching.data.literacy/tree/master/UM_DataManagementClass)**
 ----------------------------------------------------------
 
 **Instructors**:  
