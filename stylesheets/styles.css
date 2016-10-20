@@ -249,8 +249,8 @@ footer {
 }
 
 .mdcontent {
-	width: 80%;
-	max-width: 800px;
+	width: 800px;
+	margin: 0 auto;
 }
 
 @media print, screen and (max-width: 960px) {
@@ -262,7 +262,7 @@ footer {
   
   .mdcontent {
 	  width: auto;
-	  max-width: none;
+	  margin: 0;
   }
 
   header, section, footer {
