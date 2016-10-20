@@ -21,7 +21,8 @@
    var mdContent = readTextFile("syllabus.md",'Maruku'),
        htmlContent = markdown.toHTML(mdContent).replace(/.md/g,".html"),
        mdView = document.getElementById('main');
-   mdView.innerHTML = htmlContent;            
+   mdView.innerHTML = htmlContent;
+   mdView.style.width = auto;   
   </script>
  </body>
  
