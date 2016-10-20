@@ -8,6 +8,12 @@
    
    <script type="text/javascript" src="http://tibbben.github.io/teaching.data.literacy/javascripts/markdown.js"></script>
    <script type="text/javascript" src="http://tibbben.github.io/teaching.data.literacy/javascripts/readmd.js"></script>
+   <script type="text/javascript">
+     var mdContent = readTextFile("syllabus.md",'Maruku'),
+           htmlContent = markdown.toHTML(mdContent).replace(/.md/g,".html"),
+           mdView = document.getElementById('main');
+     mdView.innerHTML = htmlContent;
+   </script>
    
    <link rel="stylesheet" href="http://tibbben.github.io/teaching.data.literacy/stylesheets/styles.css">
    <link rel="stylesheet" href="http://tibbben.github.io/teaching.data.literacy/stylesheets/github-light.css">
@@ -17,14 +23,6 @@
   <div class="wrapper">
     <div id="main" class="mdcontent"></div>
   </div>
-  <script type="text/javascript">
-   var mdContent = readTextFile("syllabus.md",'Maruku'),
-       htmlContent = markdown.toHTML(mdContent).replace(/.md/g,".html"),
-       mdView = document.getElementById('main');
-   mdView.innerHTML = htmlContent;
-   mdView.focus();
-   alert(mdView.style.width);
-  </script>
  </body>
  
 </html>
