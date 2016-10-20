@@ -260,7 +260,7 @@ footer {
     margin:0;
   }
   
-  div.mdContent {
+  .mdContent {
 	  width: auto;
 	  max-width: none;
   }
