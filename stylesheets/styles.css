@@ -264,7 +264,7 @@ footer {
   }
   
   .mdcontent {
-    width: 90%;
+    width: auto;
     margin: 0;
 	position: static;
 	float: none;
