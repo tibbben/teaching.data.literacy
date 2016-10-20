@@ -248,11 +248,20 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+.mdContent {
+	width: 80%;
+	max-width: 800px;
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
     width:auto;
     margin:0;
+  }
+  
+  div.mdContent {
+	  max-width: none;
   }
 
   header, section, footer {
