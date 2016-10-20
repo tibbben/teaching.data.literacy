@@ -249,10 +249,9 @@ footer {
 }
 
 .mdcontent {
-  width: auto;
+  width: 800px;
   margin: 0 auto;
   float: left;
-  position: fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -266,7 +265,6 @@ footer {
   .mdcontent {
     width: auto;
     margin: 0;
-	position: static;
 	float: none;
   }
 
