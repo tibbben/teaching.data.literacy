@@ -248,7 +248,7 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-.mdContent {
+.mdcontent {
 	width: 80%;
 	max-width: 800px;
 }
@@ -260,7 +260,7 @@ footer {
     margin:0;
   }
   
-  .mdContent {
+  .mdcontent {
 	  width: auto;
 	  max-width: none;
   }
