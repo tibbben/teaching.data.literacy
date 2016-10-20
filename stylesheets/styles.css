@@ -249,8 +249,11 @@ footer {
 }
 
 .mdcontent {
-	width: 800px;
-	margin: 0 auto;
+  width: 800px;
+  margin: 0 auto;
+  float: left;
+  position: fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 @media print, screen and (max-width: 960px) {
@@ -261,8 +264,10 @@ footer {
   }
   
   .mdcontent {
-	  width: auto;
-	  margin: 0;
+    width: auto;
+    margin: 0;
+	position: static;
+	float: none;
   }
 
   header, section, footer {
