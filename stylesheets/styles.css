@@ -261,6 +261,7 @@ footer {
   }
   
   div.mdContent {
+	  width: auto;
 	  max-width: none;
   }
 
