@@ -373,6 +373,7 @@ here?*
     Patronage, Reputation and Common Agency Contracting in the
     Scientific Revolution. *Capitalism and Society* 3(2), Article 5.
     [*https://dx.doi.org/10.2202/1932-0213.1040*](https://dx.doi.org/10.2202/1932-0213.1040).
+-   Center for Open Data Enterprise (2016). _Open Data Transition Report: An action plan for the next administration_. [*http://opendataenterprise.org/reports/transition-report.pdf*](http://opendataenterprise.org/reports/transition-report.pdf).
 
 > Assignment \#4: Nguyen. “Using Google Refine to clean messy data.” \[
 > DO THE TUTORIAL BEFORE CLASS \]
