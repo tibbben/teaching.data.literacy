@@ -4,3 +4,7 @@ img {
    border: none !important;
    box-shadow: none !important;
 }
+section {
+   padding: 0px !important;
+   max-height: 85% !important;
+}
