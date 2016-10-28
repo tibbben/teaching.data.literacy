@@ -6,5 +6,5 @@ img {
 }
 section {
    padding: 0px !important;
-   max-height: 85% !important;
+   /* max-height: 85% !important; */
 }
