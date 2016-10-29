@@ -4,16 +4,28 @@
         <link rel="stylesheet" href="../../stylesheets/reveal.css">
         <link rel="stylesheet" href="../../stylesheets/white.css">
         <link rel="stylesheet" href="../../stylesheets/overrides.css">
+        <meta charset="UTF-8">
     </head>
     <body>
         <div class="reveal">
             <div class="slides">
+
                 <section data-background-image="../../images/DataCurationCover.png"><br><h1>Data Curation</h1>for liaison librarians</section>
-                <section background-color="rgb(153,205,239)"><img src="../../images/BigData.png"></section>
-                <section><img src="../../images/OracleData.png"></section>
+
+                <section data-background-color="rgb(142,198,237)">
+                    <img src="../../images/BigData.png">
+                    <div style="position: absolute; top: 13%; left: 0px;">Big Data</div>
+                    <div style="position: absolute; bottom: -10px; width: 100%; text-align: right; font-size: 50%; line-heigth: normal;"><a target="_blank" href="https://www.domo.com/blog/2015/08/data-never-sleeps-3-0/">https://www.domo.com/blog/2015/08/data-never-sleeps-3-0/</a></div>
+                </section>
+
+                <section>
+                    <img src="../../images/OracleData.png">
+                    <div style="position: absolute; bottom: -60px; width: 100%; text-align: right; font-size: 50%; line-heigth: normal;">Navarro, Fran (2014). Foco en Almacenamiento. <a target="_blank" href="http://www.slideshare.net/franmod/tendencias-storage">http://www.slideshare.net/franmod/tendencias-storage</a>. Slide 42.</div>
+                </section>
+
                 <section>
                     <div style="float: right; top: -50px;"><strong>Some Useful Abstractions</strong></div>
-                    <div style="width: 45%; float: left;"><img src="../../images/Pyramid.png" style="max-width: 130% !important; position: relative; left: -25%;"></div>
+                    <div style="width: 45%; float: left;"><img src="../../images/Pyramid.png" style="max-width: 130% !important; position: relative; left: -20%;"></div>
                     <div class="fragment" style="width: 45%; float: right; font-size: 80%; line-height: normal;">
                     <br><br>“Information is not knowledge.<br>
                         Knowledge is not wisdom.<br>
@@ -25,15 +37,63 @@
                         ― Frank Zappa
                         </div>
                 </section>
-                <section><img src="../../images/DCC-data-lifecycle.png"></section>
-                <section><img src="../../images/CDL.what-is-the-research-life-cycle-25-638.jpg"></section>
-                <section><img src="../../images/UCDResearch_Life_Cycle.png"></section>
-                <section><img src="../../images/UCSC.ResearchCycle_BlueWords_highRes2-23-2015cc-by-nc.jpg"></section>
-                <section><img src="../../images/DataCycle.png"></section>
+
+                <section>
+                    Sensors and Data Levels<br><br>
+                    <table style="font-size: 60%; border: solid black 1px;"><tablebody><tr style="font-style: italic">
+                        <td>Active vs. Static:</td><td>Data Storage:</td><td>Example or Focus:</td><td>Typical File Formats:</td>
+                      </tr><tr>
+                        <td rowspan="3" style="vertical-align: abs-middle; text-align: center; font-size: 105%">ACTIVE</td><td style="background-color: rgb(251,229,214)">Raw Data:</td><td style="background-color: rgb(251,229,214)">Temperature readings over time</td><td style="background-color: rgb(251,229,214)">Paper?  Device-specific? .xlsx, …</td>
+                      </tr><tr style="background-color: rgb(243,203,173)">
+                            <td>Processed Data:</td><td>“Cleaned,” normalized temperature data compiled in spreadsheet</td><td>.xlsx, .sas, …</td>
+                      </tr><tr style="background-color: rgb(244,177,131)">
+                            <td>Analyzed Data:</td><td>Temperature data with averages computed, graphs charted</td><td>.xlsx, .sas, …</td>
+                      </tr><tr style="background-color: rgb(132,60,12); color: #FFF">
+                        <td>STATIC</td><td>Finalized, Published Data:</td><td>Do the data support hypothesis?</td><td>.csv</td>
+                    </tr></tablebody></table>
+                    <br><br><span style="font-size: 50%;"><a target="_blank" href="http://classguides.lib.uconn.edu/content.php?pid=355458&sid=3391384">http://classguides.lib.uconn.edu/content.php?pid=355458&sid=3391384</a></span>
+                </section>
+
                 <section data-background-image="../../images/matrix.jpg" style="color: #92d050 !important;">
                     <div style="background-color: rgba(0, 0, 0, 0.7);">
-                    <br><h2 class="fragment" style="color: #92d050 !important;">Data?</h2>
-                    <p class="fragment" style="font-size: 90%; line-heigth: normal;">Numbers<br>
+                        <br><h2 style="color: #92d050 !important;">The Data Deluge</h2>
+                        <div style="font-size: 80%; text-align: left; width: 75%; position: relative; left: 140px;">Data Sharing Requirements<br>
+                        <ul style="font-size: 80%;"><li style="position: relative; left: 23px;">NIH: October 2003</ul><br><br>
+                        Data Management Requirements<br>
+                        <ul style="font-size: 80%;"><li style="position: relative; left: 23px;">NSF: January 2011
+                            <li style="position: relative; left: 23px;">NEH: June 2011</ul><br><br>
+                        The 2013 OSTP Memo: Open Data<br>
+                        <ul style="font-size: 80%;"><li style="position: relative; left: 23px;">Federally funded research results should be made accessible to the public
+                            <li style="position: relative; left: 23px;">Both peer-reviewed publications and data</ul><br><br></div>
+                    </div>
+                </section>
+
+                <section>
+                    <div style="width: 75%; float: left;"><img src="../../images/DCC-data-lifecycle.png" style="position: relative; left: -20%;"></div>
+                    <div style="position: absolute; top: -23px; right: 0px;">Data Curation Lifecycle<br>Data Curation Center (DCC)</div>
+                    <div style="position: absolute; bottom: -30px; width: 100%; text-align: right; font-size: 50%; line-heigth: normal;"><a target="_blank" href="http://www.dcc.ac.uk/resources/curation-lifecycle-model">http://www.dcc.ac.uk/resources/curation-lifecycle-model</a></div>
+                </section>
+
+                <section>
+                    <img src="../../images/UCDResearch_Life_Cycle.png">
+                    <div style="position: absolute; bottom: -30px; right: 0px; width: 400px; text-align: left; font-size: 50%; line-heigth: normal;"><a target="_blank" href="http://libguides.ucd.ie/data">http://libguides.ucd.ie/data</a></div>
+                </section>
+
+                <section>
+                    <img src="../../images/UCSC.ResearchCycle_BlueWords_highRes2-23-2015cc-by-nc.jpg">
+                    <div style="position: absolute; bottom: -30px; width: 100%; text-align: center; font-size: 50%; line-heigth: normal;"><a target="_blank" href="http://guides.library.ucsc.edu/datamanagement/">http://guides.library.ucsc.edu/datamanagement/</a></div>
+                </section>
+
+                <section>
+                    <br><br><img src="../../images/DataCycle.png">
+                    <div style="position: absolute; top: -20px; left: -23px;">University of Miami Libraries</div>
+                    <div style="position: absolute; bottom: -70px; right: 0px; width: 400px; text-align: left; font-size: 50%; line-heigth: normal;"><a target="_blank" href="http://library.miami.edu/datacuration/">http://library.miami.edu/datacuration/</a></div>
+                </section>
+
+                <section data-background-image="../../images/matrix.jpg" style="color: #92d050 !important;">
+                    <div style="background-color: rgba(0, 0, 0, 0.7);">
+                        <br><h2 style="color: #92d050 !important;">Data?</h2>
+                        <p class="fragment" style="font-size: 90%; line-heigth: normal;">Numbers<br>
                         Words<br>
                         Citations / references<br>
                         Notebooks / marginalia<br>
@@ -47,14 +107,31 @@
                         </p>
                     </div>
                 </section>
+
                 <section data-background-image="../../images/matrix.jpg" style="color: #92d050 !important;">
                     <div style="background-color: rgba(0, 0, 0, 0.7);">
                         <br><h2 style="color: #92d050 !important;">Data?</h2>
-                        <span style="font-size: 90%; line-height: normal;">“Examples of Research Data and Materials include laboratory notebooks, notes of any type, photographs, films, digital images, original biological and environmental samples, protocols, numbers, graphs, charts, numerical raw experimental results, instrumental outputs from which Research Data can be derived and other deliverables under sponsored agreements.”</span><br><br>
-                        <span style="font-size: 70%; line-height: normal;">Johns Hopkins University (2008)<br>
-                        <a href="http://jhuresearch.jhu.edu/Data_Management_Policy.pdf">http://jhuresearch.jhu.edu/Data_Management_Policy.pdf</a><br><br></span>
+                        <div style="margin-left: 10%; margin-right: 10%; width: 80%; font-size: 80%; line-height: normal; border: 1px solid #92d050; background-color: rgba(0, 0, 0, 0.9); padding: 13px; text-align: left;">“Examples of Research Data and Materials include laboratory notebooks, notes of any type, photographs, films, digital images, original biological and environmental samples, protocols, numbers, graphs, charts, numerical raw experimental results, instrumental outputs from which Research Data can be derived and other deliverables under sponsored agreements.”</div><br><br>
+                        <span style="font-size: 50%">Johns Hopkins University (2008) - 
+                        <a target="_blank" href="http://jhuresearch.jhu.edu/Data_Management_Policy.pdf">http://jhuresearch.jhu.edu/Data_Management_Policy.pdf</a><br><br></span>
                     </div>
                 </section>
+
+                <section data-background-image="../../images/matrix.jpg" style="color: #92d050 !important;">
+                    <div style="background-color: rgba(0, 0, 0, 0.7);">
+                        <br><h2 style="color: #92d050 !important;">Data?</h2>
+                        <div style="margin-left: 10%; margin-right: 10%; width: 80%; font-size: 70%; line-height: normal; border: 1px solid #92d050; background-color: rgba(0, 0, 0, 0.9); padding: 13px; text-align: left;">Definitions: The term “Research Data” in this document refers to information recorded and/or collected for research performed at or under the auspices of the University regardless of the form or the media upon which it is recorded. This term includes, but is not limited to, computer programs (code and documentation), computer databases, instrumental outputs, raw numerical results, original biological or environmental samples, photographs, digital images, films, protocols, graphs, and other deliverables produced under sponsored agreements. Research Data also includes any records related to the design, conduct or reporting of the research that would be necessary to reconstruct the reported research results. Research data can be intangible (statistics, findings, conclusions, etc.) and tangible (notebooks, printouts, etc.).</div><br><br>
+                    </div>
+                </section>
+
+                <section data-background-image="../../images/matrix.jpg" style="color: #92d050 !important;">
+                    <div style="background-color: rgba(0, 0, 0, 0.7);">
+                        <br><h2 style="color: #92d050 !important;">Data is an Innovation?</h2>
+                        <div style="margin-left: 10%; margin-right: 10%; width: 80%; font-size: 80%; line-height: normal; border: 1px solid #92d050; background-color: rgba(0, 0, 0, 0.9); padding: 13px; text-align: left;">Innovations: patentable or un-patentable inventions, discoveries, processes, compositions, research tools, data, ideas, databases, know-how, copyrightable works that are not scholarly or artistic Creations and tangible property, including biological organisms, engineering prototypes, drawings, and software created, conceived or made by Applicable Personnel within their normal duties (including clinical duties), course of studies, field of research or scholarly expertise or making more than Incidental Use of University’s resources. (2016-17 Faculty Manual, p. 136)
+</div><br><br>
+                    </div>
+                </section>
+
             </div>
         </div>
         <script src="../../javascripts/reveal.js"></script>
