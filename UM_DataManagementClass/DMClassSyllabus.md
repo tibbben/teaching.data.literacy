@@ -124,17 +124,16 @@ here?*
     Funded Scientific Research*. Office of Science and Technology
     Policy, Executive Office of the President.
     [*https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp\_public\_access\_memo\_2013.pdf*](https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
--   <span id="h.hp1x4x199315" class="anchor"></span>National
+-   National
     Science Foundation. *Dissemination and Sharing of Research Results*.
     [*http://www.nsf.gov/bfa/dias/policy/dmp.jsp*](http://www.nsf.gov/bfa/dias/policy/dmp.jsp)
     (see both the sharing and data management sections).
 
 > Optional Reading:
 
--   <span id="h.ruyrx9d3cp0b" class="anchor"></span>Posner, (2013).
-    “Embarrassments of riches: managing research assets.”
+-   Posner, (2013). “Embarrassments of riches: managing research assets.”
     [*http://miriamposner.com/blog/?p=982*](http://miriamposner.com/blog/?p=982).
--   <span id="h.gjdgxs" class="anchor"></span>Karasti, H., Baker, K. S.,
+-   Karasti, H., Baker, K. S.,
     & Halkola, E. (2006). Enriching the Notion of Data Curation in
     E-Science: Data Managing and Information Infrastructuring in the
     Long Term Ecological Research (LTER) Network. Computer Supported
