@@ -1,5 +1,5 @@
 ##Session 2 - Disciplinary repositories and metadata  
-[back to syllabus](../syllabus.md) | [back to outline](../session02.md)
+[back to syllabus](../../syllabus.md) | [back to outline](../../session02.md)
 
 ---
 

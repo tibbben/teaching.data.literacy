@@ -1,5 +1,5 @@
 ##Session 1 - Grant writing requirements and the DMP tool  
-[back to syllabus](syllabus.md)  
+[back to syllabus](syllabus.md)  |  [slide deck](http://tibbben.github.io/teaching.data.literacy/UM_DataCurationWorkshops/slides/slides01.html)
 
 ---
 
@@ -54,4 +54,4 @@ _Find a DMP and read it before coming to the seminar_
 
 ---
 
-[...](session01/lesson01.md)
+[...](lessons/session01/lesson01.md)
