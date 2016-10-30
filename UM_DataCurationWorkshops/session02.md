@@ -24,4 +24,4 @@
 
 ---
 
-[...](session02/lesson02.md)
+[...](lessons/session02/lesson02.md)
