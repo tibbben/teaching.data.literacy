@@ -1,10 +1,10 @@
 ##Session 1 - Grant writing requirements and the DMP tool
-[back to syllabus](../../syllabus.md) | [back to outline](../../session01.md) | [slide deck](http://tibbben.github.io/teaching.data.literacy/UM_DataCurationWorkshops/slides/slides01.html)
+[back to syllabus](../syllabus.md) | [back to outline](../session01.md) | [slide deck](http://tibbben.github.io/teaching.data.literacy/UM_DataCurationWorkshops/slides/slides01.html)
 
 ---
 
 October 28 11 am - 12:30 am  (Bill, Eva, Gilda)  
-November 4 10 am - 11:30 am (Lauren, Nancy, Vera)
+November 4 10 am - 11:30 am (Lauren)
 
 ---
 
