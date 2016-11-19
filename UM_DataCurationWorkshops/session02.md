@@ -38,9 +38,9 @@ _Spend some time with one repository web site and detrmine the process for depos
 
 * Skim the first few entries in the [re3data.org](http://re3data.org/)
 * Fecher, B., Friesike, S., & Hebing, M. (2015). What Drives Academic Data Sharing? PLoS ONE, 10(2). [https://dx.doi.org/10.1371/journal.pone.0118053](https://dx.doi.org/10.1371/journal.pone.0118053).
-* Open Data Policy—Managing Information as an Asset. [https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
+* The White House, Office of the President (2013). Open Data Policy—Managing Information as an Asset. [https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
 * Star, Castro, et al (2015). Achieving human and machine accessibility of cited data in scholarly publications. PeerJ Computer Science 1:e1 [https://dx.doi.org/10.7717/peerj-cs.1](https://dx.doi.org/10.7717/peerj-cs.1).
 
 ---
 
-[...](lessons/session02/lesson02.md)
+[...](lessons/lesson02.md)
