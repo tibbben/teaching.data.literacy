@@ -43,4 +43,4 @@ _Spend some time with one repository web site and detrmine the process for depos
 
 ---
 
-[...](lessons/session02/lesson02.md)
+[...](lessons/lesson02.md)

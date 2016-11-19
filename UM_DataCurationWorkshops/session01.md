@@ -54,4 +54,4 @@ _Find a DMP and read it before coming to the seminar_
 
 ---
 
-[...](lessons/session01/lesson01.md)
+[...](lessons/lesson01.md)
