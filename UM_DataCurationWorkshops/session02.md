@@ -37,9 +37,9 @@ _Spend some time with one repository web site and detrmine the process for depos
 **Suggested Reading:**  
 
 * Skim the first few entries in the [re3data.org](http://re3data.org/)
-* Fecher, B., Friesike, S., & Hebing, M. (2015). What Drives Academic Data Sharing? PLoS ONE, 10(2). [https://dx.doi.org/10.1371/journal.pone.0118053](https://dx.doi.org/10.1371/journal.pone.0118053).
-* The White House, Office of the President (2013). Open Data Policy—Managing Information as an Asset. [https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
-* Star, Castro, et al (2015). Achieving human and machine accessibility of cited data in scholarly publications. PeerJ Computer Science 1:e1 [https://dx.doi.org/10.7717/peerj-cs.1](https://dx.doi.org/10.7717/peerj-cs.1).
+* Fecher, B., Friesike, S., & Hebing, M. (2015). What Drives Academic Data Sharing? PLoS ONE, 10(2). [https://dx.doi.org/10.1371/journal.pone.0118053](https://dx.doi.org/10.1371/journal.pone.0118053). _This article gives context to the repository conversation._
+* The White House, Office of the President (2013). Open Data Policy—Managing Information as an Asset. [https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf). _Federal open data policy (this was also recomended for Session 1)._
+* Star, Castro, et al (2015). Achieving human and machine accessibility of cited data in scholarly publications. PeerJ Computer Science 1:e1 [https://dx.doi.org/10.7717/peerj-cs.1](https://dx.doi.org/10.7717/peerj-cs.1). _This is a very short, but rather technical article, on how access to data is facilitated._
 
 ---
 
