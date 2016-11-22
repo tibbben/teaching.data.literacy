@@ -361,6 +361,7 @@ here?*
 
 -    Miami and other IP policy / data policy. Search for ‘data’ and scan relevant sections. [*https://umshare.miami.edu/web/wda/facultysenate/FacultyManual.pdf*](https://umshare.miami.edu/web/wda/facultysenate/FacultyManual.pdf).
 -    Madison (2011). “Knowledge Curation.” Notre Dame Law Review, Vol. 86, p. 1957, 2011; U. of Pittsburgh Legal Studies Research Paper No. 2011-13. Available at SSRN: [*http://ssrn.com/abstract=1848086*](http://ssrn.com/abstract=1848086)
+-    Uhlir, Paul (ed) (2016). "Legal Interoperability of Research Data: Principles and Implementation Guidelines." Research Data Alliance - Committee on Data for Science and Technology - Legal Interoperability Interest Group. [https://zenodo.org/record/162241#.WDRQln17Ifg](https://zenodo.org/record/162241#.WDRQln17Ifg) 
 
 > Optional Reading:
 

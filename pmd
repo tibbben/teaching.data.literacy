@@ -1,5 +1,8 @@
 #!/bin/sh
 for mdFile in $(find . -name "*.md" | grep -v LICENSE | grep -v README); 
 do 
-  git checkout --quiet --patch master -- $mdFile; 
+  git checkout -qp master -- $mdFile; 
 done
+git add .
+git commit -m 'update md from master'
+git push origin gh-pages
