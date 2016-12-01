@@ -127,7 +127,7 @@ here?*
 -   National
     Science Foundation. *Dissemination and Sharing of Research Results*.
     [*http://www.nsf.gov/bfa/dias/policy/dmp.jsp*](http://www.nsf.gov/bfa/dias/policy/dmp.jsp)
-    (see both the sharing and data management sections).
+    Read only the [sharing](https://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp#VID4) and [data management](https://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/gpg_2.jsp#dmp) sections.
 
 > Optional Reading:
 
@@ -172,16 +172,14 @@ here?*
 
 *__Week 3:__ Data Types, Stages, and Formats* \[ TURN IN ASSIGNMENT \#1 \]
 
-> Describe the difference between data types, data stages, and data
-> formats and then relate these concepts in the research environment.
+> Describe the difference between data types, data stages, and data formats and then relate these concepts in the research environment.
+> Design best practices for file system organization and file naming conventions based on types, stages, and formats.
 
--   Recognize different data types and structures and their related
-    software and/or scripts
+-   Recognize different data types and structures and their related software and/or scripts
 -   Categorize data by its stage in the research cycle
--   Identify file formats and their related software and/or scripts for
-    different kinds of media
--   Plan file format practices/choices for both research workflows and
-    for preservation.
+-   Identify file formats and their related software and/or scripts fordifferent kinds of media
+-   Plan file format practices/choices for both research workflows and for preservation.
+-   Plan folder structure and naming conventions for the research environment
 
 > Assigned Reading:
 
@@ -194,30 +192,14 @@ here?*
     (follow “Recommended File Formats” link as well).
 -   Library of Congress (2015). Recommended Formats Statement 2015-2016.
     [*https://www.loc.gov/preservation/resources/rfs/RFS%202015-2016.pdf*](https://www.loc.gov/preservation/resources/rfs/RFS%202015-2016.pdf).
-
-*__Week 4:__ Data Organization (software carpentry: BASH shell)*
-
-> Design best practices for file system organization and file naming
-> conventions.
-
--   Manipulate file system structure and organization through the
-    BASH command-line.
--   Write a shell script to rename all files in a folder.
-
-> Assigned Reading:
+	
+> Optional Reading
 
 -   Frazer, Meghan (2013). An Elevator Pitch for File
     Naming Conventions.
     [*http://acrl.ala.org/techconnect/post/an-elevator-pitch-for-file-naming-conventions*](http://acrl.ala.org/techconnect/post/an-elevator-pitch-for-file-naming-conventions).
--   Alexandra Simperler, Greg Wilson (2015). Software Carpentry get more
-    done in less time.
-    [*http://arxiv.org/abs/1506.02575*](http://arxiv.org/abs/1506.02575).
 
-> Assignment \#2: Software Carpentry (2015). The Unix Shell. \[ DO AS
-> MUCH AS YOU CAN BEFORE COMING TO CLASS ON THIS DAY \]
-> [*http://swcarpentry.github.io/shell-novice/*](http://swcarpentry.github.io/shell-novice/).
-
-*__Week 5:__ Data Storage, Backup and Security*
+*__Week 4:__ Data Storage, Backup and Security*
 
 > Design data storage and backup strategies for the stages of your
 > research project.
@@ -243,6 +225,35 @@ here?*
     [*http://bit.ly/1Ll8gl7*](http://bit.ly/1Ll8gl7).
 -   Rosenthal, “Estimating storage costs.”
     [*http://blog.dshr.org/2013/11/estimating-storage-costs.html\#more*](http://blog.dshr.org/2013/11/estimating-storage-costs.html#more).
+	
+*__Week 5:__ Sharing and Reuse: Intellectual Property and Licensing*
+
+> Evaluate how ownership and copyright of data and associated software
+> and/or scripts impact access and sharing strategies.
+
+-   Know University of Miami Policy (know your rights and obligations in the research environment)
+-   Understand basic licensing models for data, intellectual property, and software
+-   Describe the similarities and differences between proprietary, community-source, and open-source software
+
+> Assigned Reading:
+
+-    Miami and other IP policy / data policy. Search for ‘data’ and scan relevant sections. [*https://umshare.miami.edu/web/wda/facultysenate/FacultyManual.pdf*](https://umshare.miami.edu/web/wda/facultysenate/FacultyManual.pdf).
+-    Madison (2011). “Knowledge Curation.” Notre Dame Law Review, Vol. 86, p. 1957, 2011; U. of Pittsburgh Legal Studies Research Paper No. 2011-13. Available at SSRN: [*http://ssrn.com/abstract=1848086*](http://ssrn.com/abstract=1848086)
+-    Uhlir, Paul (ed) (2016). "Legal Interoperability of Research Data: Principles and Implementation Guidelines." Research Data Alliance - Committee on Data for Science and Technology - Legal Interoperability Interest Group. [https://zenodo.org/record/162241#.WDRQln17Ifg](https://zenodo.org/record/162241#.WDRQln17Ifg) 
+
+> Optional Reading:
+
+-   Boyle (2003). The Second Enclosure Movement and the Construction of
+    the Public Domain. Law and Contemporary Problems,
+    66:33(Winter/Spring), 33-74.
+    [*http://scholarship.law.duke.edu/lcp/vol66/iss1/2/*](http://scholarship.law.duke.edu/lcp/vol66/iss1/2/).
+-   David (2008). The Historical Origins of ‘Open Science’: An Essay on
+    Patronage, Reputation and Common Agency Contracting in the
+    Scientific Revolution. *Capitalism and Society* 3(2), Article 5.
+    [*https://dx.doi.org/10.2202/1932-0213.1040*](https://dx.doi.org/10.2202/1932-0213.1040).
+-   Center for Open Data Enterprise (2016). _Open Data Transition Report: An action plan for the next administration_. [*http://opendataenterprise.org/reports/transition-report.pdf*](http://opendataenterprise.org/reports/transition-report.pdf).
+
+> Assignment \#2: write a one-paragraph statement on sharing and access policy (can be for your research lab, your internship, or some other relevant work)
 
 *__Week 6:__ Data Curation Profiles*
 
@@ -265,10 +276,21 @@ here?*
 > curation profile toolkit relevant to your work. Write responses to the
 > questions (1-3 paragraphs each response).
 
-*__Week 7:__ Open Lab*
+*__Week 7:__ Introduction to the BASH shell*
 
-> Perform data curation interviews and follow-up. Begin drafting data
-> curation profiles for midterm project.
+> Navegate file system structure through command line computing
+
+-   Manipulate file system structure and organization through the
+    BASH command-line.
+-   Write a shell script to rename all files in a folder.
+
+> This is a hands on lab week based on the Software Carpentry lesson: [*http://swcarpentry.github.io/shell-novice/*](http://swcarpentry.github.io/shell-novice/)
+
+> Assigned Reading:
+
+-   Alexandra Simperler, Greg Wilson (2015). Software Carpentry get more
+    done in less time.
+    [*http://arxiv.org/abs/1506.02575*](http://arxiv.org/abs/1506.02575).
 
 *__Week 8:__ Metadata and Contextual Details* \[ TURN IN MIDTERM PROJECT \]
 
@@ -328,15 +350,7 @@ here?*
 -  create a git repository, make changes, commit the changes, and push to github.
 -  open a pull request, collaborate, push to github
 
-> No class meeting on Monday of week 9. Instead there will be two
-> scheduled two-day “Software Carpentry” workshops held (see
-> [*https://software-carpentry.org/*](https://software-carpentry.org/)):
-
--  An R based workshop at the Shalala Student Center Senate Room on the Gables Campus on Monday and Tuesday March 14-15, 8:30am - 3:00pm (see [*http://mkcor.github.io/2016-03-14-university-of-miami/*](http://mkcor.github.io/2016-03-14-university-of-miami/)).
--  A Python based workshop at the Newman Alumni Center on the Gables Campus on Monday and Tuesday March 28-29, 9:00am - 4:00pm.
-
-> Attendance to the workshops is not required, but it is highly encouraged that at least one morning or afternoon session is attended. The more you can attend, the better it will be.
-> On Wednesday we will do an hands-on lab exercise is based on the Software Carpentry lesson (Tuesday morning part of the R based workshop): [*http://swcarpentry.github.io/git-novice/*](http://swcarpentry.github.io/git-novice/).
+> This is a hands on lab week based on the Software Carpentry lesson: [*http://swcarpentry.github.io/git-novice/*](http://swcarpentry.github.io/git-novice/)
 
 *__Week 10:__ Introduction to R*
 
@@ -348,38 +362,11 @@ here?*
 
 > This is a hands on lab week based in the Software Carpentry lesson: [*http://swcarpentry.github.io/r-novice-inflammation/*](http://swcarpentry.github.io/r-novice-inflammation/)
 
-*__Week 11:__ Sharing and Reuse: Intellectual Property and Licensing*
-
-> Evaluate how ownership and copyright of data and associated software
-> and/or scripts impact access and sharing strategies.
-
--   Know University of Miami Policy (know your rights and obligations in the research environment)
--   Understand basic licensing models for data, intellectual property, and software
--   Describe the similarities and differences between proprietary, community-source, and open-source software
-
-> Assigned Reading:
-
--    Miami and other IP policy / data policy. Search for ‘data’ and scan relevant sections. [*https://umshare.miami.edu/web/wda/facultysenate/FacultyManual.pdf*](https://umshare.miami.edu/web/wda/facultysenate/FacultyManual.pdf).
--    Madison (2011). “Knowledge Curation.” Notre Dame Law Review, Vol. 86, p. 1957, 2011; U. of Pittsburgh Legal Studies Research Paper No. 2011-13. Available at SSRN: [*http://ssrn.com/abstract=1848086*](http://ssrn.com/abstract=1848086)
--    Uhlir, Paul (ed) (2016). "Legal Interoperability of Research Data: Principles and Implementation Guidelines." Research Data Alliance - Committee on Data for Science and Technology - Legal Interoperability Interest Group. [https://zenodo.org/record/162241#.WDRQln17Ifg](https://zenodo.org/record/162241#.WDRQln17Ifg) 
-
-> Optional Reading:
-
--   Boyle (2003). The Second Enclosure Movement and the Construction of
-    the Public Domain. Law and Contemporary Problems,
-    66:33(Winter/Spring), 33-74.
-    [*http://scholarship.law.duke.edu/lcp/vol66/iss1/2/*](http://scholarship.law.duke.edu/lcp/vol66/iss1/2/).
--   David (2008). The Historical Origins of ‘Open Science’: An Essay on
-    Patronage, Reputation and Common Agency Contracting in the
-    Scientific Revolution. *Capitalism and Society* 3(2), Article 5.
-    [*https://dx.doi.org/10.2202/1932-0213.1040*](https://dx.doi.org/10.2202/1932-0213.1040).
--   Center for Open Data Enterprise (2016). _Open Data Transition Report: An action plan for the next administration_. [*http://opendataenterprise.org/reports/transition-report.pdf*](http://opendataenterprise.org/reports/transition-report.pdf).
-
 > Assignment \#4: Nguyen. “Using Google Refine to clean messy data.” \[
 > DO THE TUTORIAL BEFORE CLASS \]
 > [*http://www.propublica.org/nerds/item/using-google-refine-for-data-cleaning*](http://www.propublica.org/nerds/item/using-google-refine-for-data-cleaning).
 
-*__Week 12:__ Finding and Cleaning Data*  \[ TURN IN ASSIGNMENT \# 4 \]
+*__Week 11:__ Finding and Cleaning Data*  \[ TURN IN ASSIGNMENT \# 4 \]
 
 > Identify difficulties in acquiring and cleaning data.
 
@@ -387,7 +374,17 @@ here?*
 -   Use online tools for data cleaning
 -   Use offline tools for data cleaning
 
-> If time permits we will do an introductory lab on Structured Query Language (SQL) or Python based on the software carpentry lessons: [*http://swcarpentry.github.io/sql-novice-survey/*](http://swcarpentry.github.io/sql-novice-survey/).
+> If time permits we will do an introductory lab on Structured Query Language (SQL) [*http://swcarpentry.github.io/sql-novice-survey/*](http://swcarpentry.github.io/sql-novice-survey/).
+
+*__Week 10:__ Introduction to Python*
+
+> Introduction to Python and Jupyter notebooks in the research environment
+
+-  Load data into the R environment
+-  Calculate averages
+-  make a simple graphic
+
+> This is a hands on lab week based in the Software Carpentry lesson: [*http://swcarpentry.github.io/python-novice-inflammation/*](http://swcarpentry.github.io/python-novice-inflammation/)
 
 *__Week 13:__ Repository Identification / Preparation for Preservation /
 Unique Identifiers*
