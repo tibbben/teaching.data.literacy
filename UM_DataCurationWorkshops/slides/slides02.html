@@ -11,8 +11,6 @@
         <div class="reveal">
             <div class="slides">
 
-
-
                 <section data-background-image="assets/DataCurationCover.png">
                     <div style="position: absolute; left: 40%; top: 305px; font-size: 180%"><strong>Data Curation</strong></div>
                     <div style="position: absolute; left: 45%; top: 415px; font-size: 90%">for liaison librarians</div>
@@ -86,22 +84,6 @@
                     </div>
                 </section>
 				
-                <section>
-                    <div style="width: 60%; margin-right: 20%; margin-left: auto;">
-                        <span style="font-weight: bold; font-size: 110%;">Dealing with Data Repositories<br><br></span>
-                        <div style="font-size: 80%; text-align: left; line-height: 200%; position: relative; left: 100px;">
-                            <ul>
-                                <li style="position: relative; left: 23px;"><a href="https://www.datacite.org/">datacite.org</a> and <a href="http://re3data.org/">re3data.org</a>
-                                <br>
-                                <li style="position: relative; left: 23px;">File Formats
-                                <li style="position: relative; left: 23px;">Metadata
-                                <li style="position: relative; left: 23px;">Open data and licensing
-								<li style="position: relative; left: 23px;">Create and deposit a data package
-                            </ul>
-                        </div>
-                    </div>
-                </section>
-				
 				<section>
                     <div style="width: 60%; margin-right: 20%; margin-left: auto;">
                         <span style="font-weight: bold; font-size: 110%;">To Archive Data<br><br></span>
@@ -122,7 +104,7 @@
                         <span style="font-weight: bold; font-size: 110%;">1. Data Appraisal<br><br></span>
                         <div style="font-size: 80%; text-align: left; line-height: 200%; position: relative; left: 100px;">
                             “… the process of <b>distinguishing records</b> of continuing value from those of no further value so that the latter may be eliminated.”<br>
-							<div style="position: absolute; right: 0px;"><i>The National Archives (UK)</i></div>
+							<div style="position: absolute; right: 0px;"><i>The National Archives (UK)</i></div><br><br>
                         </div>
                     </div>
                 </section>
@@ -172,31 +154,10 @@
                     </div>
 					<div style="position: absolute; bottom: -90px; left: 130px; width: 100%; text-align: left; font-size: 50%; line-height: normal;">Whyte, A. & Wilson, A. (2010). "How to Appraise and Select Research Data for Curation". DCC How-to Guides. Edinburgh: Digital Curation Centre.<br><a  href="http://www.dcc.ac.uk/resources/how-guides">http://www.dcc.ac.uk/resources/how-guides</a>, also <a href="http://www.dcc.ac.uk/resources/how-guides/five-steps-decide-what-data-keep">http://www.dcc.ac.uk/resources/how-guides/five-steps-decide-what-data-keep</a></div>
                 </section>
-
-                <section>
-                    <div style="width: 60%; margin-right: 20%; margin-left: auto;">
-                        <span style="font-weight: bold; font-size: 110%;">Checksums<br><br></span>
-                        <div style="font-size: 80%; text-align: left; line-height: 200%; position: relative; left: 200px;">
-							    Fastsum
-								<div style="font-size: 80%;">
-                                <ul>
-								    <li><a href="http://www.fastsum.com/">http://www.fastsum.com/</a>
-								    <li>Command line is free, basic GUI interface $15
-							    </div><br>
-							    Md5sum
-								<div style="font-size: 80%;">
-                                <ul>
-								    <li>built into bash shell<br>
-								    &nbsp;&nbsp;&nbsp;> md5sum <someFile.ext><br>
-									&nbsp;&nbsp;&nbsp;> man md5sum
-							    </div>
-                        </div>
-                    </div>
-                </section>
 				
 				<section>
-                    <div style="width: 80%; margin-right: 10%; margin-left: auto;">
-                        <span style="font-weight: bold; font-size: 110%;">File Formats<br><br></span>
+                    <div style="width: 86%; margin-right: 7%; margin-left: auto;">
+                        <span style="font-weight: bold; font-size: 110%;">2. File Formats<br><br></span>
 						<span style="font-weight: bold; font-size: 95%;">Recomended Formats for Long-term Access and Sharing<br><br></span>
                         <div style="font-size: 80%; text-align: left; line-height: 200%; position: relative; left: 40px;">
                             Non-proprietary – <i>no software purchase to open the file</i><br>
@@ -210,7 +171,7 @@
 				
 				<section>
                     <div style="width: 80%; margin-right: 10%; margin-left: auto;">
-                        <span style="font-weight: bold; font-size: 110%;">File Formats<br><br></span>
+                        <span style="font-weight: bold; font-size: 110%;">2. File Formats<br><br></span>
 						<span style="font-weight: bold; font-size: 95%;">character encoding??? UTF-8<br><br></span>
                         <div style="font-size: 80%; text-align: left; line-height: 200%; position: relative; left: 80px;">
                             ASCII – <b>American Standard Code for Information Interchange</b><br>
@@ -222,10 +183,31 @@
 					    </div>
                     </div>
                 </section>
+
+                <section>
+                    <div style="width: 60%; margin-right: 20%; margin-left: auto;">
+                        <span style="font-weight: bold; font-size: 110%;">3. Checksums<br><br></span>
+                        <div style="font-size: 80%; text-align: left; line-height: 120%; position: relative; left: 200px;">
+							    Fastsum
+								<div style="font-size: 80%;">
+                                <ul>
+								    <li><a href="http://www.fastsum.com/">http://www.fastsum.com/</a>
+								    <li>Command line is free, basic GUI interface $15
+							    </div><br>
+							    Md5sum
+								<div style="font-size: 80%;">
+                                <ul>
+								    <li>built into bash shell<br>
+								    &nbsp;&nbsp;&nbsp;% md5sum <someFile.ext><br>
+									&nbsp;&nbsp;&nbsp;% man md5sum
+							    </div>
+                        </div>
+                    </div>
+                </section>
 				
 			    <section>
                     <div style="width: 60%; margin-right: 20%; margin-left: auto;">
-                        <span style="font-weight: bold; font-size: 110%; margin-left: -20%;"><br>Select archive location<br><br></span>
+                        <span style="font-weight: bold; font-size: 110%; margin-left: -20%;"><br>4. Select archive location<br><br></span>
                         <div style="font-size: 80%; text-align: left; line-height: 120%; ">
                             <table style="border: none; width: 700px"><tbody><tr><td>
 							    <b>Considerations</b><br><br>
@@ -252,9 +234,288 @@
 							</td></tr></tbody></table>
                         </div>
                     </div>
-					<div style="position: absolute; bottom: -200px; left: 30px; width: 100%; text-align: left; font-size: 50%; line-height: normal;">adapted from Whitmire, Amanda L. (2014). Research Data Management Curriculum, Lecture 15: Data Preservation. Oregon State University Libraries. Retrieved 11/04/2015 from: <a href="http://figshare.com/articles/GRAD521_Research_Data_Management_Lectures/1003835"> http://figshare.com/articles/GRAD521_Research_Data_Management_Lectures/1003835</a></div>
+					<div style="position: absolute; bottom: -200px; left: 30px; width: 95%; text-align: left; font-size: 50%; line-height: normal;">adapted from Whitmire, Amanda L. (2014). Research Data Management Curriculum, Lecture 15: Data Preservation. Oregon State University Libraries. Retrieved 11/04/2015 from: <a href="http://figshare.com/articles/GRAD521_Research_Data_Management_Lectures/1003835"> http://figshare.com/articles/GRAD521_Research_Data_Management_Lectures/1003835</a></div>
 					<div class="fragment" style="position: absolute; top: 210px; left: 650px; "><object data="assets/arrow.svg" type="image/svg+xml"></object></div>
 			    </section>
+				
+                <section>
+                    <div style="width: 60%; margin-right: 20%; margin-left: auto;">
+                        <span style="font-weight: bold; font-size: 110%;">Dealing with Data Repositories<br><br></span>
+                        <div style="font-size: 80%; text-align: left; line-height: 200%; position: relative; left: 100px;">
+                            <ol>
+                                <li style="position: relative; left: 23px;"><a href="https://www.datacite.org/">datacite.org</a> and <a href="http://re3data.org/">re3data.org</a>
+                                <br>
+                                <li style="position: relative; left: 23px;">File Formats
+                                <li style="position: relative; left: 23px;">Metadata
+                                <li style="position: relative; left: 23px;">Open data and licensing
+								<li style="position: relative; left: 23px;">Create and deposit a data package
+                            </ol>
+                        </div>
+                    </div>
+                </section>
+				
+                <section>
+                    <div style="width: 60%; margin-right: 20%; margin-left: auto;">
+                        <span style="font-weight: bold; font-size: 110%;">2. Metadata: Describing Data<br><br></span>
+                        <div style="font-size: 80%; text-align: left; line-height: 200%; position: relative; left: 100px;">
+                            <ul>
+                                <li style="position: relative; left: 23px;">Describing Data (who, what, standards, etc.)
+                                <li style="position: relative; left: 23px;">Describing metadata
+                            </ul>
+                        </div><br><br>
+                    </div>
+                </section>
+				
+			    <section>
+                    <div style="width: 80%; margin-right: 10%; margin-left: auto;">
+                        <span style="font-weight: bold; font-size: 110%;">A love letter to the future<br><br></span><br><br>
+                        <div style="font-size: 80%; text-align: left; line-height: 200%; position: relative; left: 100px;">
+                            <i>"Scientific metadata provide the information necessary for investigators separated by time, space, institution or disciplinary norm to establish common ground."  -  Christine Borgman</i>
+                        </div><br><br>
+                    </div>
+					<div style="position: absolute; bottom: -90px; left: 290px; width: 70%; text-align: left; font-size: 50%; line-height: normal;">Edwards, Mayernik, Betcheller, Bowker, and Borgman (2011). Science friction: Data, metadata, and collaboration. Social Studies of Science  41(5): 667-690. <a href=" http://dx.doi.org/10.1177/0306312711413314">http://dx.doi.org/10.1177/0306312711413314</a></div>
+                </section>
+				
+                <section>
+                    <br><br><br><img src="assets/DataCycle.png" style="max-width: 75%;">
+                    <div style="position: absolute; top: 50px; left: 100px; font-size: 110%; font-weight: bold;">Research Data Cycle</div>
+                    <div style="position: absolute; bottom: -40px; right: 50px; width: 400px; text-align: left; font-size: 50%; line-height: normal;"><a target="_blank" href="http://library.miami.edu/datacuration/">http://library.miami.edu/datacuration/</a></div>
+					<div class="fragment" style="position: absolute; top: 0px; left: 0px; width:100%; height:100%;"><object data="assets/metadataArrows.svg" type="image/svg+xml"></object></div>
+                </section>
+				
+				<section>
+                    <div style="width: 80%; margin-right: 10%; margin-left: auto;">
+                        <span style="font-weight: bold; font-size: 110%;">Working with data<br><br></span>
+                        <div style="font-size: 80%; text-align: center; line-height: 100%; position: relative; left: 20px;">
+						    <ul><li class="fragment">When you <i><b>provide</b></i> data to someone else, what types of information would you want to include with the data?</ul><br><br>
+                            <img src="assets/computerDataSharing.png" style="max-width: 600px"><br><br>
+							<ul><li class="fragment">When you <i><b>receive</b></i> a dataset from an external source, what types of details do you want to know about the data?</ul>
+                        </div>
+                    </div>
+					<div style="position: absolute; bottom: -90px; left: 420px; width: 100%; text-align: left; font-size: 50%; line-height: normal;">DataONE Education Module: Lesson 07: Metadata. DataONE.<br><a href="https://www.dataone.org/education-modules">https://www.dataone.org/education-modules</a></div>
+                </section>
+				
+			    <section>
+                    <div style="width: 80%; margin-right: 5%; margin-left: auto;">
+                        <span style="font-weight: bold; font-size: 110%; margin-left: -20%;">Working with data<br><br></span>
+                        <div style="font-size: 80%; text-align: left; line-height: 120%; ">
+                            <table style="border: none"><tbody><tr><td>
+							    Providing data<br><br>
+								<div style="font-size: 80%;">
+                                <ul>
+								    <li>Why were the data created?
+								    <li>What limitations, if any, do the data have?
+								    <li>What does the data mean?
+								    <li>How should the data be cited?
+							    </div>
+							</td><td>
+							    Receiving data<br><br>
+								<div style="font-size: 80%;">
+                                <ul>
+								    <li>What are the data gaps?
+								    <li><b>What processes were used for creating the data</b>
+								    <li>Are there any fees associated with the data?
+								    <li>In what scale were the data created?
+								    <li>What do the values in the tables mean (data dictionary)?
+									<li>What software do I need to use the data?
+								    <li>What projection are the data in (geospatial data)?
+								    <li>Can I give these data to someone else?
+							    </div>
+							</td></tr></tbody></table>
+                        </div>
+                    </div>
+					<div style="position: absolute; bottom: -90px; left: 420px; width: 100%; text-align: left; font-size: 50%; line-height: normal;">DataONE Education Module: Lesson 07: Metadata. DataONE.<br><a href="https://www.dataone.org/education-modules">https://www.dataone.org/education-modules</a></div>
+                </section>
+				
+				<section>
+                    <div style="width: 60%; margin-right: 20%; margin-left: auto;">
+                        <span style="font-weight: bold; font-size: 110%;">What is Metadata?<br><br></span>
+						<span style="font-weight: bold; font-size: 90%;">Metadata is data 'reporting'<br><br></span>
+                        <div style="font-size: 80%; text-align: left; line-height: 200%; position: relative; left: 250px;">
+                            <ol>
+                                <li style="position: relative; left: 23px;">WHO created the data?
+                                <li style="position: relative; left: 23px;">WHAT is the content of the data?
+                                <li style="position: relative; left: 23px;">WHEN were the data created?
+								<li style="position: relative; left: 23px;">WHERE is the data geographically?
+                                <li style="position: relative; left: 23px;">HOW were the data developed?
+								<li style="position: relative; left: 23px;">WHY were the data developed?
+                            </ol>
+                        </div>
+                    </div>
+					<div style="position: absolute; bottom: -90px; left: 420px; width: 100%; text-align: left; font-size: 50%; line-height: normal;">DataONE Education Module: Lesson 07: Metadata. DataONE.<br><a href="https://www.dataone.org/education-modules">https://www.dataone.org/education-modules</a></div>
+                </section>
+
+				<section>
+                    <div style="width: 90%; margin-right: 5%; margin-left: auto;">
+                        <span style="font-weight: bold; font-size: 110%;">Metadata you already know<br></span>
+                        <div style="font-size: 40%; text-align: center; line-height: 100%;">
+                            <img src="assets/metadataHuman.jpg" style="max-width: 1000px">
+                        </div>
+                    </div>
+					<div style="position: absolute; bottom: 0px; left: 850px; width: 100%; text-align: left; font-size: 90%; line-height: normal;">Human readable</div>
+                </section>
+				
+				<section>
+                    <div style="width: 90%; margin-right: 5%; margin-left: auto;">
+                        <span style="font-weight: bold; font-size: 110%;">Metadata you already know<br></span>
+                        <div style="font-size: 40%; text-align: center; line-height: 100%;">
+                            <img src="assets/metadataMachine.jpg" style="max-width: 1000px">
+                        </div>
+                    </div>
+					<div style="position: absolute; bottom: -60px; left: 850px; width: 100%; text-align: left; font-size: 90%; line-height: normal;">Machine readable</div>
+                </section>
+				
+                <section>
+                    <div style="width: 60%; margin-right: 20%; margin-left: auto;">
+                        <span style="font-weight: bold; font-size: 110%;">Describing Metadata<br><br></span>
+                        <div style="font-size: 80%; text-align: left; line-height: 120%; position: relative; left: 100px;">
+							    Descriptive
+								<div style="font-size: 80%;">
+                                <ul>
+								    <li>Project: Describe the overall project (author, date, place, etc.)
+								    <li>Technical: Describe individual project elements (tables, column headers, etc.)
+							    </div><br>
+							    Structural
+								<div style="font-size: 80%;">
+                                <ul>
+								    <li>Describe how different elements of the data(set) fit together
+							    </div><br>
+							    Administrative
+								<div style="font-size: 80%;">
+                                <ul>
+								    <li>Rights Management
+									<li>Preservation
+							    </div>
+                        </div>
+                    </div>
+					<div style="position: absolute; bottom: -90px; width: 100%; text-align: center; font-size: 50%; line-height: normal;">National Information Standards Organization (NISO) (2004). Understanding Metadata.<br><a href="http://www.niso.org/publications/press/UnderstandingMetadata.pdf">http://www.niso.org/publications/press/UnderstandingMetadata.pdf</a></div>
+                </section>
+				
+                <section>
+                    <div style="width: 80%; margin-right: 10%; margin-left: auto;">
+                        <span style="font-weight: bold; font-size: 110%;">Standards and Schemas<br><br></span>
+                        <div style="font-size: 80%; text-align: left; line-height: 120%;">
+							    Idea of standardized set of elements
+								<div style="font-size: 80%;">
+                                <ul>
+								    <li>Minimal to maximal, depends on purpose, audience, domain, and structure
+							    </div><br>
+							    Dublin Core
+								<div style="font-size: 80%;">
+                                <ul>
+								    <li>One of the most common – not Dublin Ireland
+								    <li>Used as a starting point for many other schema
+							    </div><br>
+								<div style="font-size: 80%; width: 90%; position: relative; left: 50px;">
+                                <i>The <b>Dublin Core Metadata Element Set</b> is a vocabulary of <b>fifteen properties</b> for use in resource description. The name "Dublin" is due to its origin at a <b>1995 invitational workshop in Dublin, Ohio</b>; "core" because its elements are broad and generic, usable for describing a wide range of resources.</i>
+							    </div>
+                        </div>
+                    </div>
+					<div style="position: absolute; bottom: -90px; width: 100%; text-align: center; font-size: 50%; line-height: normal;"><a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a></div>
+                </section>
+                <section>
+                    <div style="width: 80%; position: absolute; left: 70px; text-align: left; line-height: 100%;">
+                        <span style="font-weight: bold; font-size: 110%;">DC<br><br></span>
+                        <span style="font-size: 70%;">
+                          Title<br>Creator<br>Subject<br>Description<br>Publisher<br>Contributor<br>Date<br>Type<br>Format<br>Identifier<br>Source<br>Language<br>Relation<br>Coverage<br>Rights
+                        </span>
+					</div>
+					<div style="width: 80%; position: absolute; left: 310px; text-align: left; line-height: 100%;">
+                        <span style="font-weight: bold; font-size: 110%;">DC Example<br><br></span>
+						<span style="font-size: 70%;">
+                          Title=<br>
+						  Creator=<br>
+						  Creator=<br>
+						  Creator=<br>
+						  Subject=<br>
+						  Description=<br>
+						  Publisher=<br>
+						  Publisher=<br>
+						  Date=<br>
+						  Type=<br>
+						  Format=<br>
+						  Identifier=<br>
+						  Language=
+                        </span>
+                    </div>
+					<div style="width: 80%; position: absolute; left: 500px; text-align: left; line-height: 100%;">
+                        <span style="font-weight: bold; font-size: 110%;">&nbsp;<br><br></span>
+						<span style="font-size: 70%;">
+                          ”Metadata Demystified”<br>
+						  ”Brand, Amy”<br>
+						  ”Daly, Frank”<br>
+						  "Meyers, Barbara”<br>
+						  ”metadata”<br>
+						  ”Presents an overview of metadata conventions in publishing.”<br>
+						  ”NISO Press”<br>
+						  ”The Sheridan Press”<br>
+						  ”2003-07"<br>
+						  ”Text”<br>
+						  ”application/pdf”<br>
+						  ”http://www.niso.org/standards/resources/Metadata_Demystified.pdf”<br>
+						  ”en”
+                        </span>
+                    </div>
+					<div style="position: absolute; bottom: -690px; left: 800px; width: 100%; text-align: left; font-size: 50%; line-height: normal;"><a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a></div>
+                </section>
+				
+                <section>
+                    <div style="width: 80%; margin-right: 10%; margin-left: auto;">
+                        <span style="font-weight: bold; font-size: 110%;">Metadata Review<br><br></span>
+                        <div style="font-size: 80%; text-align: left; line-height: 120%; position: relative; left: 150px;">
+							    metadata is a description of your data for a future user (you perhaps?)
+								<div style="font-size: 80%;">
+                                <ul>
+								    <li>What does this person need to know to use the data <i>properly</i>?
+								    <li>Does this person need discipline specific knowledge? How much?
+							    </div><br>
+							    Two general kinds of descriptive metadata
+								<div style="font-size: 80%;">
+                                <ul>
+								    <li>Project level (contextual)
+								    <li>Technical (data level, units, headers, etc.)
+							    </div><br>
+							    How will the metadata be captured
+								<div style="font-size: 80%;">
+                                <ul>
+								    <li>Notebooks (electronic??)
+									<li>Device Capture
+							    </div><br>
+							    What format (with justification)
+								<div style="font-size: 80%;">
+                                <ul>
+								    <li>Discipline specific standard? Other standard? 
+									<li>Machine  or human readable (both?)
+							    </div>
+                        </div>
+                    </div>
+                </section>
+				
+				<section>
+                    <div style="width: 60%; margin-right: 20%; margin-left: auto;">
+                        <span style="font-weight: bold; font-size: 110%;">Licensing<br><br></span>
+                        <div style="font-size: 80%; text-align: left; line-height: 200%; position: relative; left: 250px;">
+                            <ol>
+                                <li style="position: relative; left: 23px;">Creative Commons?
+                            </ol>
+                        </div>
+                    </div>
+					<div style="position: absolute; bottom: -90px; left: 130px; width: 100%; text-align: left; font-size: 50%; line-height: normal;">for data?</div>
+                </section>
+				
+				<section>
+                    <div style="width: 60%; margin-right: 20%; margin-left: auto;">
+                        <span style="font-weight: bold; font-size: 110%;">The deposit package<br><br></span>
+                        <div style="font-size: 80%; text-align: left; line-height: 200%; position: relative; left: 250px;">
+                            <ol>
+                                <li style="position: relative; left: 23px;">organized data
+                                <li style="position: relative; left: 23px;">README
+                                <li style="position: relative; left: 23px;">checksum
+                            </ol>
+                        </div>
+                    </div>
+					<div style="position: absolute; bottom: -90px; left: 130px; width: 100%; text-align: left; font-size: 50%; line-height: normal;">all in a zip file - perhaps?</div>
+                </section>
 
 				<section>
                     <div style="width: 50%; margin-right: 25%; margin-left: auto;">
