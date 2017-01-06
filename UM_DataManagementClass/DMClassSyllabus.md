@@ -376,7 +376,7 @@ here?*
 
 > If time permits we will do an introductory lab on Structured Query Language (SQL) [*http://swcarpentry.github.io/sql-novice-survey/*](http://swcarpentry.github.io/sql-novice-survey/).
 
-*__Week 10:__ Introduction to Python*
+*__Week 12:__ Introduction to Python*
 
 > Introduction to Python and Jupyter notebooks in the research environment
 
