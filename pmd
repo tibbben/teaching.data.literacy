@@ -6,4 +6,4 @@ done
 git add .
 git commit -m 'update md from master'
 git push origin gh-pages
-git checkout master
+#git checkout master
