@@ -1,7 +1,7 @@
 #!/bin/sh
 for mdFile in $(find . -name "*.md" | grep -v LICENSE | grep -v README); 
 do 
-  echo $mdFile;
+  echo -n $mdFile ... ;
   git checkout -qp master -- $mdFile; 
 done
 git add .
