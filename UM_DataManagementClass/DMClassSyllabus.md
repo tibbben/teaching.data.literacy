@@ -139,9 +139,9 @@ here?*
     Long Term Ecological Research (LTER) Network. Computer Supported
     Cooperative Work (CSCW), 15(4), 321-358.
     [*https://dx.doi.org/10.1007/s10606-006-9023-2*](https://dx.doi.org/10.1007/s10606-006-9023-2).
--   Gantz, J., & Reinsel, D. (2012). "The Digital Universe in 2020: Big Data, Bigger Digital Shadows, and Biggest Growth in the Far East." Retrieved from [https://www.emc.com/collateral/analyst-reports/idc-the-digital-universe-in-2020.pdf](https://www.emc.com/collateral/analyst-reports/idc-the-digital-universe-in-2020.pdf). 
+-   Gantz, J., & Reinsel, D. (2012). "The Digital Universe in 2020: Big Data, Bigger Digital Shadows, and Biggest Growth in the Far East." Retrieved from [https://www.emc.com/collateral/analyst-reports/idc-the-digital-universe-in-2020.pdf](https://www.emc.com/collateral/analyst-reports/idc-the-digital-universe-in-2020.pdf).
 
-> [slide deck](slides/slides01.html) | [...](lessons/lesson01.html)
+> [slide deck](slides/slides01.html) [...](lessons/lesson01.html)
 
 *__Week 2:__ The Research Data Lifecycle*
 
