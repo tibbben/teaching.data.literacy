@@ -11,33 +11,6 @@
         <div class="reveal">
             <div class="slides">
 
-
-                <section data-background-color="#99cdef">
-hello there
-<canvas data-chart="line">
-<!-- 
-{
- "data": {
-  "labels": ["2005","2006","2007","2008","2009","2010"],
-  "datasets": [
-   {
-    "data":[134072,185070,246274,330115,439062,601432],
-    "label":"Available Storage","backgroundColor":"rgba(20,220,220,.8)"
-   },
-   {
-    "data":[113493,160958,255287,413758,652250,987742],
-    "label":"Information","backgroundColor":"rgba(220,120,120,.8)"
-   }
-  ]
- }, 
- "options": { "responsive": "true" }
-}
--->
-</canvas>
-
-                </section>
-
-
                 <section data-background-image="../../common/assets/DataCurationCover.png">
                     <div style="position: absolute; left: 340px; top: 130px; font-size: 160%"><strong>Data Management in the<br>Research Environment</strong></div>
                     <div style="position: absolute; left: 750px; top: 300px; font-size: 90%">RSM 674 Spring <script>var today = new Date();document.write(today.getFullYear());</script></div>
@@ -148,7 +121,6 @@ hello there
                     </div>
                 </section>
 
-
                 <section data-background-color="#99cdef">
                     <div style="float: right"><img src="../../common/assets/BigData.png" style="max-width: 700px; !important; position: relative; right: 280px;"></div>
                     <div style="position: absolute; top: 150px; left: 150px; font-weight: bold; font-size: 110%;">Big Data</div>
@@ -156,10 +128,64 @@ hello there
                 </section>
 
                 <section>
+                    <span style="font-weight: bold; font-size: 110%;">The World of Data Around Us<br><br></span>
+                    <div style="width: 850px; height: 600px; position: absolute; top 200px; left: 50px;">
+                        <canvas data-chart="line">
+<!-- 
+{
+ "data": {
+  "labels": ["2005","2006","2007","2008","2009","2010"],
+  "datasets": [
+   {
+    "data":[134072,185070,246274,330115,439062,601432],
+    "label":"Available Storage",
+    "borderColor":"rgba(20,120,120,.8)",
+    "backgroundColor":"rgba(0,0,0,0)"
+   },
+   {
+    "data":[113493,160958,255287,413758,652250,987742],
+    "label":"Information",
+    "borderColor":"rgba(220,120,120,.8)",
+    "backgroundColor":"rgba(0,0,0,0)"
+   }
+  ]
+ }, 
+ "options": { "responsive": "true", "title": { "display": true, "text": "Growth in Petabytes" }, "legend": { "position": "bottom", "labels": { "boxWidth": 13 } } }
+}
+-->
+                        </canvas>
+                    </div>
+                    <div style="width: 400px; height: 400px; position: absolute; top: 300px; left: 950px;">                    
+                        <canvas data-chart="pie">
+<!-- 
+{
+ "data": {
+  "labels": ["Tape","Optical","Other","Disk"],
+  "datasets": [
+   {
+    "data":[21,22,1,56],
+    "backgroundColor": [ "rgba(220,20,20,.8)", "rgba(20,220,20,.8)", "rgba(220,220,20,.8)", "rgba(20,20,220,.8)" ]
+   }
+  ]
+ }, 
+ "options": { "responsive": "true", "title": { "display": true, "text": "264 Exabytes in 2007" }, "legend": { "position": "bottom", "labels": { "boxWidth": 13 } } }
+}
+-->
+                        </canvas>
+                    </div>
+                    <div style="font-size: 40%; color: #555; position: absolute; left: 280px; top: 605px">Source: John Gantz, IDC Corporation: The Expanding Digital Universe</div>
+                    <div style="font-size: 40%; color: #555; position: absolute; left: 800px; top: 580px">slide from <img src="../../common/assets/DataOne_LOGO.jpg" width="300"></div>
+                    <aside class="notes">
+                        The amount of available storage is not keeping up with the amount of data flooding in daily. How do we decide what data we keep? 
+                        This source is a little sketchy ... but DataOne put it out
+                    </aside>
+                </section>
+                
+                <section>
                     <img src="../../common/assets/OracleData.png" style="max-width: 800px;">
                     <div style="position: absolute; bottom: -60px; width: 100%; text-align: center; font-size: 50%; line-height: normal;">Navarro, Fran (2014). Foco en Almacenamiento. <a target="_blank" href="http://www.slideshare.net/franmod/tendencias-storage">http://www.slideshare.net/franmod/tendencias-storage</a>. Slide 42.</div>
                 </section>
-
+                
                 <section data-background-image="../../common/assets/matrix.jpg" style="color: #92d050 !important;">
                     <div style="background-color: rgba(0, 0, 0, 0.7); width: 80%; margin-right: 10%; margin-left: 10%;">
                         <br><span style="font-weight: bold; font-size: 110%; position: relative; left: -100px;">Why Manage Data</span><br><br>
@@ -670,9 +696,41 @@ hello there
             </div>
         </div>
         <script src="../../common/java/reveal.js"></script>
-	<script src="../../common/java/notes.js"></script>
+	    <script src="../../common/java/notes.js"></script>
+	    <script src="../../common/java/head.min.js"></script>
         <script>
-            Reveal.initialize({width: 1366, height: 768, margin: 0.05, dependencies: [{ src: '../../common/java/Chart.min.js' },{ src: '../../common/java/csv2chart.js' }] });
+            Reveal.initialize({
+                width: 1366, height: 768, margin: 0.05,
+                controls: true,
+				progress: true,
+				history: true,
+				center: true,
+				mouseWheel: true,
+				chart: {
+					defaults: { 
+						global: { 
+							defaultFontSize: 20,
+							title: { fontColor: "#333" }, 
+							legend: {
+								position: "top",
+								labels: { fontColor: "#333" },
+							},
+							tooltips: {
+								labels: { fontColor: "#333" },
+							},
+						}, 
+						scale: { 
+							scaleLabel: { fontColor: "#333" }, 
+							gridLines: { color: "#333", zeroLineColor: "#333" }, 
+							ticks: { fontColor: "#333" }, 
+						} 
+					},
+				},
+                dependencies: [
+                    { src: '../../common/java/Chart.min.js' },
+                    { src: '../../common/java/csv2chart.js' }
+                ] 
+            });
         </script>
     </body>
 </html>
